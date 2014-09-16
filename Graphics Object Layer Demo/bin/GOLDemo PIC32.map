@@ -1,0 +1,2335 @@
+Archive member included because of file (symbol)
+
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(general-exception.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size/crt0.o (_general_exception_context)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(exit.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size/crt0.o (exit)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc.o)
+                              obj\CustomControlDemo.o (malloc)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc_free.o)
+                              obj\GOL.o (free)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(errno.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc.o) (errno)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobdata.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(exit.o) (_libc_data)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobdata.o) (_filbuf_simple)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(exit.o) (pthread_mutex_lock)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc.o) (getpagesize)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-general-exception-handler.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(general-exception.o) (_general_exception_handler)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size/crt0.o (_bootstrap_exception_handler)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size/crt0.o (_on_reset)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size/crt0.o (_on_bootstrap)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-nmi-handler.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size/crt0.o (_nmi_handler)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_getc.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o) (_mon_getc)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_write.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o) (_mon_write)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_exit.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(exit.o) (_exit)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(memset.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o) (memset)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_putc.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_write.o) (_mon_putc)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(cos32.o)
+                              obj\Meter.o (cos)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(sin32.o)
+                              obj\Meter.o (sin)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(reduct32.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(cos32.o) (reduct)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(sincos32.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(cos32.o) (sincon)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(func32.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(cos32.o) (sigmax)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(dp32.o)
+                              obj\Meter.o (dpmul)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(w_sqrt.o)
+                              obj\RoundDial.o (sqrt)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(fp32.o)
+                              obj\Meter.o (fpmul)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(s_lib_ver.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(w_sqrt.o) (math_errhandling)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(sqrt32.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(w_sqrt.o) (__mchp_sqrt)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral.a(open_core_timer_lib.o)
+                              obj\DisplayDriver.o (OpenCoreTimer)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+                              obj\MainDemo.o (CheKseg0CacheOn)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+                              obj\MainDemo.o (INTDisableInterrupts)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+                              obj\MainDemo.o (INTRestoreInterrupts)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+                              obj\MainDemo.o (INTEnableSystemMultiVectoredInt)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_init_lib.o)
+                              obj\rtcc.o (RtccInit)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_date_lib.o)
+                              obj\rtcc.o (RtccSetDate)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_time_lib.o)
+                              obj\rtcc.o (RtccSetTime)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(idle_i2c1_lib_legacy.o)
+                              obj\SerialEEPROM.o (IdleI2C1)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_read_i2c1_lib_legacy.o)
+                              obj\SerialEEPROM.o (MasterReadI2C1)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_write_i2c1_lib_legacy.o)
+                              obj\SerialEEPROM.o (MasterWriteI2C1)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o) (INTEnableInterrupts)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_init_lib.o) (INTClearFlag)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_set_time_and_date_lib.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_date_lib.o) (_RtccSetTimeAndDate)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_wait_clock_off_lib.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_init_lib.o) (_RtccWaitClockOff)
+D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(read_core_timer_lib.o)
+                              D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_wait_clock_off_lib.o) (ReadCoreTimer)
+
+Allocating common symbols
+Common symbol       size              file
+
+_cursorY            0x2               obj\Primitive.o
+pProgressBar        0x4               obj\MainDemo.o
+alt5Scheme          0x4               obj\MainDemo.o
+_rpnlX2             0x2               obj\GOL.o
+x                   0x2               obj\MainDemo.o
+redScheme           0x4               obj\MainDemo.o
+_fontOrientation    0x1               obj\Primitive.o
+_fontFirstChar      0x2               obj\Primitive.o
+alt3Scheme          0x4               obj\MainDemo.o
+navScheme           0x4               obj\MainDemo.o
+_rpnlR              0x2               obj\GOL.o
+pDwnBottom          0x2               obj\MainDemo.o
+_rtcc_flag          0x1               obj\rtcc.o
+altScheme           0x4               obj\MainDemo.o
+_clipRgn            0x2               obj\DisplayDriver.o
+_fontHeight         0x2               obj\Primitive.o
+pNavList            0x4               obj\MainDemo.o
+tempBuffer          0x14              obj\MainDemo.o
+_cursorX            0x2               obj\Primitive.o
+_rpnlX1             0x2               obj\GOL.o
+_fontLastChar       0x2               obj\Primitive.o
+_font               0x4               obj\Primitive.o
+greenScheme         0x4               obj\MainDemo.o
+_lineType           0x2               obj\Primitive.o
+pPicture            0x4               obj\MainDemo.o
+ecgBuffer           0x200             obj\MainDemo.o
+_clipRight          0x2               obj\DisplayDriver.o
+pGenObj             0x4               obj\MainDemo.o
+DateItemID          0x2               obj\MainDemo.o
+buffer              0x200             obj\MainDemo.o
+pSlider             0x4               obj\MainDemo.o
+pDwnLeft            0x2               obj\MainDemo.o
+_clipBottom         0x2               obj\DisplayDriver.o
+_time               0x10              obj\rtcc.o
+_rpnlEmbossDkColor  0x2               obj\GOL.o
+timeScheme          0x4               obj\MainDemo.o
+alt4Scheme          0x4               obj\MainDemo.o
+_rpnlEmbossSize     0x2               obj\GOL.o
+y                   0x2               obj\MainDemo.o
+_clipTop            0x2               obj\DisplayDriver.o
+_time_chk           0x10              obj\rtcc.o
+_color              0x2               obj\DisplayDriver.o
+_clipLeft           0x2               obj\DisplayDriver.o
+pDwnRight           0x2               obj\MainDemo.o
+alt2Scheme          0x4               obj\MainDemo.o
+_rpnlY2             0x2               obj\GOL.o
+_rpnlEmbossLtColor  0x2               obj\GOL.o
+meterScheme         0x4               obj\MainDemo.o
+potBuffer           0x280             obj\MainDemo.o
+_rpnlFaceColor      0x2               obj\GOL.o
+animate             0x1               obj\MainDemo.o
+_rpnlY1             0x2               obj\GOL.o
+_lineThickness      0x1               obj\Primitive.o
+pListSaved          0x4               obj\MainDemo.o
+yellowScheme        0x4               obj\MainDemo.o
+pDwnTop             0x2               obj\MainDemo.o
+dateTimeStr         0x1a              obj\MainDemo.o
+
+Microchip PIC32 Memory-Usage Report
+
+kseg0 Program-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.text                   0x9d000000        0x17900       96512  Application's executable code 
+.rodata                 0x9d017900         0xb460       46176  Read-only constant data 
+.data                   0x9d022d60          0x8bc        2236  Data-initialization template 
+.sdata                  0x9d02361c          0x160         352  Small data-initialization template 
+      Total kseg0_program_mem used  :     0x2377c      145276  27.7% of 0x80000
+
+kseg0 Boot-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.startup                0x9fc00490          0x1e0         480  C startup code 
+         Total kseg0_boot_mem used  :       0x1e0         480  19.9% of 0x970
+
+Exception-Memory Usage 
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.app_excpt              0x9fc01180           0x10          16  General-Exception handler 
+.vector_12              0x9fc01380            0x8           8  Interrupt Vector 12 
+.vector_16              0x9fc01400            0x8           8  Interrupt Vector 16 
+          Total exception_mem used  :        0x20          32  0.8% of 0x1000
+
+kseg1 Boot-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.reset                  0xbfc00000           0x10          16  Reset handler 
+.bev_excpt              0xbfc00380           0x10          16  BEV-Exception handler 
+         Total kseg1_boot_mem used  :        0x20          32  2.7% of 0x490
+        --------------------------------------------------------------------------
+         Total Program Memory used  :     0x2399c      145820  27.4% of 0x81e00
+        --------------------------------------------------------------------------
+
+
+kseg1 Data-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.data                   0xa0000000          0x8bc        2236  Initialized data 
+.sdata                  0xa00008bc          0x160         352  Small initialized data 
+.sbss                   0xa0000a1c          0x1f0         496  Small uninitialized data 
+.bss                    0xa0000c0c          0x7ec        2028  Uninitialized data 
+.heap                   0xa00013f8         0x2000        8192  Dynamic Memory heap 
+.stack                  0xa00033f8          0x800        2048  Minimum space reserved for stack 
+         Total kseg1_data_mem used  :      0x3bf8       15352  46.9% of 0x8000
+        --------------------------------------------------------------------------
+            Total Data Memory used  :      0x3bf8       15352  46.9% of 0x8000
+        --------------------------------------------------------------------------
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+kseg0_program_mem 0x9d000000         0x00080000         xr
+kseg0_boot_mem   0x9fc00490         0x00000970
+exception_mem    0x9fc01000         0x00001000
+kseg1_boot_mem   0xbfc00000         0x00000490
+debug_exec_mem   0xbfc02000         0x00000ff0
+config3          0xbfc02ff0         0x00000004
+config2          0xbfc02ff4         0x00000004
+config1          0xbfc02ff8         0x00000004
+config0          0xbfc02ffc         0x00000004
+kseg1_data_mem   0xa0000000         0x00008000         w !x
+sfrs             0xbf800000         0x00100000
+configsfrs       0xbfc02ff0         0x00000010
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size/crt0.o
+LOAD obj\TouchScreen.o
+LOAD obj\CustomControlDemo.o
+LOAD obj\Fonts.o
+LOAD obj\MainDemo.o
+LOAD obj\SideButtons.o
+LOAD obj\rtcc.o
+LOAD obj\Pictures C32.o
+LOAD obj\Window.o
+LOAD obj\Button.o
+LOAD obj\Chart.o
+LOAD obj\CheckBox.o
+LOAD obj\EditBox.o
+LOAD obj\GOL.o
+LOAD obj\GOLFontDefault.o
+LOAD obj\Grid.o
+LOAD obj\GroupBox.o
+LOAD obj\ListBox.o
+LOAD obj\Meter.o
+LOAD obj\Picture.o
+LOAD obj\Primitive.o
+LOAD obj\ProgressBar.o
+LOAD obj\RadioButton.o
+LOAD obj\RoundDial.o
+LOAD obj\Slider.o
+LOAD obj\StaticText.o
+LOAD obj\DisplayDriver.o
+LOAD obj\DigitalMeter.o
+LOAD obj\Monofont.o
+LOAD obj\SerialEEPROM.o
+                0x00000001                __MPLAB_BUILD = 0x1
+                0x00002000                _min_heap_size = 0x2000
+                0x00000800                _min_stack_size = 0x800
+LOAD D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/size\libgcc.a
+START GROUP
+LOAD D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libdebug.a
+LOAD D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a
+LOAD D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a
+LOAD D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libe.a
+LOAD D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libdsp.a
+LOAD D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral.a
+LOAD D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a
+END GROUP
+LOAD D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/size\libgcc.a
+                0x00000400                PROVIDE (_min_stack_size, 0x400)
+                0x00000000                PROVIDE (_min_heap_size, 0x0)
+LOAD D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/./proc/32MX460F512L\processor.o
+                0x00000001                PROVIDE (_vector_spacing, 0x1)
+                0x9fc01000                _ebase_address = 0x9fc01000
+                0xbfc00000                _RESET_ADDR = 0xbfc00000
+                0xbfc00380                _BEV_EXCPT_ADDR = 0xbfc00380
+                0xbfc00480                _DBG_EXCPT_ADDR = 0xbfc00480
+                0xbfc02000                _DBG_CODE_ADDR = 0xbfc02000
+                0x9fc01180                _GEN_EXCPT_ADDR = (_ebase_address + 0x180)
+
+.config_BFC02FF0
+ *(.config_BFC02FF0)
+
+.config_BFC02FF4
+                0xbfc02ff4        0x4
+ *(.config_BFC02FF4)
+ .config_BFC02FF4
+                0xbfc02ff4        0x4 obj\MainDemo.o
+
+.config_BFC02FF8
+                0xbfc02ff8        0x4
+ *(.config_BFC02FF8)
+ .config_BFC02FF8
+                0xbfc02ff8        0x4 obj\MainDemo.o
+
+.config_BFC02FFC
+                0xbfc02ffc        0x4
+ *(.config_BFC02FFC)
+ .config_BFC02FFC
+                0xbfc02ffc        0x4 obj\MainDemo.o
+
+.reset          0xbfc00000       0x10
+ *(.reset)
+ .reset         0xbfc00000       0x10 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size/crt0.o
+                0xbfc00000                _reset
+
+.bev_excpt      0xbfc00380       0x10
+ *(.bev_handler)
+ .bev_handler   0xbfc00380       0x10 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size/crt0.o
+
+.dbg_excpt      0xbfc00480        0x0
+                0xbfc00480                . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
+
+.dbg_code       0xbfc02000        0x0
+                0xbfc02000                . = (. + DEFINED (_DEBUGGER)?0xff0:0x0)
+
+.app_excpt      0x9fc01180       0x10
+ *(.gen_handler)
+ .gen_handler   0x9fc01180       0x10 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size/crt0.o
+
+.vector_0       0x9fc01200        0x0
+ *(.vector_0)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_0) <= (_vector_spacing << 0x5))), function at exception vector 0 too large)
+
+.vector_1       0x9fc01220        0x0
+ *(.vector_1)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_1) <= (_vector_spacing << 0x5))), function at exception vector 1 too large)
+
+.vector_2       0x9fc01240        0x0
+ *(.vector_2)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_2) <= (_vector_spacing << 0x5))), function at exception vector 2 too large)
+
+.vector_3       0x9fc01260        0x0
+ *(.vector_3)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_3) <= (_vector_spacing << 0x5))), function at exception vector 3 too large)
+
+.vector_4       0x9fc01280        0x0
+ *(.vector_4)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_4) <= (_vector_spacing << 0x5))), function at exception vector 4 too large)
+
+.vector_5       0x9fc012a0        0x0
+ *(.vector_5)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_5) <= (_vector_spacing << 0x5))), function at exception vector 5 too large)
+
+.vector_6       0x9fc012c0        0x0
+ *(.vector_6)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_6) <= (_vector_spacing << 0x5))), function at exception vector 6 too large)
+
+.vector_7       0x9fc012e0        0x0
+ *(.vector_7)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_7) <= (_vector_spacing << 0x5))), function at exception vector 7 too large)
+
+.vector_8       0x9fc01300        0x0
+ *(.vector_8)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_8) <= (_vector_spacing << 0x5))), function at exception vector 8 too large)
+
+.vector_9       0x9fc01320        0x0
+ *(.vector_9)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_9) <= (_vector_spacing << 0x5))), function at exception vector 9 too large)
+
+.vector_10      0x9fc01340        0x0
+ *(.vector_10)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_10) <= (_vector_spacing << 0x5))), function at exception vector 10 too large)
+
+.vector_11      0x9fc01360        0x0
+ *(.vector_11)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_11) <= (_vector_spacing << 0x5))), function at exception vector 11 too large)
+
+.vector_12      0x9fc01380        0x8
+ *(.vector_12)
+ .vector_12     0x9fc01380        0x8 obj\TouchScreen.o
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_12) <= (_vector_spacing << 0x5))), function at exception vector 12 too large)
+
+.vector_13      0x9fc013a0        0x0
+ *(.vector_13)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_13) <= (_vector_spacing << 0x5))), function at exception vector 13 too large)
+
+.vector_14      0x9fc013c0        0x0
+ *(.vector_14)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_14) <= (_vector_spacing << 0x5))), function at exception vector 14 too large)
+
+.vector_15      0x9fc013e0        0x0
+ *(.vector_15)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_15) <= (_vector_spacing << 0x5))), function at exception vector 15 too large)
+
+.vector_16      0x9fc01400        0x8
+ *(.vector_16)
+ .vector_16     0x9fc01400        0x8 obj\MainDemo.o
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_16) <= (_vector_spacing << 0x5))), function at exception vector 16 too large)
+
+.vector_17      0x9fc01420        0x0
+ *(.vector_17)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_17) <= (_vector_spacing << 0x5))), function at exception vector 17 too large)
+
+.vector_18      0x9fc01440        0x0
+ *(.vector_18)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_18) <= (_vector_spacing << 0x5))), function at exception vector 18 too large)
+
+.vector_19      0x9fc01460        0x0
+ *(.vector_19)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_19) <= (_vector_spacing << 0x5))), function at exception vector 19 too large)
+
+.vector_20      0x9fc01480        0x0
+ *(.vector_20)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_20) <= (_vector_spacing << 0x5))), function at exception vector 20 too large)
+
+.vector_21      0x9fc014a0        0x0
+ *(.vector_21)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_21) <= (_vector_spacing << 0x5))), function at exception vector 21 too large)
+
+.vector_22      0x9fc014c0        0x0
+ *(.vector_22)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_22) <= (_vector_spacing << 0x5))), function at exception vector 22 too large)
+
+.vector_23      0x9fc014e0        0x0
+ *(.vector_23)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_23) <= (_vector_spacing << 0x5))), function at exception vector 23 too large)
+
+.vector_24      0x9fc01500        0x0
+ *(.vector_24)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_24) <= (_vector_spacing << 0x5))), function at exception vector 24 too large)
+
+.vector_25      0x9fc01520        0x0
+ *(.vector_25)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_25) <= (_vector_spacing << 0x5))), function at exception vector 25 too large)
+
+.vector_26      0x9fc01540        0x0
+ *(.vector_26)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_26) <= (_vector_spacing << 0x5))), function at exception vector 26 too large)
+
+.vector_27      0x9fc01560        0x0
+ *(.vector_27)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_27) <= (_vector_spacing << 0x5))), function at exception vector 27 too large)
+
+.vector_28      0x9fc01580        0x0
+ *(.vector_28)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_28) <= (_vector_spacing << 0x5))), function at exception vector 28 too large)
+
+.vector_29      0x9fc015a0        0x0
+ *(.vector_29)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_29) <= (_vector_spacing << 0x5))), function at exception vector 29 too large)
+
+.vector_30      0x9fc015c0        0x0
+ *(.vector_30)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_30) <= (_vector_spacing << 0x5))), function at exception vector 30 too large)
+
+.vector_31      0x9fc015e0        0x0
+ *(.vector_31)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_31) <= (_vector_spacing << 0x5))), function at exception vector 31 too large)
+
+.vector_32      0x9fc01600        0x0
+ *(.vector_32)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_32) <= (_vector_spacing << 0x5))), function at exception vector 32 too large)
+
+.vector_33      0x9fc01620        0x0
+ *(.vector_33)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_33) <= (_vector_spacing << 0x5))), function at exception vector 33 too large)
+
+.vector_34      0x9fc01640        0x0
+ *(.vector_34)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_34) <= (_vector_spacing << 0x5))), function at exception vector 34 too large)
+
+.vector_35      0x9fc01660        0x0
+ *(.vector_35)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_35) <= (_vector_spacing << 0x5))), function at exception vector 35 too large)
+
+.vector_36      0x9fc01680        0x0
+ *(.vector_36)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_36) <= (_vector_spacing << 0x5))), function at exception vector 36 too large)
+
+.vector_37      0x9fc016a0        0x0
+ *(.vector_37)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_37) <= (_vector_spacing << 0x5))), function at exception vector 37 too large)
+
+.vector_38      0x9fc016c0        0x0
+ *(.vector_38)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_38) <= (_vector_spacing << 0x5))), function at exception vector 38 too large)
+
+.vector_39      0x9fc016e0        0x0
+ *(.vector_39)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_39) <= (_vector_spacing << 0x5))), function at exception vector 39 too large)
+
+.vector_40      0x9fc01700        0x0
+ *(.vector_40)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_40) <= (_vector_spacing << 0x5))), function at exception vector 40 too large)
+
+.vector_41      0x9fc01720        0x0
+ *(.vector_41)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_41) <= (_vector_spacing << 0x5))), function at exception vector 41 too large)
+
+.vector_42      0x9fc01740        0x0
+ *(.vector_42)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_42) <= (_vector_spacing << 0x5))), function at exception vector 42 too large)
+
+.vector_43      0x9fc01760        0x0
+ *(.vector_43)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_43) <= (_vector_spacing << 0x5))), function at exception vector 43 too large)
+
+.vector_44      0x9fc01780        0x0
+ *(.vector_44)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_44) <= (_vector_spacing << 0x5))), function at exception vector 44 too large)
+
+.vector_45      0x9fc017a0        0x0
+ *(.vector_45)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_45) <= (_vector_spacing << 0x5))), function at exception vector 45 too large)
+
+.vector_46      0x9fc017c0        0x0
+ *(.vector_46)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_46) <= (_vector_spacing << 0x5))), function at exception vector 46 too large)
+
+.vector_47      0x9fc017e0        0x0
+ *(.vector_47)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_47) <= (_vector_spacing << 0x5))), function at exception vector 47 too large)
+
+.vector_48      0x9fc01800        0x0
+ *(.vector_48)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_48) <= (_vector_spacing << 0x5))), function at exception vector 48 too large)
+
+.vector_49      0x9fc01820        0x0
+ *(.vector_49)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_49) <= (_vector_spacing << 0x5))), function at exception vector 49 too large)
+
+.vector_50      0x9fc01840        0x0
+ *(.vector_50)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_50) <= (_vector_spacing << 0x5))), function at exception vector 50 too large)
+
+.vector_51      0x9fc01860        0x0
+ *(.vector_51)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_51) <= (_vector_spacing << 0x5))), function at exception vector 51 too large)
+
+.vector_52      0x9fc01880        0x0
+ *(.vector_52)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_52) <= (_vector_spacing << 0x5))), function at exception vector 52 too large)
+
+.vector_53      0x9fc018a0        0x0
+ *(.vector_53)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_53) <= (_vector_spacing << 0x5))), function at exception vector 53 too large)
+
+.vector_54      0x9fc018c0        0x0
+ *(.vector_54)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_54) <= (_vector_spacing << 0x5))), function at exception vector 54 too large)
+
+.vector_55      0x9fc018e0        0x0
+ *(.vector_55)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_55) <= (_vector_spacing << 0x5))), function at exception vector 55 too large)
+
+.vector_56      0x9fc01900        0x0
+ *(.vector_56)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_56) <= (_vector_spacing << 0x5))), function at exception vector 56 too large)
+
+.vector_57      0x9fc01920        0x0
+ *(.vector_57)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_57) <= (_vector_spacing << 0x5))), function at exception vector 57 too large)
+
+.vector_58      0x9fc01940        0x0
+ *(.vector_58)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_58) <= (_vector_spacing << 0x5))), function at exception vector 58 too large)
+
+.vector_59      0x9fc01960        0x0
+ *(.vector_59)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_59) <= (_vector_spacing << 0x5))), function at exception vector 59 too large)
+
+.vector_60      0x9fc01980        0x0
+ *(.vector_60)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_60) <= (_vector_spacing << 0x5))), function at exception vector 60 too large)
+
+.vector_61      0x9fc019a0        0x0
+ *(.vector_61)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_61) <= (_vector_spacing << 0x5))), function at exception vector 61 too large)
+
+.vector_62      0x9fc019c0        0x0
+ *(.vector_62)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_62) <= (_vector_spacing << 0x5))), function at exception vector 62 too large)
+
+.vector_63      0x9fc019e0        0x0
+ *(.vector_63)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_63) <= (_vector_spacing << 0x5))), function at exception vector 63 too large)
+
+.startup        0x9fc00490      0x1e0
+ *(.startup)
+ .startup       0x9fc00490      0x1e0 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size/crt0.o
+
+.text           0x9d000000    0x17900
+                0x9d000000                _text_begin = .
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x9d000000       0x18 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size/crt0.o
+ .text          0x9d000018      0x784 obj\TouchScreen.o
+                0x9d0005d4                TouchGetX
+                0x9d000684                TouchGetMsg
+                0x9d000630                TouchGetY
+                0x9d0004e4                TouchInit
+                0x9d000018                _T3Interrupt
+ .text          0x9d00079c      0x3c8 obj\CustomControlDemo.o
+                0x9d00091c                CcDraw
+                0x9d00079c                CcCreate
+                0x9d000880                CcTranslateMsg
+                0x9d000904                CcMsgDefault
+ .text          0x9d000b64     0x6460 obj\MainDemo.o
+                0x9d006530                GraphPotentiometer
+                0x9d002714                MsgPullDown
+                0x9d006e98                ErrorTrap
+                0x9d004e4c                MsgSetDate
+                0x9d005348                UpdateRTCCDates
+                0x9d004b2c                ShowPullDownMenu
+                0x9d003660                MsgSlider
+                0x9d0050c8                MsgDateTime
+                0x9d005f44                MsgCustomControl
+                0x9d005e44                CreateCustomControl
+                0x9d006ee4                _T4Interrupt
+                0x9d003840                CreateProgressBar
+                0x9d0049a4                updateDateTimeEb
+                0x9d006f50                TickInit
+                0x9d002c04                MsgButtons
+                0x9d003234                CreateStaticText
+                0x9d00689c                GetECGSamples
+                0x9d001404                GOLDrawCallback
+                0x9d006398                PanelPotentiometer
+                0x9d0031e4                MsgRadioButtons
+                0x9d006878                CreateECG
+                0x9d004498                CreateDateTime
+                0x9d005c20                CreatePicture
+                0x9d0060e4                CreateSignature
+                0x9d005a0c                MsgDial
+                0x9d006198                MsgSignature
+                0x9d003920                MsgProgressBar
+                0x9d006910                PanelECG
+                0x9d0064a8                GetPotSamples
+                0x9d003dcc                CreateEditBox
+                0x9d003970                CreateListBox
+                0x9d002dd0                CreateCheckBoxes
+                0x9d0055fc                MsgMeter
+                0x9d002a20                CreateButtons
+                0x9d006aec                GraphECG
+                0x9d000b64                main
+                0x9d00216c                StartScreen
+                0x9d002438                CreatePage
+                0x9d0034b4                CreateSlider
+                0x9d002ee4                MsgCheckBoxes
+                0x9d002fe0                CreateRadioButtons
+                0x9d0056c8                UpdateMeter
+                0x9d006370                CreatePotentiometer
+                0x9d0058d8                CreateDial
+                0x9d00267c                AddItemList
+                0x9d006e4c                MsgECG
+                0x9d002840                DisplayPullDown
+                0x9d003360                MsgStaticText
+                0x9d00610c                PanelSignature
+                0x9d006828                MsgPotentiometer
+                0x9d0041dc                MsgEditBox
+                0x9d005d34                MsgPicture
+                0x9d005404                CreateMeter
+                0x9d004d90                RemovePullDownMenu
+                0x9d003b58                MsgListBox
+                0x9d0035dc                DrawSliderCursor
+                0x9d000fe8                GOLMsgCallback
+                0x9d0025e0                CreatePullDown
+ .text          0x9d006fc4      0x168 obj\SideButtons.o
+                0x9d006fc4                SideButtonsMsg
+ .text          0x9d00712c      0xa58 obj\rtcc.o
+                0x9d00799c                RTCCSetBinDay
+                0x9d007aec                RTCCSetBinYear
+                0x9d007788                RTCCSetBinSec
+                0x9d007670                RTCCInit
+                0x9d0076e4                RTCCSet
+                0x9d00789c                RTCCCalculateWeekDay
+                0x9d007a90                RTCCSetBinMonth
+                0x9d007840                RTCCSetBinHour
+                0x9d00712c                RTCCProcessEvents
+                0x9d007758                RTCCUnlock
+                0x9d0077e4                RTCCSetBinMin
+ .text          0x9d007b84      0x4f8 obj\Window.o
+                0x9d007d7c                WndDraw
+                0x9d007c7c                WndSetText
+                0x9d007b84                WndCreate
+                0x9d007cb0                WndTranslateMsg
+ .text          0x9d00807c      0x794 obj\Button.o
+                0x9d008274                BtnTranslateMsg
+                0x9d008194                BtnSetText
+                0x9d0081dc                BtnMsgDefault
+                0x9d008474                BtnDraw
+                0x9d00807c                BtnCreate
+ .text          0x9d008810      0x620 obj\CheckBox.o
+                0x9d008900                CbSetText
+                0x9d008934                CbMsgDefault
+                0x9d0089c0                CbTranslateMsg
+                0x9d008810                CbCreate
+                0x9d008ab4                CbDraw
+ .text          0x9d008e30      0x6bc obj\EditBox.o
+                0x9d0090a4                EbMsgDefault
+                0x9d008e30                EbCreate
+                0x9d008f84                EbAddChar
+                0x9d00914c                EbDraw
+                0x9d008f38                EbSetText
+                0x9d008ff0                EbTranslateMsg
+                0x9d008fc8                EbDeleteChar
+ .text          0x9d0094ec      0xee4 obj\GOL.o
+                0x9d00968c                GOLCreateScheme
+                0x9d009580                GOLGetFocusNext
+                0x9d0098dc                GOLDraw
+                0x9d009b50                GOLMsg
+                0x9d00983c                GOLDeleteObjectByID
+                0x9d009708                GOLInit
+                0x9d009730                GOLFree
+                0x9d009794                GOLDeleteObject
+                0x9d009638                GOLCanBeFocused
+                0x9d009a78                GOLRedrawRec
+                0x9d009f00                GOLPanelDrawTsk
+                0x9d009870                GOLFindObject
+                0x9d0098a0                GOLAddObject
+                0x9d0094ec                GOLGetFocusPrev
+                0x9d0095d4                GOLSetFocus
+ .text          0x9d00a3d0      0x578 obj\GroupBox.o
+                0x9d00a56c                GbDraw
+                0x9d00a3d0                GbCreate
+                0x9d00a4d8                GbTranslateMsg
+ .text          0x9d00a948      0xc74 obj\ListBox.o
+                0x9d00ad58                LbGetFocusedItem
+                0x9d00ac5c                LbGetSel
+                0x9d00ae88                LbMsgDefault
+                0x9d00aabc                LbAddItem
+                0x9d00acf4                LbSetFocusedItem
+                0x9d00ac94                LbChangeSel
+                0x9d00b04c                LbDraw
+                0x9d00ada4                LbTranslateMsg
+                0x9d00a948                LbCreate
+                0x9d00ac14                LbDelItemsList
+                0x9d00aba0                LbDelItem
+ .text          0x9d00b5bc     0x1268 obj\Meter.o
+                0x9d00b938                MtrDraw
+                0x9d00b718                MtrCalcDimensions
+                0x9d00b8ec                MtrTranslateMsg
+                0x9d00b5bc                MtrCreate
+                0x9d00b8a8                MtrMsgDefault
+                0x9d00b860                MtrSetVal
+ .text          0x9d00c824      0x3ec obj\Picture.o
+                0x9d00c904                PictTranslateMsg
+                0x9d00c978                PictDraw
+                0x9d00c824                PictCreate
+ .text          0x9d00cc10     0x1744 obj\Primitive.o
+                0x9d00d760                Bevel
+                0x9d00de8c                DrawPoly
+                0x9d00e004                OutTextXY
+                0x9d00db90                FillBevel
+                0x9d00df88                OutText
+                0x9d00df54                SetFont
+                0x9d00e334                GetImageHeight
+                0x9d00e314                GetImageWidth
+                0x9d00d3e0                Line
+                0x9d00cc50                Arc
+                0x9d00e2f4                GetTextHeight
+                0x9d00e264                GetTextWidth
+                0x9d00cc10                InitGraph
+                0x9d00e054                OutChar
+ .text          0x9d00e354      0x5a4 obj\ProgressBar.o
+                0x9d00e4e4                PbSetPos
+                0x9d00e4fc                PbSetRange
+                0x9d00e514                PbTranslateMsg
+                0x9d00e3f8                PbCreate
+                0x9d00e354                PbWordToString
+                0x9d00e588                PbDraw
+ .text          0x9d00e8f8      0x688 obj\RadioButton.o
+                0x9d00eb80                RbTranslateMsg
+                0x9d00e8f8                RbCreate
+                0x9d00ea74                RbGetCheck
+                0x9d00eadc                RbMsgDefault
+                0x9d00ec70                RbDraw
+                0x9d00eaa8                RbSetText
+                0x9d00ea2c                RbSetCheck
+ .text          0x9d00ef80      0xaa0 obj\RoundDial.o
+                0x9d00f0c0                RdiaCosine
+                0x9d00f764                RdiaDraw
+                0x9d00f228                RdiaTranslateMsg
+                0x9d00ef80                RdiaCreate
+                0x9d00f084                RdiaMsgDefault
+                0x9d00f174                RdiaSine
+ .text          0x9d00fa20      0xecc obj\Slider.o
+                0x9d00fe30                SldSetPos
+                0x9d00fc94                SldGetMinMaxPos
+                0x9d00fd1c                SldSetRange
+                0x9d00fb6c                SldGetWidth
+                0x9d0100f8                SldTranslateMsg
+                0x9d00fdd4                SldSetPage
+                0x9d010230                SldDraw
+                0x9d00fb24                SldSetThumbSize
+                0x9d00fc04                SldGetHeight
+                0x9d00fa20                SldCreate
+                0x9d00ff28                SldMsgDefault
+ .text          0x9d0108ec      0x4e8 obj\StaticText.o
+                0x9d0108ec                StCreate
+                0x9d010a10                StTranslateMsg
+                0x9d010a84                StDraw
+                0x9d0109dc                StSetText
+ .text          0x9d010dd4     0x1944 obj\DisplayDriver.o
+                0x9d010dd4                DelayMs
+                0x9d010e80                SetReg
+                0x9d01246c                PutImage16BPP
+                0x9d011ab4                PutImage
+                0x9d010f0c                GetReg
+                0x9d01189c                ClearDevice
+                0x9d011b70                PutImage1BPP
+                0x9d010fb4                ResetDevice
+                0x9d011610                Bar
+                0x9d0113c0                PutPixel
+                0x9d011e80                PutImage4BPP
+                0x9d01218c                PutImage8BPP
+ .text          0x9d012718      0x60c obj\DigitalMeter.o
+                0x9d0128e4                DmSetValue
+                0x9d0127e0                DmCreate
+                0x9d012920                DmTranslateMsg
+                0x9d012994                DmDraw
+ .text          0x9d012d24      0x534 obj\SerialEEPROM.o
+                0x9d01314c                EEPROMReadArray
+                0x9d012fcc                EEPROMReadWord
+                0x9d012dc8                addressSEE
+                0x9d012d24                EEPROMInit
+                0x9d012f70                EEPROMWriteWord
+                0x9d012e84                EEPROMWriteByte
+                0x9d01309c                EEPROMWriteEnable
+                0x9d012ed0                EEPROMReadByte
+                0x9d0130a4                EEPROMWriteArray
+ .text.general_exception
+                0x9d013258       0xd0 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(general-exception.o)
+                0x9d013258                _general_exception_context
+ .text.exit     0x9d013328       0xa4 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(exit.o)
+                0x9d013328                exit
+ .text.malloc   0x9d0133cc      0x758 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc.o)
+                0x9d0133cc                malloc
+ .text.malloc_trim
+                0x9d013b24      0x114 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc_free.o)
+                0x9d013b24                malloc_trim
+ .text.free     0x9d013c38      0x248 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc_free.o)
+                0x9d013c38                free
+ .text._filbuf_simple
+                0x9d013e80       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+                0x9d013e80                _filbuf_simple
+ .text._fflush_simple
+                0x9d013ea8       0x68 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+                0x9d013ea8                _fflush_simple
+ .text._flsbuf_simple
+                0x9d013f10       0xe8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+                0x9d013f10                _flsbuf_simple
+ .text._fwrite_simple
+                0x9d013ff8       0x84 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+                0x9d013ff8                _fwrite_simple
+ .text._fsync_simple
+                0x9d01407c       0x34 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+                0x9d01407c                _fsync_simple
+ .text._weak_pthread_mutex_init
+                0x9d0140b0        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d0140b0                _weak_pthread_mutex_init
+                0x9d0140b0                pthread_mutex_init
+ .text._weak_pthread_mutex_destroy
+                0x9d0140b8        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d0140b8                _weak_pthread_mutex_destroy
+                0x9d0140b8                pthread_mutex_destroy
+ .text._weak_pthread_mutex_lock
+                0x9d0140c0        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d0140c0                _weak_pthread_mutex_lock
+                0x9d0140c0                pthread_mutex_lock
+ .text._weak_pthread_mutex_trylock
+                0x9d0140c8        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d0140c8                _weak_pthread_mutex_trylock
+                0x9d0140c8                pthread_mutex_trylock
+ .text._weak_pthread_mutex_unlock
+                0x9d0140d0        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d0140d0                _weak_pthread_mutex_unlock
+                0x9d0140d0                pthread_mutex_unlock
+ .text._weak_pthread_mutex_setname_np
+                0x9d0140d8        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d0140d8                pthread_mutex_setname_np
+                0x9d0140d8                _weak_pthread_mutex_setname_np
+ .text._weak_pthread_mutexattr_init
+                0x9d0140e0        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d0140e0                _weak_pthread_mutexattr_init
+                0x9d0140e0                pthread_mutexattr_init
+ .text._weak_pthread_mutexattr_destroy
+                0x9d0140e8        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d0140e8                pthread_mutexattr_destroy
+                0x9d0140e8                _weak_pthread_mutexattr_destroy
+ .text._weak_pthread_mutexattr_setname_np
+                0x9d0140f0        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d0140f0                _weak_pthread_mutexattr_setname_np
+                0x9d0140f0                pthread_mutexattr_setname_np
+ .text._weak_pthread_mutexattr_settype_np
+                0x9d0140f8        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d0140f8                _weak_pthread_mutexattr_settype_np
+                0x9d0140f8                pthread_mutexattr_settype_np
+ .text._weak_pthread_sysconf_np
+                0x9d014100        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d014100                _weak_pthread_sysconf_np
+                0x9d014100                pthread_sysconf_np
+ .text._weak_pthread_sigdisable_np
+                0x9d014108        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d014108                _weak_pthread_sigdisable_np
+                0x9d014108                pthread_sigdisable_np
+ .text._weak_pthread_sigrestore_np
+                0x9d014110        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d014110                pthread_sigrestore_np
+                0x9d014110                _weak_pthread_sigrestore_np
+ .text._weak__pthread_cleanup_push
+                0x9d014118        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d014118                _weak__pthread_cleanup_push
+                0x9d014118                _pthread_cleanup_push
+ .text._weak__pthread_cleanup_pop
+                0x9d014120        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d014120                _pthread_cleanup_pop
+                0x9d014120                _weak__pthread_cleanup_pop
+ .text._weak__pthread_cleanup_push_defer
+                0x9d014128        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d014128                _weak__pthread_cleanup_push_defer
+                0x9d014128                _pthread_cleanup_push_defer
+ .text._weak__pthread_cleanup_pop_restore
+                0x9d014130        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d014130                _pthread_cleanup_pop_restore
+                0x9d014130                _weak__pthread_cleanup_pop_restore
+ .text._weak_pthread_once
+                0x9d014138       0x2c D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d014138                _weak_pthread_once
+                0x9d014138                pthread_once
+                0x9d014138                _pthread_once
+ .text._weak_pthread_key_create
+                0x9d014164        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d014164                pthread_key_create
+                0x9d014164                _weak_pthread_key_create
+ .text._weak_pthread_setspecific
+                0x9d01416c        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d01416c                _weak_pthread_setspecific
+                0x9d01416c                pthread_setspecific
+ .text._weak_pthread_getspecific
+                0x9d014174        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d014174                pthread_getspecific
+                0x9d014174                _weak_pthread_getspecific
+ .text._weak__libc_private_storage
+                0x9d01417c        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0x9d01417c                _libc_private_storage
+                0x9d01417c                _weak__libc_private_storage
+ .text.getpagesize
+                0x9d014184        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+                0x9d014184                getpagesize
+ .text._stub_sbd_memlayout
+                0x9d01418c       0x2c D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+                0x9d01418c                _stub_sbd_memlayout
+                0x9d01418c                _sbd_memlayout
+ .text._sbrk_init
+                0x9d0141b8      0x168 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+                0x9d0141b8                _sbrk_init
+ .text._sbrk    0x9d014320       0xe8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+                0x9d014320                _sbrk
+ .text.sbrk     0x9d014408       0x5c D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+                0x9d014408                sbrk
+ .text._general_exception_handler
+                0x9d014464        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-general-exception-handler.o)
+                0x9d014464                _general_exception_handler
+ .text._bootstrap_exception_handler
+                0x9d01446c        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+                0x9d01446c                _bootstrap_exception_handler
+ .text._on_reset
+                0x9d014474        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+                0x9d014474                _on_reset
+ .text._on_bootstrap
+                0x9d01447c        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+                0x9d01447c                _on_bootstrap
+ .text          0x9d014484       0x18 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-nmi-handler.o)
+                0x9d014484                _nmi_handler
+ .text._mon_getc
+                0x9d01449c        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_getc.o)
+                0x9d01449c                _mon_getc
+ .text._mon_write
+                0x9d0144a4       0x4c D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_write.o)
+                0x9d0144a4                _mon_write
+ .text._exit    0x9d0144f0        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_exit.o)
+                0x9d0144f0                _exit
+ .text          0x9d0144f8       0xa8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(memset.o)
+                0x9d0144f8                memset
+ .text._mon_putc
+                0x9d0145a0       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_putc.o)
+                0x9d0145a0                _mon_putc
+ .text          0x9d0145c8      0x1a0 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(cos32.o)
+                0x9d0145c8                cos
+                0x9d0145c8                dpcos
+ .text          0x9d014768      0x198 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(sin32.o)
+                0x9d014768                dpsin
+                0x9d014768                sin
+ .text          0x9d014900      0x1b4 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(reduct32.o)
+                0x9d014900                reduct
+ .text          0x9d014ab4      0x5d4 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(func32.o)
+                0x9d014c88                exadd
+                0x9d014bbc                exmul
+                0x9d014ab4                sigmax
+                0x9d014e24                exdiv
+                0x9d014d74                exsub
+ .text          0x9d015088     0x1128 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(dp32.o)
+                0x9d016138                fabs
+                0x9d015ffc                __eqdf2
+                0x9d015ffc                __gtdf2
+                0x9d015088                dpsub
+                0x9d015c90                __floatsidf
+                0x9d015ffc                __ltdf2
+                0x9d015d04                ultodp
+                0x9d0154b4                dpmul
+                0x9d015df8                dptofp
+                0x9d015f78                __fixunsdfsi
+                0x9d015ffc                dpcmp
+                0x9d015d54                __extendsfdf2
+                0x9d015090                __adddf3
+                0x9d015f78                dptoul
+                0x9d0157dc                dpdiv
+                0x9d015c90                litodp
+                0x9d015ef0                __fixdfsi
+                0x9d015ffc                __ledf2
+                0x9d015d54                fptodp
+                0x9d016120                __negdf2
+                0x9d015090                dpadd
+                0x9d0157dc                __divdf3
+                0x9d0154b4                __muldf3
+                0x9d015df8                __truncdfsf2
+                0x9d015ffc                __nedf2
+                0x9d015ef0                dptoli
+                0x9d016154                nan
+                0x9d016138                dpfabs
+                0x9d015ffc                __gedf2
+                0x9d016154                dpnan
+                0x9d015088                __subdf3
+ .text.sqrt     0x9d0161b0       0x68 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(w_sqrt.o)
+                0x9d0161b0                sqrt
+ .text          0x9d016218      0x8ec D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(fp32.o)
+                0x9d016644                __divsf3
+                0x9d016870                sitofp
+                0x9d016918                __fixsfsi
+                0x9d016644                fpdiv
+                0x9d016218                __subsf3
+                0x9d016918                fptoli
+                0x9d016a04                __lesf2
+                0x9d016a98                fabsf
+                0x9d016a04                __nesf2
+                0x9d0168cc                uitofp
+                0x9d016a04                __gtsf2
+                0x9d016990                fptoui
+                0x9d016a98                fpfabs
+                0x9d016870                __floatsisf
+                0x9d016918                fptosi
+                0x9d016ab8                fpnan
+                0x9d016a04                __eqsf2
+                0x9d016220                fpadd
+                0x9d016aa8                __negsf2
+                0x9d016a04                __ltsf2
+                0x9d016218                fpsub
+                0x9d016a04                fpcmp
+                0x9d01648c                __mulsf3
+                0x9d016a04                __gesf2
+                0x9d016ab8                nanf
+                0x9d016870                litofp
+                0x9d01648c                fpmul
+                0x9d016990                __fixunssfsi
+                0x9d016220                __addsf3
+                0x9d016990                fptoul
+                0x9d0168cc                ultofp
+ .text          0x9d016b04      0x5bc D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(sqrt32.o)
+                0x9d016d9c                __mchp_sqrt
+                0x9d016b04                exsqrt
+                0x9d016d9c                dpsqrt
+ .text.OpenCoreTimer
+                0x9d0170c0        0xc D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral.a(open_core_timer_lib.o)
+                0x9d0170c0                OpenCoreTimer
+ .text.CheKseg0CacheOff
+                0x9d0170cc       0x18 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+                0x9d0170cc                CheKseg0CacheOff
+ .text.CheKseg0CacheOn
+                0x9d0170e4       0x18 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+                0x9d0170e4                CheKseg0CacheOn
+ .text.INTDisableInterrupts
+                0x9d0170fc        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+                0x9d0170fc                INTDisableInterrupts
+ .text.INTRestoreInterrupts
+                0x9d017104       0x1c D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+                0x9d017104                INTRestoreInterrupts
+ .text.INTEnableSystemMultiVectoredInt
+                0x9d017120       0x34 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+                0x9d017120                INTEnableSystemMultiVectoredInt
+ .text.RtccInit
+                0x9d017154      0x180 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_init_lib.o)
+                0x9d017154                RtccInit
+ .text.RtccSetDate
+                0x9d0172d4       0x24 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_date_lib.o)
+                0x9d0172d4                RtccSetDate
+ .text.RtccSetTime
+                0x9d0172f8       0x24 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_time_lib.o)
+                0x9d0172f8                RtccSetTime
+ .text.IdleI2C1
+                0x9d01731c       0x70 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(idle_i2c1_lib_legacy.o)
+                0x9d01731c                IdleI2C1
+ .text.MasterReadI2C1
+                0x9d01738c       0x40 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_read_i2c1_lib_legacy.o)
+                0x9d01738c                MasterReadI2C1
+ .text.MasterWriteI2C1
+                0x9d0173cc       0x68 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_write_i2c1_lib_legacy.o)
+                0x9d0173cc                MasterWriteI2C1
+ .text.INTEnableInterrupts
+                0x9d017434        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+                0x9d017434                INTEnableInterrupts
+ .text.INTClearFlag
+                0x9d01743c       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+                0x9d01743c                INTClearFlag
+ .text.INTSetFlag
+                0x9d017464       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+                0x9d017464                INTSetFlag
+ .text.INTGetFlag
+                0x9d01748c       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+                0x9d01748c                INTGetFlag
+ .text.INTEnable
+                0x9d0174b4       0x38 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+                0x9d0174b4                INTEnable
+ .text.INTGetEnable
+                0x9d0174ec       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+                0x9d0174ec                INTGetEnable
+ .text.INTSetVectorPriority
+                0x9d017514       0x3c D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+                0x9d017514                INTSetVectorPriority
+ .text.INTGetVectorPriority
+                0x9d017550       0x2c D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+                0x9d017550                INTGetVectorPriority
+ .text.INTSetVectorSubPriority
+                0x9d01757c       0x3c D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+                0x9d01757c                INTSetVectorSubPriority
+ .text.INTGetVectorSubPriority
+                0x9d0175b8       0x2c D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+                0x9d0175b8                INTGetVectorSubPriority
+ .text._RtccSetTimeAndDate
+                0x9d0175e4      0x218 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_set_time_and_date_lib.o)
+                0x9d0175e4                _RtccSetTimeAndDate
+ .text._RtccWaitClockOff
+                0x9d0177fc       0xe8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_wait_clock_off_lib.o)
+                0x9d0177fc                _RtccWaitClockOff
+ .text._RtccSetClockWait
+                0x9d0178e4       0x14 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_wait_clock_off_lib.o)
+                0x9d0178e4                _RtccSetClockWait
+ .text.ReadCoreTimer
+                0x9d0178f8        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(read_core_timer_lib.o)
+                0x9d0178f8                ReadCoreTimer
+ *(.text.*personality*)
+ *(.gnu.warning)
+ *(.mips16.fn.*)
+ *(.mips16.call.*)
+                0x9d017900                _text_end = .
+
+.rodata         0x9d017900     0xb460
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x9d017900       0x30 obj\TouchScreen.o
+ .rodata        0x9d017930       0x14 obj\CustomControlDemo.o
+ .rodata        0x9d017944     0x12ac obj\Fonts.o
+                0x9d01816c                L1191428109
+                0x9d018164                GOLMediumFont
+                0x9d017944                GOLSmallFont
+                0x9d01794c                L1191256973
+ .rodata        0x9d018bf0      0x60c obj\MainDemo.o
+                0x9d018bf0                ecgPoints
+                0x9d019040                MonthItems
+                0x9d0190d0                YearItems
+                0x9d019070                DayItems
+ .rodata        0x9d0191fc       0x80 obj\rtcc.o
+ .rodata        0x9d01927c     0x7ad0 obj\Pictures C32.o
+                0x9d019284                L2185835933
+                0x9d01fd04                Engine2
+                0x9d0195d4                mchpLogo
+                0x9d01f4e0                Engine3
+                0x9d01ecc4                L22063
+                0x9d019310                mchpIcon0
+                0x9d01a1ec                L1191913633
+                0x9d01accc                intro
+                0x9d020528                Engine1
+                0x9d01db54                L30166
+                0x9d01acd4                L1191948195
+                0x9d01f4e8                L4133
+                0x9d019318                L1185835933
+                0x9d01e5d4                L10132
+                0x9d0195dc                L1185835992
+                0x9d020530                L24120
+                0x9d01a1e4                gradientButton
+                0x9d01fd0c                L23586
+                0x9d01e94c                L19740
+                0x9d01e5cc                redphone
+                0x9d01db4c                bulboff
+                0x9d01d0d4                L11600
+                0x9d0194bc                arrowDown
+                0x9d0194c4                L1185835973
+                0x9d0193a4                arrowUp
+                0x9d0193ac                L1185835967
+                0x9d01d0cc                bulbon
+                0x9d01927c                mchpIcon
+                0x9d01e944                greenphone
+                0x9d01ecbc                Engine4
+ .rodata        0x9d020d4c       0x1c obj\Window.o
+ .rodata        0x9d020d68       0x18 obj\Button.o
+ .rodata        0x9d020d80       0x1c obj\CheckBox.o
+ .rodata        0x9d020d9c       0xb4 obj\GOL.o
+ .rodata        0x9d020e50     0x1588 obj\GOLFontDefault.o
+                0x9d020e58                L11903
+                0x9d020e50                GOLFontDefault
+ .rodata        0x9d0223d8       0x38 obj\GroupBox.o
+ .rodata        0x9d022410       0x18 obj\ListBox.o
+ .rodata        0x9d022428       0x9c obj\Meter.o
+                0x9d022428                _sineTable
+ *fill*         0x9d0224c4        0x4 00
+ .rodata.cst8   0x9d0224c8       0x10 obj\Meter.o
+ .rodata.cst4   0x9d0224d8        0x4 obj\Meter.o
+ .rodata        0x9d0224dc       0x1c obj\Picture.o
+ .rodata        0x9d0224f8       0x68 obj\Primitive.o
+ .rodata        0x9d022560       0x1c obj\ProgressBar.o
+ .rodata        0x9d02257c       0x20 obj\RadioButton.o
+ .rodata        0x9d02259c       0x14 obj\RoundDial.o
+ .rodata        0x9d0225b0       0x28 obj\Slider.o
+ .rodata        0x9d0225d8       0x14 obj\StaticText.o
+ .rodata        0x9d0225ec      0x238 obj\Monofont.o
+                0x9d0225f4                L26381
+                0x9d0225ec                monofont
+ .rodata        0x9d022824       0x14 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobdata.o)
+                0x9d022824                _io_funcs
+ .rodata        0x9d022838      0x528 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+                0x9d022a60                __IntSrcTbl
+                0x9d022838                __IntVectorTbl
+ *(.rodata1)
+                0x9d022d60                . = ALIGN (0x4)
+
+.sdata2         0x9d022d60        0x0
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x9d022d60                . = ALIGN (0x4)
+
+.sbss2          0x9d022d60        0x0
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+                0x9d022d60                . = ALIGN (0x4)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.dbg_data       0xa0000000        0x0
+                0xa0000000                . = (. + DEFINED (_DEBUGGER)?0x200:0x0)
+
+.data           0xa0000000      0x8bc load address 0x9d022d60
+                0xa0000000                _data_begin = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0xa0000000      0x2f0 obj\MainDemo.o
+                0xa000006c                EditBoxStr
+                0xa0000050                ProgressBarStr
+                0xa0000028                RadioButtonStr
+                0xa0000000                TouchScreenStr
+                0xa00000a0                HomeLinesStr
+                0xa0000088                SignatureStr
+                0xa0000214                UseR6PotStr
+                0xa0000294                ScrSelList2
+                0xa00001ac                SetDateTimeStr
+                0xa000022c                ScanModeStr
+                0xa00000ac                DisabledStr
+                0xa0000078                CustomStr
+                0xa00001fc                LightLoadStr
+                0xa00001a0                HoldingStr
+                0xa0000124                ListboxLstStr
+                0xa00000b8                TextLeftStr
+                0xa0000060                ListBoxStr
+                0xa0000044                StaticTextStr
+                0xa00001c0                SelectionStr
+                0xa0000094                PlottingStr
+                0xa00001f0                NormalLoadStr
+                0xa00001d8                MoreStr
+                0xa0000208                HeavyLoadStr
+                0xa000010c                SpeedStr
+                0xa00001cc                AlignmentStr
+                0xa0000194                CallingStr
+                0xa00000c4                TextBottomStr
+                0xa0000038                GroupBoxStr
+                0xa00001e4                BackStr
+                0xa0000238                ScrSelList1
+                0xa00000d0                StaticTextLstStr
+                0xa000001c                CheckBoxStr
+ .data          0xa00002f0       0x20 obj\rtcc.o
+                0xa00002f0                _time_str
+                0xa0000300                _date_str
+ .data          0xa0000310        0xc obj\RoundDial.o
+                0xa0000310                _cosine
+ .data          0xa000031c       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(exit.o)
+                0xa000031c                __exfun_mx
+ .data          0xa000033c      0x410 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc.o)
+                0xa0000344                malloc_av_
+                0xa0000340                malloc_trim_threshold
+                0xa000033c                malloc_sbrk_base
+ .data          0xa000074c       0xd4 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobdata.o)
+ .data          0xa0000820       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+ .data          0xa0000840       0x70 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(sincos32.o)
+                0xa0000840                sincon
+                0xa0000878                coscon
+ .data.math_errhandling_flag
+                0xa00008b0        0x4 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(s_lib_ver.o)
+                0xa00008b0                math_errhandling
+ .data          0xa00008b4        0x8 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_wait_clock_off_lib.o)
+                0xa00008b4                _RtccWaitClkSteps
+                0xa00008b8                _RtccWaitClkStepSz
+ *(.gnu.linkonce.d.*personality*)
+ *(.data1)
+                0x9d022d60                _data_image_begin = LOADADDR (.data)
+
+.eh_frame
+ *(.eh_frame)
+                0xa00088b0                _gp = (ALIGN (0x10) + 0x7ff0)
+
+.got
+ *(.got.plt)
+ *(.got)
+
+.sdata          0xa00008bc      0x160 load address 0x9d02361c
+                0xa00008bc                _sdata_begin = .
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0xa00008bc       0x10 obj\TouchScreen.o
+                0xa00008be                _calXMax
+                0xa00008c6                adcY
+                0xa00008bc                _calXMin
+                0xa00008c0                _calYMin
+                0xa00008c2                _calYMax
+                0xa00008c4                adcX
+ .sdata         0xa00008cc      0x134 obj\MainDemo.o
+                0xa00008d4                SliderStr
+                0xa00009e4                DTDoneText
+                0xa0000968                ScaleStr
+                0xa00009b0                ValueLabelStr
+                0xa0000918                Rb1Str
+                0xa0000940                SingleStr
+                0xa00008e4                DialStr
+                0xa0000908                OnStr
+                0xa000097c                RightArrowStr
+                0xa0000934                CenterStr
+                0xa000091c                Rb2Str
+                0xa00009cc                ScreenItems
+                0xa00009dc                DTPlusSym
+                0xa00009d8                DTSetText
+                0xa0000904                HighStr
+                0xa0000900                LowStr
+                0xa00009e8                DTDownArrow
+                0xa00009a8                Meter2Str
+                0xa0000984                DownArrowStr
+                0xa0000960                DecelStr
+                0xa0000990                OnBulbStr
+                0xa0000998                ReturnStr
+                0xa0000988                ExitStr
+                0xa0000970                AnimateStr
+                0xa00008f8                HomeStr
+                0xa00009b8                Group1Str
+                0xa0000938                RightStr
+                0xa00009d0                ScreenItems2
+                0xa000090c                OffStr
+                0xa00009f4                inc
+                0xa000093c                QuestionStr
+                0xa00008dc                MeterStr
+                0xa0000950                HoldStr
+                0xa0000958                AccelStr
+                0xa00009c0                Group2Str
+                0xa0000924                Rb4Str
+                0xa0000930                LeftStr
+                0xa0000948                AlignCenterStr
+                0xa0000910                EnableStr
+                0xa0000978                LeftArrowStr
+                0xa0000980                UpArrowStr
+                0xa00008cc                ButtonStr
+                0xa00009e0                DTMinusSym
+                0xa00009ec                DTUpArrow
+                0xa0000920                Rb3Str
+                0xa0000928                Rb5Str
+                0xa00009d4                pMyItemList
+                0xa00009a0                Meter1Str
+                0xa00008f4                EcgStr
+                0xa000092c                Rb6Str
+                0xa0000994                OffBulbStr
+                0xa00008ec                PictureStr
+ .sdata         0xa0000a00        0x4 obj\SideButtons.o
+ .sdata         0xa0000a04        0x4 obj\Meter.o
+ .sdata         0xa0000a08        0x1 obj\Primitive.o
+ *fill*         0xa0000a09        0x3 00
+ .sdata         0xa0000a0c        0x8 obj\ProgressBar.o
+ .sdata         0xa0000a14        0x4 obj\RoundDial.o
+ .sdata         0xa0000a18        0x4 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobdata.o)
+                0xa0000a18                _libc_data
+                0xa0000a1c                _sdata_end = .
+
+.lit8
+ *(.lit8)
+
+.lit4
+ *(.lit4)
+                0xa0000a1c                . = ALIGN (0x4)
+                0xa0000a1c                _data_end = .
+                0xa0000a1c                _bss_begin = .
+
+.sbss           0xa0000a1c      0x1f0
+                0xa0000a1c                _sbss_begin = .
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0xa0000a1c        0xc obj\TouchScreen.o
+                0xa0000a20                state
+                0xa0000a1c                adcPot
+ .sbss          0xa0000a28        0x8 obj\CustomControlDemo.o
+ .sbss          0xa0000a30       0x2c obj\MainDemo.o
+                0xa0000a30                screenState
+                0xa0000a3c                List2Enable
+                0xa0000a34                tick
+                0xa0000a4c                counter
+                0xa0000a3e                refreshScreen
+                0xa0000a38                prevState
+ .sbss          0xa0000a5c        0x4 obj\Window.o
+ .sbss          0xa0000a60        0xc obj\Button.o
+ .sbss          0xa0000a6c        0x4 obj\CheckBox.o
+ .sbss          0xa0000a70        0x8 obj\EditBox.o
+ .sbss          0xa0000a78       0x1c obj\GOL.o
+                0xa0000a78                _pGolObjects
+                0xa0000a7c                _pDefaultGolScheme
+                0xa0000a88                _pRpnlBitmap
+                0xa0000a80                _pObjectFocused
+ .sbss          0xa0000a94        0xc obj\GroupBox.o
+ .sbss          0xa0000aa0        0xc obj\ListBox.o
+ .sbss          0xa0000aac       0x28 obj\Meter.o
+ .sbss          0xa0000ad4        0xc obj\Picture.o
+ .sbss          0xa0000ae0       0x3c obj\Primitive.o
+ .sbss          0xa0000b1c        0x8 obj\ProgressBar.o
+ .sbss          0xa0000b24       0x14 obj\RadioButton.o
+                0xa0000b24                _pListButtons
+ .sbss          0xa0000b38        0x8 obj\RoundDial.o
+ .sbss          0xa0000b40       0x1c obj\Slider.o
+ .sbss          0xa0000b5c        0xc obj\StaticText.o
+ .sbss          0xa0000b68        0xc obj\DigitalMeter.o
+ .sbss          0xa0000b74        0x4 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(errno.o)
+                0xa0000b74                errno
+ *(.scommon)
+ .scommon       0xa0000b78       0x5e obj\MainDemo.o
+                0xa0000b78                pProgressBar
+                0xa0000b7c                alt5Scheme
+                0xa0000b80                x
+                0xa0000b84                redScheme
+                0xa0000b88                alt3Scheme
+                0xa0000b8c                navScheme
+                0xa0000b90                pDwnBottom
+                0xa0000b94                altScheme
+                0xa0000b98                pNavList
+                0xa0000b9c                greenScheme
+                0xa0000ba0                pPicture
+                0xa0000ba4                pGenObj
+                0xa0000ba8                DateItemID
+                0xa0000bac                pSlider
+                0xa0000bb0                pDwnLeft
+                0xa0000bb4                timeScheme
+                0xa0000bb8                alt4Scheme
+                0xa0000bbc                y
+                0xa0000bbe                pDwnRight
+                0xa0000bc0                alt2Scheme
+                0xa0000bc4                meterScheme
+                0xa0000bc8                animate
+                0xa0000bcc                pListSaved
+                0xa0000bd0                yellowScheme
+                0xa0000bd4                pDwnTop
+ .scommon       0xa0000bd6        0x1 obj\rtcc.o
+                0xa0000bd6                _rtcc_flag
+ *fill*         0xa0000bd7        0x1 00
+ .scommon       0xa0000bd8       0x12 obj\GOL.o
+                0xa0000bd8                _rpnlX2
+                0xa0000bda                _rpnlR
+                0xa0000bdc                _rpnlX1
+                0xa0000bde                _rpnlEmbossDkColor
+                0xa0000be0                _rpnlEmbossSize
+                0xa0000be2                _rpnlY2
+                0xa0000be4                _rpnlEmbossLtColor
+                0xa0000be6                _rpnlFaceColor
+                0xa0000be8                _rpnlY1
+ *fill*         0xa0000bea        0x2 00
+ .scommon       0xa0000bec       0x13 obj\Primitive.o
+                0xa0000bec                _cursorY
+                0xa0000bee                _fontOrientation
+                0xa0000bf0                _fontFirstChar
+                0xa0000bf2                _fontHeight
+                0xa0000bf4                _cursorX
+                0xa0000bf6                _fontLastChar
+                0xa0000bf8                _font
+                0xa0000bfc                _lineType
+                0xa0000bfe                _lineThickness
+ *fill*         0xa0000bff        0x1 00
+ .scommon       0xa0000c00        0xc obj\DisplayDriver.o
+                0xa0000c00                _clipRgn
+                0xa0000c02                _clipRight
+                0xa0000c04                _clipBottom
+                0xa0000c06                _clipTop
+                0xa0000c08                _color
+                0xa0000c0a                _clipLeft
+                0xa0000c0c                _sbss_end = .
+
+.bss            0xa0000c0c      0x7ec
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0xa0000c0c       0x18 obj\DigitalMeter.o
+ .bss           0xa0000c24       0x34 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc.o)
+                0xa0000c4c                malloc_max_total_mem
+                0xa0000c54                malloc_top_pad
+                0xa0000c50                malloc_max_sbrked_mem
+                0xa0000c24                malloc_current_mallinfo
+ .bss           0xa0000c58       0x88 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobdata.o)
+ .bss           0xa0000ce0       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+ .bss           0xa0000d00        0x4 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                0xa0000d00                __isthreaded
+ .bss           0xa0000d04       0x24 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+                0xa0000d08                _minbrk
+                0xa0000d04                _maxbrk
+ *(COMMON)
+ COMMON         0xa0000d28      0x6ae obj\MainDemo.o
+                0xa0000d28                tempBuffer
+                0xa0000d3c                ecgBuffer
+                0xa0000f3c                buffer
+                0xa000113c                potBuffer
+                0xa00013bc                dateTimeStr
+ *fill*         0xa00013d6        0x2 00
+ COMMON         0xa00013d8       0x20 obj\rtcc.o
+                0xa00013d8                _time
+                0xa00013e8                _time_chk
+                0xa00013f8                . = ALIGN (0x4)
+                0xa00013f8                . = ALIGN (0x4)
+                0xa00013f8                _end = .
+                0xa00013f8                _bss_end = .
+
+.heap           0xa00013f8     0x2000
+                0xa00013f8                _heap = .
+                0xa00033f8                . = (. + _min_heap_size)
+ *fill*         0xa00013f8     0x2000 00
+
+.stack          0xa00033f8      0x800
+                0xa00033f8                _splim = .
+                0xa00033f8                _SPLIM = .
+                0xa0003bf8                . = (. + _min_stack_size)
+ *fill*         0xa00033f8      0x800 00
+
+.ramfunc        0xa0004000        0x0 load address 0x9d02377c
+                0xa0004000                _ramfunc_begin = .
+ *(.ramfunc .ramfunc.*)
+                0xa0004000                . = ALIGN (0x4)
+                0xa0004000                _ramfunc_end = .
+                0x9d02377c                _ramfunc_image_begin = LOADADDR (.ramfunc)
+                0x00000000                _ramfunc_length = SIZEOF (.ramfunc)
+                0x00004000                _bmxdkpba_address = (_ramfunc_begin - 0xa0000000)
+                0x00008000                _bmxdudba_address = 0x8000
+                0x00008000                _bmxdupba_address = 0x8000
+                0xa0008000                _stack = (_ramfunc_length > 0x0)?(_ramfunc_begin - 0x4):0xa0008000
+                0x00000001                ASSERT (((_min_stack_size + _min_heap_size) <= (_stack - _heap)), Not enough space to allocate both stack and heap.  Reduce heap and/or stack size.)
+
+.pdr            0x00000000     0x24a0
+ *(.pdr)
+ .pdr           0x00000000       0xa0 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size/crt0.o
+ .pdr           0x000000a0       0xc0 obj\TouchScreen.o
+ .pdr           0x00000160       0x80 obj\CustomControlDemo.o
+ .pdr           0x000001e0      0x760 obj\MainDemo.o
+ .pdr           0x00000940       0x20 obj\SideButtons.o
+ .pdr           0x00000960      0x160 obj\rtcc.o
+ .pdr           0x00000ac0       0x80 obj\Window.o
+ .pdr           0x00000b40       0xa0 obj\Button.o
+ .pdr           0x00000be0       0xa0 obj\CheckBox.o
+ .pdr           0x00000c80       0xe0 obj\EditBox.o
+ .pdr           0x00000d60      0x1e0 obj\GOL.o
+ .pdr           0x00000f40       0x60 obj\GroupBox.o
+ .pdr           0x00000fa0      0x160 obj\ListBox.o
+ .pdr           0x00001100       0xc0 obj\Meter.o
+ .pdr           0x000011c0       0x60 obj\Picture.o
+ .pdr           0x00001220      0x1c0 obj\Primitive.o
+ .pdr           0x000013e0       0xc0 obj\ProgressBar.o
+ .pdr           0x000014a0       0xe0 obj\RadioButton.o
+ .pdr           0x00001580       0xc0 obj\RoundDial.o
+ .pdr           0x00001640      0x160 obj\Slider.o
+ .pdr           0x000017a0       0x80 obj\StaticText.o
+ .pdr           0x00001820      0x180 obj\DisplayDriver.o
+ .pdr           0x000019a0       0xa0 obj\DigitalMeter.o
+ .pdr           0x00001a40      0x120 obj\SerialEEPROM.o
+ .pdr           0x00001b60       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(general-exception.o)
+ .pdr           0x00001b80       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(exit.o)
+ .pdr           0x00001ba0       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc.o)
+ .pdr           0x00001bc0       0x40 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc_free.o)
+ .pdr           0x00001c00       0xa0 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+ .pdr           0x00001ca0      0x2c0 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+ .pdr           0x00001f60       0xa0 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+ .pdr           0x00002000       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-general-exception-handler.o)
+ .pdr           0x00002020       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .pdr           0x00002040       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .pdr           0x00002060       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .pdr           0x00002080       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-nmi-handler.o)
+ .pdr           0x000020a0       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_getc.o)
+ .pdr           0x000020c0       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_write.o)
+ .pdr           0x000020e0       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_exit.o)
+ .pdr           0x00002100       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(memset.o)
+ .pdr           0x00002120       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_putc.o)
+ .pdr           0x00002140       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(w_sqrt.o)
+ .pdr           0x00002160       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral.a(open_core_timer_lib.o)
+ .pdr           0x00002180       0x40 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .pdr           0x000021c0       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .pdr           0x000021e0       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .pdr           0x00002200       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .pdr           0x00002220       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_init_lib.o)
+ .pdr           0x00002240       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_date_lib.o)
+ .pdr           0x00002260       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_time_lib.o)
+ .pdr           0x00002280       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(idle_i2c1_lib_legacy.o)
+ .pdr           0x000022a0       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_read_i2c1_lib_legacy.o)
+ .pdr           0x000022c0       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_write_i2c1_lib_legacy.o)
+ .pdr           0x000022e0       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+ .pdr           0x00002300      0x120 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+ .pdr           0x00002420       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_set_time_and_date_lib.o)
+ .pdr           0x00002440       0x40 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_wait_clock_off_lib.o)
+ .pdr           0x00002480       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(read_core_timer_lib.o)
+
+.reginfo        0x00000000       0x18
+ *(.reginfo)
+ .reginfo       0x00000000       0x18 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size/crt0.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000     0x15e1
+ *(.comment)
+ .comment       0x00000000       0x50 obj\TouchScreen.o
+ .comment       0x00000050       0x50 obj\CustomControlDemo.o
+ .comment       0x000000a0       0x50 obj\Fonts.o
+ .comment       0x000000f0       0x50 obj\MainDemo.o
+ .comment       0x00000140       0x50 obj\SideButtons.o
+ .comment       0x00000190       0x50 obj\rtcc.o
+ .comment       0x000001e0       0x50 obj\Pictures C32.o
+ .comment       0x00000230       0x50 obj\Window.o
+ .comment       0x00000280       0x50 obj\Button.o
+ .comment       0x000002d0       0x50 obj\Chart.o
+ .comment       0x00000320       0x50 obj\CheckBox.o
+ .comment       0x00000370       0x50 obj\EditBox.o
+ .comment       0x000003c0       0x50 obj\GOL.o
+ .comment       0x00000410       0x50 obj\GOLFontDefault.o
+ .comment       0x00000460       0x50 obj\Grid.o
+ .comment       0x000004b0       0x50 obj\GroupBox.o
+ .comment       0x00000500       0x50 obj\ListBox.o
+ .comment       0x00000550       0x50 obj\Meter.o
+ .comment       0x000005a0       0x50 obj\Picture.o
+ .comment       0x000005f0       0x50 obj\Primitive.o
+ .comment       0x00000640       0x50 obj\ProgressBar.o
+ .comment       0x00000690       0x50 obj\RadioButton.o
+ .comment       0x000006e0       0x50 obj\RoundDial.o
+ .comment       0x00000730       0x50 obj\Slider.o
+ .comment       0x00000780       0x50 obj\StaticText.o
+ .comment       0x000007d0       0x50 obj\DisplayDriver.o
+ .comment       0x00000820       0x50 obj\DigitalMeter.o
+ .comment       0x00000870       0x50 obj\Monofont.o
+ .comment       0x000008c0       0x50 obj\SerialEEPROM.o
+ .comment       0x00000910       0x9d D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(exit.o)
+ .comment       0x000009ad       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc.o)
+ .comment       0x000009fd       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc_free.o)
+ .comment       0x00000a4d       0x9e D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(errno.o)
+ .comment       0x00000aeb       0xa3 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobdata.o)
+ .comment       0x00000b8e       0xa4 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+ .comment       0x00000c32       0x9e D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+ .comment       0x00000cd0       0x9b D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+ .comment       0x00000d6b       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-general-exception-handler.o)
+ .comment       0x00000dbb       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .comment       0x00000e0b       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .comment       0x00000e5b       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .comment       0x00000eab       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_getc.o)
+ .comment       0x00000efb       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_write.o)
+ .comment       0x00000f4b       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_exit.o)
+ .comment       0x00000f9b       0x56 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(memset.o)
+ .comment       0x00000ff1       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_putc.o)
+ .comment       0x00001041       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(w_sqrt.o)
+ .comment       0x00001091       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(s_lib_ver.o)
+ .comment       0x000010e1       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral.a(open_core_timer_lib.o)
+ .comment       0x00001131       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .comment       0x00001181       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .comment       0x000011d1       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .comment       0x00001221       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .comment       0x00001271       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_init_lib.o)
+ .comment       0x000012c1       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_date_lib.o)
+ .comment       0x00001311       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_time_lib.o)
+ .comment       0x00001361       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(idle_i2c1_lib_legacy.o)
+ .comment       0x000013b1       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_read_i2c1_lib_legacy.o)
+ .comment       0x00001401       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_write_i2c1_lib_legacy.o)
+ .comment       0x00001451       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+ .comment       0x000014a1       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+ .comment       0x000014f1       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_set_time_and_date_lib.o)
+ .comment       0x00001541       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_wait_clock_off_lib.o)
+ .comment       0x00001591       0x50 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(read_core_timer_lib.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x8f8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 obj\TouchScreen.o
+ .debug_aranges
+                0x00000020       0x20 obj\CustomControlDemo.o
+ .debug_aranges
+                0x00000040       0x20 obj\MainDemo.o
+ .debug_aranges
+                0x00000060       0x20 obj\SideButtons.o
+ .debug_aranges
+                0x00000080       0x20 obj\rtcc.o
+ .debug_aranges
+                0x000000a0       0x20 obj\Window.o
+ .debug_aranges
+                0x000000c0       0x20 obj\Button.o
+ .debug_aranges
+                0x000000e0       0x20 obj\CheckBox.o
+ .debug_aranges
+                0x00000100       0x20 obj\EditBox.o
+ .debug_aranges
+                0x00000120       0x20 obj\GOL.o
+ .debug_aranges
+                0x00000140       0x20 obj\GroupBox.o
+ .debug_aranges
+                0x00000160       0x20 obj\ListBox.o
+ .debug_aranges
+                0x00000180       0x20 obj\Meter.o
+ .debug_aranges
+                0x000001a0       0x20 obj\Picture.o
+ .debug_aranges
+                0x000001c0       0x20 obj\Primitive.o
+ .debug_aranges
+                0x000001e0       0x20 obj\ProgressBar.o
+ .debug_aranges
+                0x00000200       0x20 obj\RadioButton.o
+ .debug_aranges
+                0x00000220       0x20 obj\RoundDial.o
+ .debug_aranges
+                0x00000240       0x20 obj\Slider.o
+ .debug_aranges
+                0x00000260       0x20 obj\StaticText.o
+ .debug_aranges
+                0x00000280       0x20 obj\DisplayDriver.o
+ .debug_aranges
+                0x000002a0       0x20 obj\DigitalMeter.o
+ .debug_aranges
+                0x000002c0       0x20 obj\SerialEEPROM.o
+ .debug_aranges
+                0x000002e0       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(exit.o)
+ .debug_aranges
+                0x00000308       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc.o)
+ .debug_aranges
+                0x00000330       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc_free.o)
+ .debug_aranges
+                0x00000360       0x48 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+ .debug_aranges
+                0x000003a8       0xd0 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+ .debug_aranges
+                0x00000478       0x48 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+ .debug_aranges
+                0x000004c0       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-general-exception-handler.o)
+ .debug_aranges
+                0x000004e8       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .debug_aranges
+                0x00000510       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .debug_aranges
+                0x00000538       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .debug_aranges
+                0x00000560       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_getc.o)
+ .debug_aranges
+                0x00000588       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_write.o)
+ .debug_aranges
+                0x000005b0       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_exit.o)
+ .debug_aranges
+                0x000005d8       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_putc.o)
+ .debug_aranges
+                0x00000600       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(w_sqrt.o)
+ .debug_aranges
+                0x00000628       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral.a(open_core_timer_lib.o)
+ .debug_aranges
+                0x00000650       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .debug_aranges
+                0x00000680       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .debug_aranges
+                0x000006a8       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .debug_aranges
+                0x000006d0       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .debug_aranges
+                0x000006f8       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_init_lib.o)
+ .debug_aranges
+                0x00000720       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_date_lib.o)
+ .debug_aranges
+                0x00000748       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_time_lib.o)
+ .debug_aranges
+                0x00000770       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(idle_i2c1_lib_legacy.o)
+ .debug_aranges
+                0x00000798       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_read_i2c1_lib_legacy.o)
+ .debug_aranges
+                0x000007c0       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_write_i2c1_lib_legacy.o)
+ .debug_aranges
+                0x000007e8       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+ .debug_aranges
+                0x00000810       0x68 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+ .debug_aranges
+                0x00000878       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_set_time_and_date_lib.o)
+ .debug_aranges
+                0x000008a0       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_wait_clock_off_lib.o)
+ .debug_aranges
+                0x000008d0       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(read_core_timer_lib.o)
+
+.debug_pubnames
+                0x00000000     0x2362
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0xb8 obj\TouchScreen.o
+ .debug_pubnames
+                0x000000b8       0x4e obj\CustomControlDemo.o
+ .debug_pubnames
+                0x00000106       0x55 obj\Fonts.o
+ .debug_pubnames
+                0x0000015b      0xb10 obj\MainDemo.o
+ .debug_pubnames
+                0x00000c6b       0x25 obj\SideButtons.o
+ .debug_pubnames
+                0x00000c90      0x11c obj\rtcc.o
+ .debug_pubnames
+                0x00000dac      0x19b obj\Pictures C32.o
+ .debug_pubnames
+                0x00000f47       0x4f obj\Window.o
+ .debug_pubnames
+                0x00000f96       0x61 obj\Button.o
+ .debug_pubnames
+                0x00000ff7       0x5c obj\CheckBox.o
+ .debug_pubnames
+                0x00001053       0x7b obj\EditBox.o
+ .debug_pubnames
+                0x000010ce      0x1f2 obj\GOL.o
+ .debug_pubnames
+                0x000012c0       0x30 obj\GOLFontDefault.o
+ .debug_pubnames
+                0x000012f0       0x3d obj\GroupBox.o
+ .debug_pubnames
+                0x0000132d       0xc4 obj\ListBox.o
+ .debug_pubnames
+                0x000013f1       0x85 obj\Meter.o
+ .debug_pubnames
+                0x00001476       0x43 obj\Picture.o
+ .debug_pubnames
+                0x000014b9      0x15f obj\Primitive.o
+ .debug_pubnames
+                0x00001618       0x6c obj\ProgressBar.o
+ .debug_pubnames
+                0x00001684       0x8c obj\RadioButton.o
+ .debug_pubnames
+                0x00001710       0x7e obj\RoundDial.o
+ .debug_pubnames
+                0x0000178e       0xc8 obj\Slider.o
+ .debug_pubnames
+                0x00001856       0x4b obj\StaticText.o
+ .debug_pubnames
+                0x000018a1      0x10d obj\DisplayDriver.o
+ .debug_pubnames
+                0x000019ae       0x4c obj\DigitalMeter.o
+ .debug_pubnames
+                0x000019fa       0x2a obj\Monofont.o
+ .debug_pubnames
+                0x00001a24       0xbd obj\SerialEEPROM.o
+ .debug_pubnames
+                0x00001ae1       0x1b D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(exit.o)
+ .debug_pubnames
+                0x00001afc       0x1d D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc.o)
+ .debug_pubnames
+                0x00001b19       0x2b D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc_free.o)
+ .debug_pubnames
+                0x00001b44       0x70 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+ .debug_pubnames
+                0x00001bb4      0x2da D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+ .debug_pubnames
+                0x00001e8e       0x5c D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+ .debug_pubnames
+                0x00001eea       0x31 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-general-exception-handler.o)
+ .debug_pubnames
+                0x00001f1b       0x33 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .debug_pubnames
+                0x00001f4e       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .debug_pubnames
+                0x00001f6e       0x24 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .debug_pubnames
+                0x00001f92       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_getc.o)
+ .debug_pubnames
+                0x00001fb2       0x21 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_write.o)
+ .debug_pubnames
+                0x00001fd3       0x1c D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_exit.o)
+ .debug_pubnames
+                0x00001fef       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_putc.o)
+ .debug_pubnames
+                0x0000200f       0x1b D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(w_sqrt.o)
+ .debug_pubnames
+                0x0000202a       0x24 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral.a(open_core_timer_lib.o)
+ .debug_pubnames
+                0x0000204e       0x3b D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .debug_pubnames
+                0x00002089       0x2b D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .debug_pubnames
+                0x000020b4       0x2b D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .debug_pubnames
+                0x000020df       0x36 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .debug_pubnames
+                0x00002115       0x1f D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_init_lib.o)
+ .debug_pubnames
+                0x00002134       0x22 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_date_lib.o)
+ .debug_pubnames
+                0x00002156       0x22 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_time_lib.o)
+ .debug_pubnames
+                0x00002178       0x1f D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(idle_i2c1_lib_legacy.o)
+ .debug_pubnames
+                0x00002197       0x25 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_read_i2c1_lib_legacy.o)
+ .debug_pubnames
+                0x000021bc       0x26 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_write_i2c1_lib_legacy.o)
+ .debug_pubnames
+                0x000021e2       0x2a D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+ .debug_pubnames
+                0x0000220c       0xca D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+ .debug_pubnames
+                0x000022d6       0x2a D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_set_time_and_date_lib.o)
+ .debug_pubnames
+                0x00002300       0x3e D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_wait_clock_off_lib.o)
+ .debug_pubnames
+                0x0000233e       0x24 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(read_core_timer_lib.o)
+
+.debug_info     0x00000000    0x13c97
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x816 obj\TouchScreen.o
+ .debug_info    0x00000816      0x88a obj\CustomControlDemo.o
+ .debug_info    0x000010a0      0x113 obj\Fonts.o
+ .debug_info    0x000011b3     0x3035 obj\MainDemo.o
+ .debug_info    0x000041e8      0x72c obj\SideButtons.o
+ .debug_info    0x00004914      0x80f obj\rtcc.o
+ .debug_info    0x00005123      0x809 obj\Pictures C32.o
+ .debug_info    0x0000592c      0x901 obj\Window.o
+ .debug_info    0x0000622d      0x9e4 obj\Button.o
+ .debug_info    0x00006c11      0x414 obj\Chart.o
+ .debug_info    0x00007025      0x91c obj\CheckBox.o
+ .debug_info    0x00007941      0xa10 obj\EditBox.o
+ .debug_info    0x00008351      0xb94 obj\GOL.o
+ .debug_info    0x00008ee5      0x4ba obj\GOLFontDefault.o
+ .debug_info    0x0000939f      0x414 obj\Grid.o
+ .debug_info    0x000097b3      0x87c obj\GroupBox.o
+ .debug_info    0x0000a02f      0xc35 obj\ListBox.o
+ .debug_info    0x0000ac64     0x11ae obj\Meter.o
+ .debug_info    0x0000be12      0x843 obj\Picture.o
+ .debug_info    0x0000c655     0x1349 obj\Primitive.o
+ .debug_info    0x0000d99e      0x9ad obj\ProgressBar.o
+ .debug_info    0x0000e34b      0xf45 obj\RadioButton.o
+ .debug_info    0x0000f290      0x9f0 obj\RoundDial.o
+ .debug_info    0x0000fc80     0x1158 obj\Slider.o
+ .debug_info    0x00010dd8      0x8de obj\StaticText.o
+ .debug_info    0x000116b6      0xbfa obj\DisplayDriver.o
+ .debug_info    0x000122b0      0x9c0 obj\DigitalMeter.o
+ .debug_info    0x00012c70       0xaa obj\Monofont.o
+ .debug_info    0x00012d1a      0x6d9 obj\SerialEEPROM.o
+ .debug_info    0x000133f3       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(exit.o)
+ .debug_info    0x00013423       0x31 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc.o)
+ .debug_info    0x00013454       0x44 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc_free.o)
+ .debug_info    0x00013498       0x78 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+ .debug_info    0x00013510      0x1aa D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+ .debug_info    0x000136ba       0x79 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+ .debug_info    0x00013733       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-general-exception-handler.o)
+ .debug_info    0x00013763       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .debug_info    0x00013793       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .debug_info    0x000137c3       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .debug_info    0x000137f3       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_getc.o)
+ .debug_info    0x00013823       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_write.o)
+ .debug_info    0x00013853       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_exit.o)
+ .debug_info    0x00013883       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_putc.o)
+ .debug_info    0x000138b3       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(w_sqrt.o)
+ .debug_info    0x000138e3       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral.a(open_core_timer_lib.o)
+ .debug_info    0x00013913       0x42 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .debug_info    0x00013955       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .debug_info    0x00013985       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .debug_info    0x000139b5       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .debug_info    0x000139e5       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_init_lib.o)
+ .debug_info    0x00013a15       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_date_lib.o)
+ .debug_info    0x00013a45       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_time_lib.o)
+ .debug_info    0x00013a75       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(idle_i2c1_lib_legacy.o)
+ .debug_info    0x00013aa5       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_read_i2c1_lib_legacy.o)
+ .debug_info    0x00013ad5       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_write_i2c1_lib_legacy.o)
+ .debug_info    0x00013b05       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+ .debug_info    0x00013b35       0xc0 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+ .debug_info    0x00013bf5       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_set_time_and_date_lib.o)
+ .debug_info    0x00013c25       0x42 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_wait_clock_off_lib.o)
+ .debug_info    0x00013c67       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(read_core_timer_lib.o)
+
+.debug_abbrev   0x00000000     0x3a70
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x1f9 obj\TouchScreen.o
+ .debug_abbrev  0x000001f9      0x1b4 obj\CustomControlDemo.o
+ .debug_abbrev  0x000003ad       0x9b obj\Fonts.o
+ .debug_abbrev  0x00000448      0x353 obj\MainDemo.o
+ .debug_abbrev  0x0000079b      0x18c obj\SideButtons.o
+ .debug_abbrev  0x00000927      0x284 obj\rtcc.o
+ .debug_abbrev  0x00000bab      0x17e obj\Pictures C32.o
+ .debug_abbrev  0x00000d29      0x1b4 obj\Window.o
+ .debug_abbrev  0x00000edd      0x1f6 obj\Button.o
+ .debug_abbrev  0x000010d3      0x12b obj\Chart.o
+ .debug_abbrev  0x000011fe      0x1b4 obj\CheckBox.o
+ .debug_abbrev  0x000013b2      0x1b4 obj\EditBox.o
+ .debug_abbrev  0x00001566      0x265 obj\GOL.o
+ .debug_abbrev  0x000017cb      0x164 obj\GOLFontDefault.o
+ .debug_abbrev  0x0000192f      0x12b obj\Grid.o
+ .debug_abbrev  0x00001a5a      0x1aa obj\GroupBox.o
+ .debug_abbrev  0x00001c04      0x23a obj\ListBox.o
+ .debug_abbrev  0x00001e3e      0x293 obj\Meter.o
+ .debug_abbrev  0x000020d1      0x18e obj\Picture.o
+ .debug_abbrev  0x0000225f      0x29b obj\Primitive.o
+ .debug_abbrev  0x000024fa      0x1bd obj\ProgressBar.o
+ .debug_abbrev  0x000026b7      0x273 obj\RadioButton.o
+ .debug_abbrev  0x0000292a      0x210 obj\RoundDial.o
+ .debug_abbrev  0x00002b3a      0x277 obj\Slider.o
+ .debug_abbrev  0x00002db1      0x1c1 obj\StaticText.o
+ .debug_abbrev  0x00002f72      0x244 obj\DisplayDriver.o
+ .debug_abbrev  0x000031b6      0x1d2 obj\DigitalMeter.o
+ .debug_abbrev  0x00003388       0x6e obj\Monofont.o
+ .debug_abbrev  0x000033f6      0x227 obj\SerialEEPROM.o
+ .debug_abbrev  0x0000361d       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(exit.o)
+ .debug_abbrev  0x00003640       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc.o)
+ .debug_abbrev  0x00003663       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc_free.o)
+ .debug_abbrev  0x00003686        0x1 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(errno.o)
+ .debug_abbrev  0x00003687        0x1 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobdata.o)
+ .debug_abbrev  0x00003688       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+ .debug_abbrev  0x000036ab       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+ .debug_abbrev  0x000036ce       0x36 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+ .debug_abbrev  0x00003704       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-general-exception-handler.o)
+ .debug_abbrev  0x00003727       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .debug_abbrev  0x0000374a       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .debug_abbrev  0x0000376d       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .debug_abbrev  0x00003790       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_getc.o)
+ .debug_abbrev  0x000037b3       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_write.o)
+ .debug_abbrev  0x000037d6       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_exit.o)
+ .debug_abbrev  0x000037f9       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_putc.o)
+ .debug_abbrev  0x0000381c       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(w_sqrt.o)
+ .debug_abbrev  0x0000383f        0x1 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(s_lib_ver.o)
+ .debug_abbrev  0x00003840       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral.a(open_core_timer_lib.o)
+ .debug_abbrev  0x00003863       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .debug_abbrev  0x00003886       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .debug_abbrev  0x000038a9       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .debug_abbrev  0x000038cc       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .debug_abbrev  0x000038ef       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_init_lib.o)
+ .debug_abbrev  0x00003912       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_date_lib.o)
+ .debug_abbrev  0x00003935       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_time_lib.o)
+ .debug_abbrev  0x00003958       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(idle_i2c1_lib_legacy.o)
+ .debug_abbrev  0x0000397b       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_read_i2c1_lib_legacy.o)
+ .debug_abbrev  0x0000399e       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_write_i2c1_lib_legacy.o)
+ .debug_abbrev  0x000039c1       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+ .debug_abbrev  0x000039e4       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+ .debug_abbrev  0x00003a07       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_set_time_and_date_lib.o)
+ .debug_abbrev  0x00003a2a       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_wait_clock_off_lib.o)
+ .debug_abbrev  0x00003a4d       0x23 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(read_core_timer_lib.o)
+
+.debug_line     0x00000000     0x5dca
+ *(.debug_line)
+ .debug_line    0x00000000      0x223 obj\TouchScreen.o
+ .debug_line    0x00000223      0x21c obj\CustomControlDemo.o
+ .debug_line    0x0000043f       0x25 obj\Fonts.o
+ .debug_line    0x00000464      0xc2a obj\MainDemo.o
+ .debug_line    0x0000108e      0x197 obj\SideButtons.o
+ .debug_line    0x00001225      0x264 obj\rtcc.o
+ .debug_line    0x00001489      0x161 obj\Pictures C32.o
+ .debug_line    0x000015ea      0x24e obj\Window.o
+ .debug_line    0x00001838      0x2ae obj\Button.o
+ .debug_line    0x00001ae6      0x121 obj\Chart.o
+ .debug_line    0x00001c07      0x261 obj\CheckBox.o
+ .debug_line    0x00001e68      0x27a obj\EditBox.o
+ .debug_line    0x000020e2      0x383 obj\GOL.o
+ .debug_line    0x00002465      0x179 obj\GOLFontDefault.o
+ .debug_line    0x000025de      0x121 obj\Grid.o
+ .debug_line    0x000026ff      0x254 obj\GroupBox.o
+ .debug_line    0x00002953      0x332 obj\ListBox.o
+ .debug_line    0x00002c85      0x37f obj\Meter.o
+ .debug_line    0x00003004      0x22c obj\Picture.o
+ .debug_line    0x00003230      0x483 obj\Primitive.o
+ .debug_line    0x000036b3      0x260 obj\ProgressBar.o
+ .debug_line    0x00003913      0x28f obj\RadioButton.o
+ .debug_line    0x00003ba2      0x2da obj\RoundDial.o
+ .debug_line    0x00003e7c      0x365 obj\Slider.o
+ .debug_line    0x000041e1      0x25b obj\StaticText.o
+ .debug_line    0x0000443c      0x32d obj\DisplayDriver.o
+ .debug_line    0x00004769      0x271 obj\DigitalMeter.o
+ .debug_line    0x000049da       0x28 obj\Monofont.o
+ .debug_line    0x00004a02      0x1fd obj\SerialEEPROM.o
+ .debug_line    0x00004bff       0x7d D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(exit.o)
+ .debug_line    0x00004c7c       0x7f D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc.o)
+ .debug_line    0x00004cfb       0x84 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc_free.o)
+ .debug_line    0x00004d7f       0x84 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+ .debug_line    0x00004e03       0x80 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+ .debug_line    0x00004e83       0x7f D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+ .debug_line    0x00004f02       0x9c D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-general-exception-handler.o)
+ .debug_line    0x00004f9e       0x9e D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .debug_line    0x0000503c       0x8b D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .debug_line    0x000050c7       0x8f D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .debug_line    0x00005156       0x84 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_getc.o)
+ .debug_line    0x000051da       0x85 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_write.o)
+ .debug_line    0x0000525f       0x80 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_exit.o)
+ .debug_line    0x000052df       0x84 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_putc.o)
+ .debug_line    0x00005363       0x85 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(w_sqrt.o)
+ .debug_line    0x000053e8       0x9e D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral.a(open_core_timer_lib.o)
+ .debug_line    0x00005486       0x92 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .debug_line    0x00005518       0xa3 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .debug_line    0x000055bb       0xa3 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .debug_line    0x0000565e       0x9e D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .debug_line    0x000056fc       0x97 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_init_lib.o)
+ .debug_line    0x00005793       0x9b D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_date_lib.o)
+ .debug_line    0x0000582e       0x9b D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_time_lib.o)
+ .debug_line    0x000058c9       0x9d D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(idle_i2c1_lib_legacy.o)
+ .debug_line    0x00005966       0xa4 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_read_i2c1_lib_legacy.o)
+ .debug_line    0x00005a0a       0xa5 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_write_i2c1_lib_legacy.o)
+ .debug_line    0x00005aaf       0xa2 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+ .debug_line    0x00005b51       0x94 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+ .debug_line    0x00005be5       0xa5 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_set_time_and_date_lib.o)
+ .debug_line    0x00005c8a       0xa2 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_wait_clock_off_lib.o)
+ .debug_line    0x00005d2c       0x9e D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(read_core_timer_lib.o)
+
+.debug_frame    0x00000000     0x20ac
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x78 obj\TouchScreen.o
+ .debug_frame   0x00000078       0x7c obj\CustomControlDemo.o
+ .debug_frame   0x000000f4      0x6dc obj\MainDemo.o
+ .debug_frame   0x000007d0       0x2c obj\SideButtons.o
+ .debug_frame   0x000007fc       0xe8 obj\rtcc.o
+ .debug_frame   0x000008e4       0x90 obj\Window.o
+ .debug_frame   0x00000974       0xac obj\Button.o
+ .debug_frame   0x00000a20       0xac obj\CheckBox.o
+ .debug_frame   0x00000acc       0xc0 obj\EditBox.o
+ .debug_frame   0x00000b8c      0x184 obj\GOL.o
+ .debug_frame   0x00000d10       0x70 obj\GroupBox.o
+ .debug_frame   0x00000d80      0x13c obj\ListBox.o
+ .debug_frame   0x00000ebc       0xe0 obj\Meter.o
+ .debug_frame   0x00000f9c       0x74 obj\Picture.o
+ .debug_frame   0x00001010      0x1b8 obj\Primitive.o
+ .debug_frame   0x000011c8       0xa4 obj\ProgressBar.o
+ .debug_frame   0x0000126c       0xcc obj\RadioButton.o
+ .debug_frame   0x00001338       0xb4 obj\RoundDial.o
+ .debug_frame   0x000013ec      0x13c obj\Slider.o
+ .debug_frame   0x00001528       0x88 obj\StaticText.o
+ .debug_frame   0x000015b0      0x188 obj\DisplayDriver.o
+ .debug_frame   0x00001738       0xa4 obj\DigitalMeter.o
+ .debug_frame   0x000017dc      0x138 obj\SerialEEPROM.o
+ .debug_frame   0x00001914       0x34 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(exit.o)
+ .debug_frame   0x00001948       0x44 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc.o)
+ .debug_frame   0x0000198c       0x40 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc_free.o)
+ .debug_frame   0x000019cc       0x90 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+ .debug_frame   0x00001a5c      0x178 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+ .debug_frame   0x00001bd4       0xa0 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+ .debug_frame   0x00001c74       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-general-exception-handler.o)
+ .debug_frame   0x00001c94       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .debug_frame   0x00001cb4       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .debug_frame   0x00001cd4       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .debug_frame   0x00001cf4       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_getc.o)
+ .debug_frame   0x00001d14       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_write.o)
+ .debug_frame   0x00001d44       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_exit.o)
+ .debug_frame   0x00001d64       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_putc.o)
+ .debug_frame   0x00001d84       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(w_sqrt.o)
+ .debug_frame   0x00001db4       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral.a(open_core_timer_lib.o)
+ .debug_frame   0x00001dd4       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .debug_frame   0x00001e04       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .debug_frame   0x00001e24       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .debug_frame   0x00001e44       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .debug_frame   0x00001e6c       0x30 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_init_lib.o)
+ .debug_frame   0x00001e9c       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_date_lib.o)
+ .debug_frame   0x00001ec4       0x28 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_time_lib.o)
+ .debug_frame   0x00001eec       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(idle_i2c1_lib_legacy.o)
+ .debug_frame   0x00001f0c       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_read_i2c1_lib_legacy.o)
+ .debug_frame   0x00001f2c       0x2c D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_write_i2c1_lib_legacy.o)
+ .debug_frame   0x00001f58       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+ .debug_frame   0x00001f78       0xa0 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+ .debug_frame   0x00002018       0x34 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_set_time_and_date_lib.o)
+ .debug_frame   0x0000204c       0x40 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_wait_clock_off_lib.o)
+ .debug_frame   0x0000208c       0x20 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(read_core_timer_lib.o)
+
+.debug_str      0x00000000     0x4422
+ *(.debug_str)
+ .debug_str     0x00000000      0x4c9 obj\TouchScreen.o
+                                0x54f (size before relaxing)
+ .debug_str     0x000004c9      0x272 obj\CustomControlDemo.o
+                                0x623 (size before relaxing)
+ .debug_str     0x0000073b       0x3b obj\Fonts.o
+                                 0xef (size before relaxing)
+ .debug_str     0x00000776      0xf8a obj\MainDemo.o
+                               0x1601 (size before relaxing)
+ .debug_str     0x00001700       0x5b obj\SideButtons.o
+                                0x561 (size before relaxing)
+ .debug_str     0x0000175b       0xf5 obj\rtcc.o
+                                0x456 (size before relaxing)
+ .debug_str     0x00001850       0x9a obj\Pictures C32.o
+                                0x475 (size before relaxing)
+ .debug_str     0x000018ea       0xe4 obj\Window.o
+                                0x6bb (size before relaxing)
+ .debug_str     0x000019ce       0xfa obj\Button.o
+                                0x6fd (size before relaxing)
+ .debug_str     0x00001ac8       0x1e obj\Chart.o
+                                0x330 (size before relaxing)
+ .debug_str     0x00001ae6       0x7d obj\CheckBox.o
+                                0x693 (size before relaxing)
+ .debug_str     0x00001b63       0xcd obj\EditBox.o
+                                0x6f1 (size before relaxing)
+ .debug_str     0x00001c30      0x1e1 obj\GOL.o
+                                0x7f9 (size before relaxing)
+ .debug_str     0x00001e11       0x2e obj\GOLFontDefault.o
+                                0x38b (size before relaxing)
+ .debug_str     0x00001e3f       0x1d obj\Grid.o
+                                0x32f (size before relaxing)
+ .debug_str     0x00001e5c      0x19b obj\GroupBox.o
+                                0x6ee (size before relaxing)
+ .debug_str     0x00001ff7      0x15c obj\ListBox.o
+                                0x7d7 (size before relaxing)
+ .debug_str     0x00002153      0x1ad obj\Meter.o
+                                0x894 (size before relaxing)
+ .debug_str     0x00002300       0xc2 obj\Picture.o
+                                0x61c (size before relaxing)
+ .debug_str     0x000023c2      0x37b obj\Primitive.o
+                                0x77f (size before relaxing)
+ .debug_str     0x0000273d       0x9f obj\ProgressBar.o
+                                0x6a2 (size before relaxing)
+ .debug_str     0x000027dc       0xf0 obj\RadioButton.o
+                                0x73f (size before relaxing)
+ .debug_str     0x000028cc      0x146 obj\RoundDial.o
+                                0x728 (size before relaxing)
+ .debug_str     0x00002a12      0x1ed obj\Slider.o
+                                0x824 (size before relaxing)
+ .debug_str     0x00002bff       0xda obj\StaticText.o
+                                0x67b (size before relaxing)
+ .debug_str     0x00002cd9      0x1a9 obj\DisplayDriver.o
+                                0x5ac (size before relaxing)
+ .debug_str     0x00002e82       0xf0 obj\DigitalMeter.o
+                                0x6af (size before relaxing)
+ .debug_str     0x00002f72       0x12 obj\Monofont.o
+                                 0xcf (size before relaxing)
+ .debug_str     0x00002f84      0x129 obj\SerialEEPROM.o
+                                0x468 (size before relaxing)
+ .debug_str     0x000030ad       0x60 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(exit.o)
+                                 0xaf (size before relaxing)
+ .debug_str     0x0000310d       0x69 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc.o)
+                                 0xb3 (size before relaxing)
+ .debug_str     0x00003176       0x78 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(malloc_free.o)
+                                 0xc2 (size before relaxing)
+ .debug_str     0x000031ee       0xb1 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_iobfuncs.o)
+                                 0xfb (size before relaxing)
+ .debug_str     0x0000329f      0x2d3 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(stubs.o)
+                                0x31d (size before relaxing)
+ .debug_str     0x00003572       0x93 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(sbrk.o)
+                                 0xe2 (size before relaxing)
+ .debug_str     0x00003605       0x9a D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-general-exception-handler.o)
+                                 0xe4 (size before relaxing)
+ .debug_str     0x0000369f       0x9e D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+                                 0xe8 (size before relaxing)
+ .debug_str     0x0000373d       0x78 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+                                 0xc2 (size before relaxing)
+ .debug_str     0x000037b5       0x80 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+                                 0xca (size before relaxing)
+ .debug_str     0x00003835       0x71 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_getc.o)
+                                 0xbb (size before relaxing)
+ .debug_str     0x000038a6       0x73 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_write.o)
+                                 0xbd (size before relaxing)
+ .debug_str     0x00003919       0x69 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_exit.o)
+                                 0xb3 (size before relaxing)
+ .debug_str     0x00003982       0x71 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libc.a(_mon_putc.o)
+                                 0xbb (size before relaxing)
+ .debug_str     0x000039f3       0x6d D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libm.a(w_sqrt.o)
+                                 0xb7 (size before relaxing)
+ .debug_str     0x00003a60       0x8f D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral.a(open_core_timer_lib.o)
+                                 0xd9 (size before relaxing)
+ .debug_str     0x00003aef       0x96 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+                                 0xe0 (size before relaxing)
+ .debug_str     0x00003b85       0x9b D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+                                 0xe5 (size before relaxing)
+ .debug_str     0x00003c20       0x9b D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+                                 0xe5 (size before relaxing)
+ .debug_str     0x00003cbb       0xa1 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+                                 0xeb (size before relaxing)
+ .debug_str     0x00003d5c       0x83 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_init_lib.o)
+                                 0xcd (size before relaxing)
+ .debug_str     0x00003ddf       0x8a D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_date_lib.o)
+                                 0xd4 (size before relaxing)
+ .debug_str     0x00003e69       0x8a D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(rtcc_set_time_lib.o)
+                                 0xd4 (size before relaxing)
+ .debug_str     0x00003ef3       0x89 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(idle_i2c1_lib_legacy.o)
+                                 0xd3 (size before relaxing)
+ .debug_str     0x00003f7c       0x96 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_read_i2c1_lib_legacy.o)
+                                 0xe0 (size before relaxing)
+ .debug_str     0x00004012       0x98 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(master_write_i2c1_lib_legacy.o)
+                                 0xe2 (size before relaxing)
+ .debug_str     0x000040aa       0x99 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+                                 0xe3 (size before relaxing)
+ .debug_str     0x00004143      0x10b D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_tbl_lib.o)
+                                0x155 (size before relaxing)
+ .debug_str     0x0000424e       0x9c D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_set_time_and_date_lib.o)
+                                 0xe6 (size before relaxing)
+ .debug_str     0x000042ea       0xa9 D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(_rtcc_wait_clock_off_lib.o)
+                                 0xf3 (size before relaxing)
+ .debug_str     0x00004393       0x8f D:/Electro/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(read_core_timer_lib.o)
+                                 0xd9 (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+/DISCARD/
+ *(.note.GNU-stack)
+OUTPUT(bin\GOLDemo PIC32.elf elf32-tradlittlemips)
+
+.mdebug.abi32   0x9d02377c        0x0
+
+.rel.dyn        0x9d02377c        0x0

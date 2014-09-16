@@ -1,0 +1,97 @@
+***  Installation Started 02/05/2008 16:08  ***
+Title: Microchip Memory Disk Drive File System Installation
+Source: C:\MICROC~1\MICROC~1\MICROC~1.EXE | 10-30-2007 | 09:50:36 | 828403
+Made Dir: C:\Microchip Solutions\Microchip\MDD File System
+Made Dir: C:\Microchip Solutions\Microchip\MDD File System\Documentation
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\Documentation\01045a.pdf | 09-26-2007 | 11:31:12 | | 573229 | b4c3d01e
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\Documentation\Readme.pdf | 10-25-2007 | 13:59:18 | | 26399 | d0ce77c5
+Made Dir: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock
+File Copy: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock\18f8722i.lkr | 08-23-2007 | 10:05:12 | | 2279 | fda3e449
+File Copy: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock\Demonstration.c | 08-30-2007 | 14:24:14 | | 8156 | 57c3208d
+File Copy: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock\Demonstration.hex | 09-10-2007 | 08:59:22 | | 164086 | 2984c538
+File Copy: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock\Demonstration.mcp | 09-10-2007 | 08:59:06 | | 1686 | 13c105f7
+File Copy: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock\FSconfig.h | 08-30-2007 | 14:24:46 | | 5039 | 4a664301
+Made Dir: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC
+File Copy: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC\Demonstration.c | 08-30-2007 | 14:24:18 | | 8261 | 948ceb1c
+File Copy: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC\Demonstration.hex | 09-10-2007 | 08:54:58 | | 111432 | 7ec85827
+File Copy: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC\Demonstration.mcp | 09-10-2007 | 08:57:10 | | 1449 | 55dfe8
+File Copy: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC\FSconfig.h | 08-30-2007 | 14:24:50 | | 5042 | 6bbc2976
+File Copy: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC\p24FJ128GA010.gld | 03-01-2007 | 00:48:56 | | 55199 | d61742be
+File Overwrite: C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h | 06-26-2007 | 10:44:28 | | 7004 | 892b9598
+Made Dir: C:\Microchip Solutions\Microchip\Include\MDD File System
+File Copy: C:\Microchip Solutions\Microchip\Include\MDD File System\CF- Bit transaction.h | 08-30-2007 | 14:24:38 | | 9159 | dfb79631
+File Copy: C:\Microchip Solutions\Microchip\Include\MDD File System\CF-PMP.h | 08-30-2007 | 14:24:42 | | 6434 | abe2c82a
+File Copy: C:\Microchip Solutions\Microchip\Include\MDD File System\FSDefs.h | 08-30-2007 | 14:24:54 | | 11310 | aea43900
+File Copy: C:\Microchip Solutions\Microchip\Include\MDD File System\FSIO.h | 08-30-2007 | 14:24:58 | | 7964 | 2c0f0122
+File Copy: C:\Microchip Solutions\Microchip\Include\MDD File System\SD-SPI.h | 08-30-2007 | 14:25:02 | | 12356 | 150e40ce
+File Copy: C:\Microchip Solutions\Microchip\Include\MDD File System\TEMPLATEFILE.h | 08-30-2007 | 14:24:00 | | 3948 | 71bf35aa
+Made Dir: C:\Microchip Solutions\Microchip\Include\PIC18 salloc
+File Copy: C:\Microchip Solutions\Microchip\Include\PIC18 salloc\salloc.h | 06-11-2007 | 09:00:42 | | 125 | e2331385
+Made Dir: C:\Microchip Solutions\Microchip\PIC18 salloc
+File Copy: C:\Microchip Solutions\Microchip\PIC18 salloc\salloc.c | 06-11-2007 | 09:00:34 | | 12101 | 418f2a59
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\CF-Bit transaction.c | 08-30-2007 | 14:24:06 | | 31544 | 851df8f8
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\CF-PMP.c | 08-30-2007 | 14:24:10 | | 30101 | e1fa1190
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\FS Phys Interface Template.c | 08-30-2007 | 14:24:24 | | 39951 | 8ff7bae
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\FSIO.c | 10-30-2007 | 09:50:06 | | 164697 | d6feeefe
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\SD-SPI.c | 08-30-2007 | 14:24:34 | | 48120 | b1095048
+File Copy: C:\Microchip Solutions\Microchip\MDD File System\Documentation\License Agreement.pdf | 08-30-2007 | 14:41:32 | | 50977 | 73ba93e2
+***  Installation Started 02/06/2008 9:37  ***
+Title: Microchip Memory Disk Drive File System Installation
+Source: C:\MICROC~1\MICROC~1\MICROC~1.EXE | 10-30-2007 | 09:50:36 | 828403
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\Documentation\01045a.pdf | 09-26-2007 | 11:31:12 | | 573229 | b4c3d01e
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\Documentation\Readme.pdf | 10-25-2007 | 13:59:18 | | 26399 | d0ce77c5
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock\18f8722i.lkr | 08-23-2007 | 10:05:12 | | 2279 | fda3e449
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock\Demonstration.c | 08-30-2007 | 14:24:14 | | 8156 | 57c3208d
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock\Demonstration.hex | 09-10-2007 | 08:59:22 | | 164086 | 2984c538
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock\Demonstration.mcp | 09-10-2007 | 08:59:06 | | 1686 | 13c105f7
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock\FSconfig.h | 08-30-2007 | 14:24:46 | | 5039 | 4a664301
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC\Demonstration.c | 08-30-2007 | 14:24:18 | | 8261 | 948ceb1c
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC\Demonstration.hex | 09-10-2007 | 08:54:58 | | 111432 | 7ec85827
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC\Demonstration.mcp | 09-10-2007 | 08:57:10 | | 1449 | 55dfe8
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC\FSconfig.h | 08-30-2007 | 14:24:50 | | 5042 | 6bbc2976
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC\p24FJ128GA010.gld | 03-01-2007 | 00:48:56 | | 55199 | d61742be
+File Overwrite: C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h | 06-26-2007 | 10:44:28 | | 7004 | 892b9598
+File Overwrite: C:\Microchip Solutions\Microchip\Include\MDD File System\CF- Bit transaction.h | 08-30-2007 | 14:24:38 | | 9159 | dfb79631
+File Overwrite: C:\Microchip Solutions\Microchip\Include\MDD File System\CF-PMP.h | 08-30-2007 | 14:24:42 | | 6434 | abe2c82a
+File Overwrite: C:\Microchip Solutions\Microchip\Include\MDD File System\FSDefs.h | 08-30-2007 | 14:24:54 | | 11310 | aea43900
+File Overwrite: C:\Microchip Solutions\Microchip\Include\MDD File System\FSIO.h | 08-30-2007 | 14:24:58 | | 7964 | 2c0f0122
+File Overwrite: C:\Microchip Solutions\Microchip\Include\MDD File System\SD-SPI.h | 08-30-2007 | 14:25:02 | | 12356 | 150e40ce
+File Overwrite: C:\Microchip Solutions\Microchip\Include\MDD File System\TEMPLATEFILE.h | 08-30-2007 | 14:24:00 | | 3948 | 71bf35aa
+File Overwrite: C:\Microchip Solutions\Microchip\Include\PIC18 salloc\salloc.h | 06-11-2007 | 09:00:42 | | 125 | e2331385
+File Overwrite: C:\Microchip Solutions\Microchip\PIC18 salloc\salloc.c | 06-11-2007 | 09:00:34 | | 12101 | 418f2a59
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\CF-Bit transaction.c | 08-30-2007 | 14:24:06 | | 31544 | 851df8f8
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\CF-PMP.c | 08-30-2007 | 14:24:10 | | 30101 | e1fa1190
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\FS Phys Interface Template.c | 08-30-2007 | 14:24:24 | | 39951 | 8ff7bae
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\FSIO.c | 10-30-2007 | 09:50:06 | | 164697 | d6feeefe
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\SD-SPI.c | 08-30-2007 | 14:24:34 | | 48120 | b1095048
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\Documentation\License Agreement.pdf | 08-30-2007 | 14:41:32 | | 50977 | 73ba93e2
+***  Installation Started 04/04/2008 17:01  ***
+Title: Microchip Memory Disk Drive File System Installation
+Source: C:\MICROC~1\MICROC~1\MICROC~1.EXE | 10-30-2007 | 09:50:36 | 828403
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\Documentation\01045a.pdf | 09-26-2007 | 11:31:12 | | 573229 | b4c3d01e
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\Documentation\Readme.pdf | 10-25-2007 | 13:59:18 | | 26399 | d0ce77c5
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock\18f8722i.lkr | 08-23-2007 | 10:05:12 | | 2279 | fda3e449
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock\Demonstration.c | 08-30-2007 | 14:24:14 | | 8156 | 57c3208d
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock\Demonstration.hex | 09-10-2007 | 08:59:22 | | 164086 | 2984c538
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock\Demonstration.mcp | 09-10-2007 | 08:59:06 | | 1686 | 13c105f7
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC18-CF-DynMem-UserDefClock\FSconfig.h | 08-30-2007 | 14:24:46 | | 5039 | 4a664301
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC\Demonstration.c | 08-30-2007 | 14:24:18 | | 8261 | 948ceb1c
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC\Demonstration.hex | 09-10-2007 | 08:54:58 | | 111432 | 7ec85827
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC\Demonstration.mcp | 09-10-2007 | 08:57:10 | | 1449 | 55dfe8
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC\FSconfig.h | 08-30-2007 | 14:24:50 | | 5042 | 6bbc2976
+File Overwrite: C:\Microchip Solutions\MDD File System-PIC24-SD-StatMem-RTCC\p24FJ128GA010.gld | 03-01-2007 | 00:48:56 | | 55199 | d61742be
+File Overwrite: C:\Microchip Solutions\Microchip\Include\GenericTypeDefs.h | 06-26-2007 | 10:44:28 | | 7004 | 892b9598
+File Overwrite: C:\Microchip Solutions\Microchip\Include\MDD File System\CF- Bit transaction.h | 08-30-2007 | 14:24:38 | | 9159 | dfb79631
+File Overwrite: C:\Microchip Solutions\Microchip\Include\MDD File System\CF-PMP.h | 08-30-2007 | 14:24:42 | | 6434 | abe2c82a
+File Overwrite: C:\Microchip Solutions\Microchip\Include\MDD File System\FSDefs.h | 08-30-2007 | 14:24:54 | | 11310 | aea43900
+File Overwrite: C:\Microchip Solutions\Microchip\Include\MDD File System\FSIO.h | 08-30-2007 | 14:24:58 | | 7964 | 2c0f0122
+File Overwrite: C:\Microchip Solutions\Microchip\Include\MDD File System\SD-SPI.h | 08-30-2007 | 14:25:02 | | 12356 | 150e40ce
+File Overwrite: C:\Microchip Solutions\Microchip\Include\MDD File System\TEMPLATEFILE.h | 08-30-2007 | 14:24:00 | | 3948 | 71bf35aa
+File Overwrite: C:\Microchip Solutions\Microchip\Include\PIC18 salloc\salloc.h | 06-11-2007 | 09:00:42 | | 125 | e2331385
+File Overwrite: C:\Microchip Solutions\Microchip\PIC18 salloc\salloc.c | 06-11-2007 | 09:00:34 | | 12101 | 418f2a59
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\CF-Bit transaction.c | 08-30-2007 | 14:24:06 | | 31544 | 851df8f8
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\CF-PMP.c | 08-30-2007 | 14:24:10 | | 30101 | e1fa1190
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\FS Phys Interface Template.c | 08-30-2007 | 14:24:24 | | 39951 | 8ff7bae
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\FSIO.c | 10-30-2007 | 09:50:06 | | 164697 | d6feeefe
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\SD-SPI.c | 08-30-2007 | 14:24:34 | | 48120 | b1095048
+File Overwrite: C:\Microchip Solutions\Microchip\MDD File System\Documentation\License Agreement.pdf | 08-30-2007 | 14:41:32 | | 50977 | 73ba93e2

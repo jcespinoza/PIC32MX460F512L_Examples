@@ -1,0 +1,547 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ADC_XPOS::ADC_CH0_POS_SAMPLEA_AN11	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	95;"	d	line:95
+ADC_YPOS::ADC_CH0_POS_SAMPLEA_AN10	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	96;"	d	line:96
+ADPCFG_XPOS::_PCFG13	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	99;"	d	line:99
+ADPCFG_YPOS::AD1PCFGbits.PCFG12	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	106;"	d	line:106
+APPLICATION_ADDRESS::0x9D000000	C:\C32\MikroEMMB 256\MicroB\boot_config.h	55;"	d	line:55
+APP_CMD::55	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	27;"	d	line:27	file:
+AT::(x,y){_cx=(x);_cy=(y);}	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	71;"	d	line:71
+ATT_ARC::0x20	C:\C32\MikroEMMB 256\MicroB\fileio.h	69;"	d	line:69
+ATT_DIR::0x10	C:\C32\MikroEMMB 256\MicroB\fileio.h	68;"	d	line:68
+ATT_HIDE::2	C:\C32\MikroEMMB 256\MicroB\fileio.h	65;"	d	line:65
+ATT_LFN::0x0f	C:\C32\MikroEMMB 256\MicroB\fileio.h	70;"	d	line:70
+ATT_RO::1	C:\C32\MikroEMMB 256\MicroB\fileio.h	64;"	d	line:64
+ATT_SYS::4	C:\C32\MikroEMMB 256\MicroB\fileio.h	66;"	d	line:66
+ATT_VOL::8	C:\C32\MikroEMMB 256\MicroB\fileio.h	67;"	d	line:67
+AddToBlock	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	675;"	f	line:675	signature:( FLASH_BLOCK *pFlashBlock, RECORD_STRUCT *pRecord )
+AddressWriteable	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	816;"	f	line:816	signature:(unsigned long int address, unsigned int length)
+AsciiToHexByte::(m,l)((AsciiToHexNibble(m)<<4)	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	310;"	d	line:310	file:
+AsciiToHexNibble	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	254;"	f	line:254	signature:(unsigned char data)
+B	C:\C32\MikroEMMB 256\MicroB\fileio.c	64;"	v	line:64
+BLACK::RGB565CONVERT(0,0,0)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	16;"	d	line:16
+BLOCK_ALIGNMENT_MASK::(~(FLASH_BLOCK_SIZE-1))	C:\C32\MikroEMMB 256\MicroB\boot_load.h	63;"	d	line:63
+BLOCK_FILL_DEFAULT::0xFF	C:\C32\MikroEMMB 256\MicroB\boot_load.h	56;"	d	line:56
+BLOCK_STATE_NEW::0	C:\C32\MikroEMMB 256\MicroB\boot_load.h	81;"	d	line:81
+BLOCK_STATE_PARTIAL::1	C:\C32\MikroEMMB 256\MicroB\boot_load.h	82;"	d	line:82
+BLOCK_STATE_READY::2	C:\C32\MikroEMMB 256\MicroB\boot_load.h	83;"	d	line:83
+BLUE::RGB565CONVERT(0,0,128)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	23;"	d	line:23
+BL_BAD_DEV_ERR	C:\C32\MikroEMMB 256\MicroB\boot_config.h	22;"	e	line:22
+BL_BOOTING	C:\C32\MikroEMMB 256\MicroB\boot_config.h	16;"	e	line:16
+BL_BOOT_FAIL	C:\C32\MikroEMMB 256\MicroB\boot_config.h	38;"	e	line:38
+BL_FILE_ERR	C:\C32\MikroEMMB 256\MicroB\boot_config.h	26;"	e	line:26
+BL_FILE_NOT_FOUND	C:\C32\MikroEMMB 256\MicroB\boot_config.h	39;"	e	line:39
+BL_FOUND_FILE	C:\C32\MikroEMMB 256\MicroB\boot_config.h	14;"	e	line:14
+BL_FS_INIT_ERR	C:\C32\MikroEMMB 256\MicroB\boot_config.h	20;"	e	line:20
+BL_LAT_BIT::_LATD2	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	82;"	d	line:82
+BL_LOADING	C:\C32\MikroEMMB 256\MicroB\boot_config.h	11;"	e	line:11
+BL_MEDIUM_DETACH	C:\C32\MikroEMMB 256\MicroB\boot_config.h	13;"	e	line:13
+BL_PROGRAMMED	C:\C32\MikroEMMB 256\MicroB\boot_config.h	15;"	e	line:15
+BL_READ_BUFFER_SIZE::512	C:\C32\MikroEMMB 256\MicroB\boot_config.h	44;"	d	line:44
+BL_RESET	C:\C32\MikroEMMB 256\MicroB\boot_config.h	10;"	e	line:10
+BL_TRANSPORT_INIT	C:\C32\MikroEMMB 256\MicroB\boot_config.h	12;"	e	line:12
+BL_TRIS_BIT::_TRISD2	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	81;"	d	line:81
+BL_USB_HUB_ERR	C:\C32\MikroEMMB 256\MicroB\boot_config.h	21;"	e	line:21
+BL_USB_OC_ERR	C:\C32\MikroEMMB 256\MicroB\boot_config.h	19;"	e	line:19
+BOOT::__attribute__((section("extra_	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	10;"	d	line:10	file:
+BOOT_STATUS	C:\C32\MikroEMMB 256\MicroB\boot_config.h	41;"	t	line:41
+BRIGHTBLUE::RGB565CONVERT(0,0,255)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	17;"	d	line:17
+BRIGHTCYAN::RGB565CONVERT(0,255,255)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	19;"	d	line:19
+BRIGHTGREEN::RGB565CONVERT(0,255,0)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	18;"	d	line:18
+BRIGHTMAGENTA::RGB565CONVERT(255,0,255)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	21;"	d	line:21
+BRIGHTRED::RGB565CONVERT(255,0,0)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	20;"	d	line:20
+BRIGHTYELLOW::RGB565CONVERT(255,255,0)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	22;"	d	line:22
+BROWN::RGB565CONVERT(255,128,0)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	28;"	d	line:28
+BR_FAT_CPY::0x10	C:\C32\MikroEMMB 256\MicroB\fileio.c	37;"	d	line:37	file:
+BR_FAT_SIZE::0x16	C:\C32\MikroEMMB 256\MicroB\fileio.c	36;"	d	line:36	file:
+BR_MAX_ROOT::0x11	C:\C32\MikroEMMB 256\MicroB\fileio.c	38;"	d	line:38	file:
+BR_RES::0xe	C:\C32\MikroEMMB 256\MicroB\fileio.c	35;"	d	line:35	file:
+BR_SXC::0xd	C:\C32\MikroEMMB 256\MicroB\fileio.c	34;"	d	line:34	file:
+BTN_A::_RB0	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	134;"	d	line:134
+BTN_B::_RB1	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	135;"	d	line:135
+BTN_C::_RB2	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	136;"	d	line:136
+BTN_CP::_RA10	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	138;"	d	line:138
+BTN_D::_RB3	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	137;"	d	line:137
+BacklightOff::BL_LAT_BIT=0	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	86;"	d	line:86
+BacklightOn::BL_LAT_BIT=1	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	85;"	d	line:85
+Bcount	C:\C32\MikroEMMB 256\MicroB\fileio.c	65;"	v	line:65
+BlockInitialize	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	634;"	f	line:634	signature:( FLASH_BLOCK *pFlashBlock )
+BlockTargetEnd	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	680;"	l	line:680
+BlockTargetStart	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	679;"	l	line:679
+BootApplication::(((int(*)(void))(APPLICATION_A	C:\C32\MikroEMMB 256\MicroB\MicroB.c	28;"	d	line:28	file:
+COLOR_DEPTH::16	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	56;"	d	line:56
+CS_ACC_LAT_BIT::_LATC3	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	129;"	d	line:129
+CS_ACC_TRIS_BIT::_TRISC3	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	128;"	d	line:128
+CS_FLASH_LAT_BIT::_LATC2	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	117;"	d	line:117
+CS_FLASH_TRIS_BIT::_TRISC2	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	116;"	d	line:116
+CS_LAT_BIT::_LATF12	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	78;"	d	line:78
+CS_RF_LAT_BIT::_LATD8	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	123;"	d	line:123
+CS_RF_TRIS_BIT::_TRISD8	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	122;"	d	line:122
+CS_TRIS_BIT::_TRISF12	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	77;"	d	line:77
+CYAN::RGB565CONVERT(0,128,128)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	25;"	d	line:25
+Checksum	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	527;"	l	line:527
+CopySize	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	681;"	l	line:681
+CurrentAddress	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	992;"	l	line:992
+D	C:\C32\MikroEMMB 256\MicroB\fileio.c	57;"	v	line:57
+DARKGRAY::RGB565CONVERT(64,64,64)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	30;"	d	line:30
+DATA_ACCEPT::0x05	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	32;"	d	line:32	file:
+DATA_START::0xFE	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	31;"	d	line:31	file:
+DIR_ADATE::18	C:\C32\MikroEMMB 256\MicroB\fileio.c	47;"	d	line:47	file:
+DIR_ATTRIB::11	C:\C32\MikroEMMB 256\MicroB\fileio.c	44;"	d	line:44	file:
+DIR_CDATE::16	C:\C32\MikroEMMB 256\MicroB\fileio.c	46;"	d	line:46	file:
+DIR_CLST::26	C:\C32\MikroEMMB 256\MicroB\fileio.c	50;"	d	line:50	file:
+DIR_CTIME::14	C:\C32\MikroEMMB 256\MicroB\fileio.c	45;"	d	line:45	file:
+DIR_DATE::24	C:\C32\MikroEMMB 256\MicroB\fileio.c	49;"	d	line:49	file:
+DIR_DEL::0xE5	C:\C32\MikroEMMB 256\MicroB\fileio.c	52;"	d	line:52	file:
+DIR_EMPTY::0	C:\C32\MikroEMMB 256\MicroB\fileio.c	53;"	d	line:53	file:
+DIR_ESIZE::32	C:\C32\MikroEMMB 256\MicroB\fileio.c	41;"	d	line:41	file:
+DIR_EXT::8	C:\C32\MikroEMMB 256\MicroB\fileio.c	43;"	d	line:43	file:
+DIR_NAME::0	C:\C32\MikroEMMB 256\MicroB\fileio.c	42;"	d	line:42	file:
+DIR_SIZE::28	C:\C32\MikroEMMB 256\MicroB\fileio.c	51;"	d	line:51	file:
+DIR_TIME::22	C:\C32\MikroEMMB 256\MicroB\fileio.c	48;"	d	line:48	file:
+DISPLAY_CONTROLLER::HX8347D	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	44;"	d	line:44
+DISP_HOR_RESOLUTION::240	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	49;"	d	line:49
+DISP_ORIENTATION::90	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	62;"	d	line:62
+DISP_VER_RESOLUTION::320	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	50;"	d	line:50
+DelayMs	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	16;"	f	line:16	signature:(int time)
+E_COMMAND_ACK::0x80	C:\C32\MikroEMMB 256\MicroB\SDMMC.h	16;"	d	line:16
+E_INIT_TIMEOUT::0x81	C:\C32\MikroEMMB 256\MicroB\SDMMC.h	17;"	d	line:17
+F	C:\C32\MikroEMMB 256\MicroB\fileio.c	62;"	v	line:62
+FAIL::0	C:\C32\MikroEMMB 256\MicroB\SDMMC.h	8;"	d	line:8
+FAT_EOF::0xffff	C:\C32\MikroEMMB 256\MicroB\fileio.c	30;"	d	line:30	file:
+FAT_MCLST::0xfff8	C:\C32\MikroEMMB 256\MicroB\fileio.c	31;"	d	line:31	file:
+FE_CANNOT_INIT::15	C:\C32\MikroEMMB 256\MicroB\fileio.h	27;"	d	line:27
+FE_CANNOT_READ_MBR::16	C:\C32\MikroEMMB 256\MicroB\fileio.h	28;"	d	line:28
+FE_DIR_FULL::12	C:\C32\MikroEMMB 256\MicroB\fileio.h	24;"	d	line:24
+FE_EOF::10	C:\C32\MikroEMMB 256\MicroB\fileio.h	22;"	d	line:22
+FE_FAT_EOF::9	C:\C32\MikroEMMB 256\MicroB\fileio.h	21;"	d	line:21
+FE_FILE_NOT_FOUND::7	C:\C32\MikroEMMB 256\MicroB\fileio.h	19;"	d	line:19
+FE_FILE_OVERWRITE::14	C:\C32\MikroEMMB 256\MicroB\fileio.h	26;"	d	line:26
+FE_FIND_ERROR::19	C:\C32\MikroEMMB 256\MicroB\fileio.h	31;"	d	line:31
+FE_IDE_ERROR::1	C:\C32\MikroEMMB 256\MicroB\fileio.h	13;"	d	line:13
+FE_INVALID_BR::5	C:\C32\MikroEMMB 256\MicroB\fileio.h	17;"	d	line:17
+FE_INVALID_CLUSTER::11	C:\C32\MikroEMMB 256\MicroB\fileio.h	23;"	d	line:23
+FE_INVALID_FILE::8	C:\C32\MikroEMMB 256\MicroB\fileio.h	20;"	d	line:20
+FE_INVALID_MBR::4	C:\C32\MikroEMMB 256\MicroB\fileio.h	16;"	d	line:16
+FE_INVALID_MODE::18	C:\C32\MikroEMMB 256\MicroB\fileio.h	30;"	d	line:30
+FE_MALLOC_FAILED::17	C:\C32\MikroEMMB 256\MicroB\fileio.h	29;"	d	line:29
+FE_MEDIA_FULL::13	C:\C32\MikroEMMB 256\MicroB\fileio.h	25;"	d	line:25
+FE_MEDIA_NOT_MNTD::6	C:\C32\MikroEMMB 256\MicroB\fileio.h	18;"	d	line:18
+FE_NOT_PRESENT::2	C:\C32\MikroEMMB 256\MicroB\fileio.h	14;"	d	line:14
+FE_PARTITION_TYPE::3	C:\C32\MikroEMMB 256\MicroB\fileio.h	15;"	d	line:15
+FError	C:\C32\MikroEMMB 256\MicroB\fileio.c	56;"	v	line:56
+FLASH_BLOCK	C:\C32\MikroEMMB 256\MicroB\boot_load.h	77;"	t	line:77
+FLASH_BLOCK_SIZE::(1024*4)	C:\C32\MikroEMMB 256\MicroB\boot_config.h	60;"	d	line:60
+FOUND::2	C:\C32\MikroEMMB 256\MicroB\fileio.h	72;"	d	line:72
+FO_FIRST_P::0x1BE	C:\C32\MikroEMMB 256\MicroB\fileio.c	24;"	d	line:24	file:
+FO_FIRST_SECT::0x1C6	C:\C32\MikroEMMB 256\MicroB\fileio.c	26;"	d	line:26	file:
+FO_FIRST_SIZE::0x1CA	C:\C32\MikroEMMB 256\MicroB\fileio.c	27;"	d	line:27	file:
+FO_FIRST_TYPE::0x1C2	C:\C32\MikroEMMB 256\MicroB\fileio.c	25;"	d	line:25	file:
+FO_MBR::0L	C:\C32\MikroEMMB 256\MicroB\fileio.c	23;"	d	line:23	file:
+FO_SIGN::0x1FE	C:\C32\MikroEMMB 256\MicroB\fileio.c	28;"	d	line:28	file:
+F_MAX::1	C:\C32\MikroEMMB 256\MicroB\fileio.c	14;"	d	line:14	file:
+F_OFFS::0x20	C:\C32\MikroEMMB 256\MicroB\font.h	7;"	d	line:7
+F_SIZE::76	C:\C32\MikroEMMB 256\MicroB\font.h	8;"	d	line:8
+Fcount	C:\C32\MikroEMMB 256\MicroB\fileio.c	65;"	v	line:65
+FindHexRecord	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	338;"	f	line:338	signature:( char *pBufferData, unsigned int nSize )
+FlashBlock	C:\C32\MikroEMMB 256\MicroB\MicroB.c	38;"	v	line:38
+Font8x8	C:\C32\MikroEMMB 256\MicroB\font.h	10;"	v	line:10
+GRAPHICS_HARDWARE_PLATFORM::PIC32MX4_MMB	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	43;"	d	line:43
+GRAY0::RGB565CONVERT(224,224,224)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	38;"	d	line:38
+GRAY1::RGB565CONVERT(192,192,192)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	39;"	d	line:39
+GRAY2::RGB565CONVERT(160,160,160)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	40;"	d	line:40
+GRAY3::RGB565CONVERT(128,128,128)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	41;"	d	line:41
+GRAY4::RGB565CONVERT(96,96,96)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	42;"	d	line:42
+GRAY5::RGB565CONVERT(64,64,64)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	43;"	d	line:43
+GRAY6::RGB565CONVERT(32,32,32)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	44;"	d	line:44
+GREEN::RGB565CONVERT(0,128,0)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	24;"	d	line:24
+GetBackColor::_back	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	55;"	d	line:55
+GetColor::_color	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	53;"	d	line:53
+GetPeripheralClock::(GetSystemClock/(1<<OSCCONbits	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	35;"	d	line:35
+GetRecord	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	518;"	f	line:518	signature:( RECORD_STRUCT *pOutputBuffer, unsigned int *nInput, char *pInputBuffer )
+GetSystemClock::(80000000ul)	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	25;"	d	line:25
+HRES::320	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	8;"	d	line:8
+Home::{cx=0;cy=0;}	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	70;"	d	line:70
+INIT::1	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	19;"	d	line:19	file:
+I_TIMEOUT::20000	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	35;"	d	line:35	file:
+JOY_DOWN::1	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	154;"	d	line:154
+JOY_DOWN::2	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	146;"	d	line:146
+JOY_LEFT::1	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	147;"	d	line:147
+JOY_LEFT::8	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	155;"	d	line:155
+JOY_RIGHT::2	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	153;"	d	line:153
+JOY_RIGHT::4	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	145;"	d	line:145
+JOY_SELECT::16	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	143;"	d	line:143
+JOY_SELECT::16	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	151;"	d	line:151
+JOY_UP::4	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	152;"	d	line:152
+JOY_UP::8	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	144;"	d	line:144
+LAT_XNEG::_LATB11	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	100;"	d	line:100
+LAT_XPOS::_LATB13	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	101;"	d	line:101
+LAT_YNEG::_LATB10	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	107;"	d	line:107
+LAT_YPOS::_LATB12	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	108;"	d	line:108
+LBA	C:\C32\MikroEMMB 256\MicroB\SDMMC.h	20;"	t	line:20
+LD0::_LATA0	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	165;"	d	line:165
+LD0_TRIS::_TRISA0	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	161;"	d	line:161
+LD1::_LATA1	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	166;"	d	line:166
+LD1_TRIS::_TRISA1	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	162;"	d	line:162
+LD2::_LATA2	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	167;"	d	line:167
+LD2_TRIS::_TRISA2	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	163;"	d	line:163
+LD3::_LATA3	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	168;"	d	line:168
+LD3_TRIS::_TRISA3	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	164;"	d	line:164
+LED_OFF::1	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	172;"	d	line:172
+LED_ON::0	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	171;"	d	line:171
+LIGHTBLUE::RGB565CONVERT(128,128,255)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	31;"	d	line:31
+LIGHTCYAN::RGB565CONVERT(128,255,255)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	33;"	d	line:33
+LIGHTGRAY::RGB565CONVERT(128,128,128)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	29;"	d	line:29
+LIGHTGREEN::RGB565CONVERT(128,255,128)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	32;"	d	line:32
+LIGHTMAGENTA::RGB565CONVERT(255,128,255)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	35;"	d	line:35
+LIGHTRED::RGB565CONVERT(255,128,128)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	34;"	d	line:34
+LOADER_ADDRESS_ERROR::5	C:\C32\MikroEMMB 256\MicroB\boot_load.h	155;"	d	line:155
+LOADER_ADDRESS_HIGH	C:\C32\MikroEMMB 256\MicroB\boot_config.h	31;"	e	line:31
+LOADER_ADDRESS_LOW	C:\C32\MikroEMMB 256\MicroB\boot_config.h	30;"	e	line:30
+LOADER_BLOCK_NOT_READY::1	C:\C32\MikroEMMB 256\MicroB\boot_load.h	151;"	d	line:151
+LOADER_BLOCK_READY::0	C:\C32\MikroEMMB 256\MicroB\boot_load.h	150;"	d	line:150
+LOADER_CHECKSUM_ERR	C:\C32\MikroEMMB 256\MicroB\boot_config.h	32;"	e	line:32
+LOADER_DECODE_ERROR::4	C:\C32\MikroEMMB 256\MicroB\boot_load.h	154;"	d	line:154
+LOADER_EOF::3	C:\C32\MikroEMMB 256\MicroB\boot_load.h	153;"	d	line:153
+LOADER_FLASH_ERASE_ERR	C:\C32\MikroEMMB 256\MicroB\boot_config.h	33;"	e	line:33
+LOADER_FLASH_VERIFY_ERR	C:\C32\MikroEMMB 256\MicroB\boot_config.h	35;"	e	line:35
+LOADER_FLASH_WRITE_ERR	C:\C32\MikroEMMB 256\MicroB\boot_config.h	34;"	e	line:34
+LOADER_NEED_DATA::2	C:\C32\MikroEMMB 256\MicroB\boot_load.h	152;"	d	line:152
+LoadFile	C:\C32\MikroEMMB 256\MicroB\MicroB.c	132;"	f	line:132	signature:( char *file_name )
+LoadOffset	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	525;"	l	line:525
+LoadOffset	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	75;"	m	line:75	file:
+Loader_CheckErrorDetection::(d,l)RECORD_NON_DATA	C:\C32\MikroEMMB 256\MicroB\boot_load.h	172;"	d	line:172
+Loader_GetFlashBlock	C:\C32\MikroEMMB 256\MicroB\boot_load.h	157;"	p	line:157	signature:( FLASH_BLOCK *pFlashBlock, unsigned int *pRawSize, char *pRawBuffer )
+Loader_GetFlashBlock	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	910;"	f	line:910	signature:( FLASH_BLOCK *pFlashBlock, unsigned int *pRawSize, char *pRawBuffer )
+Loader_Initialize	C:\C32\MikroEMMB 256\MicroB\boot_load.h	108;"	p	line:108	signature:( FLASH_BLOCK *pFlashBlock )
+Loader_Initialize	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	863;"	f	line:863	signature:( FLASH_BLOCK *pFlashBlock )
+Loader_PermitProgramming::TRUE	C:\C32\MikroEMMB 256\MicroB\boot_config.h	63;"	d	line:63
+Loader_ProgramFlashBlock	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	990;"	f	line:990	signature:( FLASH_BLOCK *pFlashBlock )
+Loader_ValidateRevisionNumber::(d,l)RECORD_NON_DATA	C:\C32\MikroEMMB 256\MicroB\boot_load.h	168;"	d	line:168
+Loader_ValidateSerialNumber::(d,l)RECORD_NON_DATA	C:\C32\MikroEMMB 256\MicroB\boot_load.h	164;"	d	line:164
+MAGENTA::RGB565CONVERT(128,0,128)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	27;"	d	line:27
+MAX_FLASH_ADDRESS::(PROGRAM_FLASH_BASE+PROGRAM_FL	C:\C32\MikroEMMB 256\MicroB\boot_load.h	61;"	d	line:61
+MAX_RECORD_LENGTH::255	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	60;"	d	line:60	file:
+MDD_USE_SPI_2	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	182;"	d	line:182
+MEDIA	C:\C32\MikroEMMB 256\MicroB\fileio.h	43;"	t	line:43
+MFILE	C:\C32\MikroEMMB 256\MicroB\fileio.h	61;"	t	line:61
+MIN_FLASH_ADDRESS::(PROGRAM_FLASH_BASE)	C:\C32\MikroEMMB 256\MicroB\boot_load.h	60;"	d	line:60
+MMBGetKey	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	246;"	f	line:246	signature:( void)
+MMBGetKey	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	78;"	p	line:78	signature:( void)
+MMBInit	C:\C32\MikroEMMB 256\MicroB\MicroB.c	56;"	f	line:56	signature:( void)
+MMBReadKey	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	227;"	f	line:227	signature:( void)
+MMBReadKey	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	77;"	p	line:77	signature:( void)
+Menu	C:\C32\MikroEMMB 256\MicroB\MicroB.c	221;"	f	line:221	signature:( char *list, int items, int width)
+NOT_FOUND::1	C:\C32\MikroEMMB 256\MicroB\fileio.h	73;"	d	line:73
+NUMBER_OF_FLASH_BLOCKS::(PROGRAM_FLASH_LENGTH/FLASH_BL	C:\C32\MikroEMMB 256\MicroB\boot_load.h	62;"	d	line:62
+N_FILES::25	C:\C32\MikroEMMB 256\MicroB\MicroB.c	31;"	d	line:31	file:
+OUT_OF_MEMORY_ERR	C:\C32\MikroEMMB 256\MicroB\boot_config.h	25;"	e	line:25
+OpenSPI::(config1,config2)OpenSPI2(conf	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	236;"	d	line:236
+PAGE_ERASED::TRUE	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	203;"	d	line:203	file:
+PAGE_NOT_ERASED::FALSE	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	204;"	d	line:204	file:
+PA_TO_KVA1::(pa)((void*)((pa)|0xa0000000))	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	42;"	d	line:42	file:
+PIC32MX4_MMB::400	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	14;"	d	line:14
+PMPWaitBusy::while(PMMODEbits.BUSY);	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	82;"	d	line:82
+PROGRAM_FLASH_BASE::0x1D000000	C:\C32\MikroEMMB 256\MicroB\boot_config.h	58;"	d	line:58
+PROGRAM_FLASH_LENGTH::0x00060000	C:\C32\MikroEMMB 256\MicroB\boot_config.h	59;"	d	line:59
+PageEndAddress	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	993;"	l	line:993
+PageNumber	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	153;"	l	line:153
+PageNumber	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	208;"	l	line:208
+PermitProgramming::TRUE	C:\C32\MikroEMMB 256\MicroB\boot_load.h	199;"	d	line:199
+ProcessRecord	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	405;"	f	line:405	signature:( RECORD_STRUCT *pRecord )
+READ_SINGLE::17	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	20;"	d	line:20	file:
+RECORD_CHECKSUM_ERR::12	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	57;"	d	line:57	file:
+RECORD_DATA::0	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	51;"	d	line:51	file:
+RECORD_EOF::2	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	54;"	d	line:54	file:
+RECORD_FOUND::RECORD_DATA	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	52;"	d	line:52	file:
+RECORD_NON_DATA::1	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	53;"	d	line:53	file:
+RECORD_NOT_FOUND::10	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	55;"	d	line:55	file:
+RECORD_STRUCT	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	82;"	t	line:82	file:
+RECORD_UNSUPPORTED::11	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	56;"	d	line:56	file:
+RED::RGB565CONVERT(128,0,0)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	26;"	d	line:26
+RESET::0	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	18;"	d	line:18	file:
+RGB565CONVERT::(red,green,blue)(WORD)(((red>>	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	14;"	d	line:14
+RST_LAT_BIT::_LATC1	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	70;"	d	line:70
+RST_TRIS_BIT::_TRISC1	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	69;"	d	line:69
+RS_LAT_BIT::_LATB15	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	74;"	d	line:74
+RS_TRIS_BIT::_TRISB15	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	73;"	d	line:73
+R_TIMEOUT::25000	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	36;"	d	line:36	file:
+ReadBuffer	C:\C32\MikroEMMB 256\MicroB\MicroB.c	35;"	v	line:35
+ReadL::(a,f)*(unsignedshort*)(a+f)+	C:\C32\MikroEMMB 256\MicroB\fileio.h	81;"	d	line:81
+ReadOddW::(a,f)(*(a+f)+(*(a+f+1)<<8))	C:\C32\MikroEMMB 256\MicroB\fileio.h	85;"	d	line:85
+ReadW::(a,f)*(unsignedshort*)(a+f)	C:\C32\MikroEMMB 256\MicroB\fileio.h	79;"	d	line:79
+RecordInitialize::(r)((r)->RecordLength=0,(r)->V	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	377;"	d	line:377	file:
+RecordLength	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	524;"	l	line:524
+RecordLength	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	73;"	m	line:73	file:
+RecordTargetEnd	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	678;"	l	line:678
+RecordTargetStart	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	677;"	l	line:677
+RecordType	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	526;"	l	line:526
+RecordType	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	77;"	m	line:77	file:
+Result	C:\C32\MikroEMMB 256\MicroB\MicroB.c	138;"	l	line:138
+SDCD::_RA6	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	14;"	d	line:14	file:
+SDCS::_RG9	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	15;"	d	line:15	file:
+SDWP::_RA7	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	13;"	d	line:13	file:
+SD_CD::_RA6	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	198;"	d	line:198
+SD_CD_TRIS::_TRISA6	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	200;"	d	line:200
+SD_CS::_LATG9	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	193;"	d	line:193
+SD_CS_TRIS::_TRISG9	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	195;"	d	line:195
+SD_WE::_RA7	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	203;"	d	line:203
+SD_WE_TRIS::_TRISA7	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	205;"	d	line:205
+SEND_APP_OP::41	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	28;"	d	line:28	file:
+SEND_CID::10	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	25;"	d	line:25	file:
+SEND_CSD::9	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	24;"	d	line:24	file:
+SET_BLEN::16	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	26;"	d	line:26	file:
+SPIBRG::SPI2BRG	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	222;"	d	line:222
+SPIBUF::SPI2BUF	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	212;"	d	line:212
+SPICON1::SPI2CON	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	208;"	d	line:208
+SPICON1bits::SPI2CONbits	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	216;"	d	line:216
+SPIENABLE::SPI2CONbits.ON	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	220;"	d	line:220
+SPISTAT::SPI2STAT	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	210;"	d	line:210
+SPISTAT_RBF::SPI2STATbits.SPIRBF	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	214;"	d	line:214
+SPISTATbits::SPI2STATbits	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	218;"	d	line:218
+SPI_FREQUENCY::(20000000)	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	189;"	d	line:189
+SPI_START_CFG_1::(PRI_PRESCAL_64_1|SEC_PRESCAL_	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	185;"	d	line:185
+SPI_START_CFG_2::(SPI_ENABLE)	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	186;"	d	line:186
+STATIC_ALLOC::	C:\C32\MikroEMMB 256\MicroB\fileio.c	13;"	d	line:13	file:
+SelectImage	C:\C32\MikroEMMB 256\MicroB\MicroB.c	279;"	f	line:279	signature:( char *fn)
+SetAddress::(x,y)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	108;"	d	line:108
+SetBackColor::(x)_back=(x)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	54;"	d	line:54
+SetColor::(x)_color=(x)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	52;"	d	line:52
+SetIndex::(index)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	87;"	d	line:87
+SetReg	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	28;"	f	line:28	signature:(BYTE index, BYTE value)
+Status	C:\C32\MikroEMMB 256\MicroB\MicroB.c	88;"	f	line:88	signature:( char *m)
+Sum	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	520;"	l	line:520
+TRIS_XNEG::_TRISB11	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	102;"	d	line:102
+TRIS_XPOS::_TRISB13	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	103;"	d	line:103
+TRIS_YNEG::_TRISB10	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	109;"	d	line:109
+TRIS_YPOS::_TRISB12	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	110;"	d	line:110
+TRUE::1	C:\C32\MikroEMMB 256\MicroB\SDMMC.h	9;"	d	line:9
+Temp	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	521;"	l	line:521
+TrackPageErase	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	206;"	f	line:206	signature:(unsigned long int PageAddress, BOOL PageErased)
+TrackPageEraseInit	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	121;"	f	line:121	signature:(void)
+TrackPageEraseTest	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	151;"	f	line:151	signature:(unsigned long int PageAddress)
+USB_ENUM_ERR	C:\C32\MikroEMMB 256\MicroB\boot_config.h	23;"	e	line:23
+USB_ERR	C:\C32\MikroEMMB 256\MicroB\boot_config.h	27;"	e	line:27
+USB_MSD_INIT_ERR	C:\C32\MikroEMMB 256\MicroB\boot_config.h	24;"	e	line:24
+USE_16BIT_PMP	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	57;"	d	line:57
+USE_SD_INTERFACE_WITH_SPI	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	179;"	d	line:179
+VRES::240	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	9;"	d	line:9
+ValidIndex	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	78;"	m	line:78	file:
+WHITE::RGB565CONVERT(255,255,255)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	37;"	d	line:37
+WRITE_SINGLE::24	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	21;"	d	line:21	file:
+W_TIMEOUT::250000	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	37;"	d	line:37	file:
+WriteCommand::(cmd)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	92;"	d	line:92
+WriteData::(data)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	97;"	d	line:97
+YELLOW::RGB565CONVERT(255,255,128)	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	36;"	d	line:36
+__HARDWARE_PROFILE_H	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	12;"	d	line:12
+_back	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	13;"	v	line:13
+_color	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	12;"	v	line:12
+_cx	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	14;"	v	line:14
+_cy	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	14;"	v	line:14
+_general_exception_handler	C:\C32\MikroEMMB 256\MicroB\MicroB.c	50;"	f	line:50	signature:( unsigned c, unsigned s)
+a	C:\C32\MikroEMMB 256\MicroB\fileio.c	1147;"	l	line:1147
+a	C:\C32\MikroEMMB 256\MicroB\fileio.c	294;"	l	line:294
+a	C:\C32\MikroEMMB 256\MicroB\fileio.c	372;"	l	line:372
+address	C:\C32\MikroEMMB 256\MicroB\boot_load.h	69;"	m	line:69
+b	C:\C32\MikroEMMB 256\MicroB\fileio.c	1149;"	l	line:1149
+b	C:\C32\MikroEMMB 256\MicroB\fileio.c	625;"	l	line:625
+bar	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	64;"	p	line:64	signature:( int, int, int, int)
+baseAddress	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	88;"	v	line:88
+blockAddResult	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	917;"	l	line:917
+blockResult	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	914;"	l	line:914
+blockState	C:\C32\MikroEMMB 256\MicroB\boot_load.h	72;"	m	line:72
+buffer	C:\C32\MikroEMMB 256\MicroB\fileio.c	110;"	l	line:110
+buffer	C:\C32\MikroEMMB 256\MicroB\fileio.h	47;"	m	line:47
+c	C:\C32\MikroEMMB 256\MicroB\MicroB.c	223;"	l	line:223
+c	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	115;"	l	line:115
+c	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	229;"	l	line:229
+c	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	249;"	l	line:249
+c	C:\C32\MikroEMMB 256\MicroB\fileio.c	428;"	l	line:428
+c	C:\C32\MikroEMMB 256\MicroB\fileio.c	505;"	l	line:505
+c	C:\C32\MikroEMMB 256\MicroB\fileio.c	548;"	l	line:548
+c	C:\C32\MikroEMMB 256\MicroB\fileio.c	623;"	l	line:623
+ccls	C:\C32\MikroEMMB 256\MicroB\fileio.h	49;"	m	line:49
+clear	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	55;"	f	line:55	signature:( void)
+clearV	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	61;"	p	line:61	signature:( void)
+clockSPI::writeSPI(0xFF)	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	61;"	d	line:61	file:
+cluster	C:\C32\MikroEMMB 256\MicroB\fileio.c	937;"	l	line:937
+cluster	C:\C32\MikroEMMB 256\MicroB\fileio.h	48;"	m	line:48
+count	C:\C32\MikroEMMB 256\MicroB\fileio.c	850;"	l	line:850
+count	C:\C32\MikroEMMB 256\MicroB\fileio.c	936;"	l	line:936
+data	C:\C32\MikroEMMB 256\MicroB\boot_load.h	75;"	m	line:75
+data	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	80;"	m	line:80	file:
+data	C:\C32\MikroEMMB 256\MicroB\fileio.h	37;"	m	line:37
+date	C:\C32\MikroEMMB 256\MicroB\fileio.h	56;"	m	line:56
+decodeResult	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	915;"	l	line:915
+disableSD::SDCS=1;clockSPI	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	62;"	d	line:62	file:
+disk	C:\C32\MikroEMMB 256\MicroB\fileio.c	63;"	v	line:63
+e	C:\C32\MikroEMMB 256\MicroB\fileio.c	1021;"	l	line:1021
+e	C:\C32\MikroEMMB 256\MicroB\fileio.c	293;"	l	line:293
+e	C:\C32\MikroEMMB 256\MicroB\fileio.c	371;"	l	line:371
+e	C:\C32\MikroEMMB 256\MicroB\fileio.c	624;"	l	line:624
+eCount	C:\C32\MikroEMMB 256\MicroB\fileio.c	1145;"	l	line:1145
+eCount	C:\C32\MikroEMMB 256\MicroB\fileio.c	292;"	l	line:292
+eCount	C:\C32\MikroEMMB 256\MicroB\fileio.c	370;"	l	line:370
+eOffs	C:\C32\MikroEMMB 256\MicroB\fileio.c	1146;"	l	line:1146
+enableSD::SDCS=0	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	63;"	d	line:63	file:
+entry	C:\C32\MikroEMMB 256\MicroB\fileio.h	60;"	m	line:60
+exit	C:\C32\MikroEMMB 256\MicroB\MicroB.c	44;"	f	line:44	signature:( int e)
+fat	C:\C32\MikroEMMB 256\MicroB\fileio.h	35;"	m	line:35
+fatcopy	C:\C32\MikroEMMB 256\MicroB\fileio.h	41;"	m	line:41
+fatsize	C:\C32\MikroEMMB 256\MicroB\fileio.h	40;"	m	line:40
+fcloseM	C:\C32\MikroEMMB 256\MicroB\fileio.c	1019;"	f	line:1019	signature:( MFILE *fp)
+fcloseM	C:\C32\MikroEMMB 256\MicroB\fileio.h	102;"	p	line:102	signature:( MFILE *fp)
+filename	C:\C32\MikroEMMB 256\MicroB\MicroB.c	41;"	v	line:41
+findDIR	C:\C32\MikroEMMB 256\MicroB\fileio.c	288;"	f	line:288	signature:( MFILE *fp)
+findDIR	C:\C32\MikroEMMB 256\MicroB\fileio.h	92;"	p	line:92	signature:( MFILE *fp)
+firsts	C:\C32\MikroEMMB 256\MicroB\fileio.c	108;"	l	line:108
+flashPageStatus	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	93;"	v	line:93
+fopenM	C:\C32\MikroEMMB 256\MicroB\fileio.c	621;"	f	line:621	signature:( const char *filename, const char *mode)
+fopenM	C:\C32\MikroEMMB 256\MicroB\fileio.h	98;"	p	line:98	signature:( const char *name, const char *mode)
+fp	C:\C32\MikroEMMB 256\MicroB\MicroB.c	134;"	l	line:134
+fp	C:\C32\MikroEMMB 256\MicroB\fileio.c	1148;"	l	line:1148
+fp	C:\C32\MikroEMMB 256\MicroB\fileio.c	626;"	l	line:626
+fpage	C:\C32\MikroEMMB 256\MicroB\fileio.h	59;"	m	line:59
+freadM	C:\C32\MikroEMMB 256\MicroB\fileio.c	843;"	f	line:843	signature:( void * dest, unsigned size, MFILE *fp)
+freadM	C:\C32\MikroEMMB 256\MicroB\fileio.h	99;"	p	line:99	signature:( void * dest, unsigned count, MFILE *)
+free	C:\C32\MikroEMMB 256\MicroB\fileio.c	91;"	f	line:91	signature:( void *p)
+fseekM	C:\C32\MikroEMMB 256\MicroB\fileio.c	930;"	f	line:930	signature:( unsigned size, MFILE *fp)
+fseekM	C:\C32\MikroEMMB 256\MicroB\fileio.h	100;"	p	line:100	signature:( unsigned count, MFILE *)
+fwriteM	C:\C32\MikroEMMB 256\MicroB\fileio.c	1070;"	f	line:1070	signature:( void *src, unsigned count, MFILE * fp)
+fwriteM	C:\C32\MikroEMMB 256\MicroB\fileio.h	101;"	p	line:101	signature:( void * src, unsigned count, MFILE *)
+getCD	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	273;"	f	line:273	signature:( void)
+getCD	C:\C32\MikroEMMB 256\MicroB\SDMMC.h	25;"	p	line:25	signature:()
+getWP	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	263;"	f	line:263	signature:( void)
+getWP	C:\C32\MikroEMMB 256\MicroB\SDMMC.h	26;"	p	line:26	signature:()
+getcSPI::getcSPI2	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	235;"	d	line:235
+i	C:\C32\MikroEMMB 256\MicroB\MicroB.c	223;"	l	line:223
+i	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	115;"	l	line:115
+i	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	178;"	l	line:178
+i	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	18;"	l	line:18
+i	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	248;"	l	line:248
+i	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	306;"	l	line:306
+i	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	117;"	l	line:117
+i	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	158;"	l	line:158
+i	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	208;"	l	line:208
+i	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	70;"	l	line:70
+i	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	636;"	l	line:636
+i	C:\C32\MikroEMMB 256\MicroB\fileio.c	109;"	l	line:109
+i	C:\C32\MikroEMMB 256\MicroB\fileio.c	294;"	l	line:294
+i	C:\C32\MikroEMMB 256\MicroB\fileio.c	467;"	l	line:467
+i	C:\C32\MikroEMMB 256\MicroB\fileio.c	548;"	l	line:548
+i	C:\C32\MikroEMMB 256\MicroB\fileio.c	624;"	l	line:624
+iBuffer	C:\C32\MikroEMMB 256\MicroB\MicroB.c	136;"	l	line:136
+iBuffer	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	919;"	l	line:919
+iCopy	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	682;"	l	line:682
+iData	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	522;"	l	line:522
+initMedia	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	112;"	f	line:112	signature:( void)
+initMedia	C:\C32\MikroEMMB 256\MicroB\SDMMC.h	23;"	p	line:23	signature:( void)
+initSD	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	40;"	f	line:40	signature:( void)
+initSD	C:\C32\MikroEMMB 256\MicroB\SDMMC.h	22;"	p	line:22	signature:( void)
+initV	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	305;"	f	line:305	signature:( void)
+initV	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	60;"	p	line:60	signature:( void)
+j	C:\C32\MikroEMMB 256\MicroB\MicroB.c	223;"	l	line:223
+j	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	115;"	l	line:115
+j	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	248;"	l	line:248
+l	C:\C32\MikroEMMB 256\MicroB\fileio.c	262;"	l	line:262
+l	C:\C32\MikroEMMB 256\MicroB\fileio.c	279;"	l	line:279
+l	C:\C32\MikroEMMB 256\MicroB\fileio.c	429;"	l	line:429
+l	C:\C32\MikroEMMB 256\MicroB\fileio.c	469;"	l	line:469
+l	C:\C32\MikroEMMB 256\MicroB\fileio.c	593;"	l	line:593
+l	C:\C32\MikroEMMB 256\MicroB\fileio.c	607;"	l	line:607
+len	C:\C32\MikroEMMB 256\MicroB\fileio.c	1076;"	l	line:1076
+len	C:\C32\MikroEMMB 256\MicroB\fileio.c	851;"	l	line:851
+len	C:\C32\MikroEMMB 256\MicroB\fileio.c	937;"	l	line:937
+line	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	63;"	p	line:63	signature:( int x0, int y0, int x1, int y1)
+list	C:\C32\MikroEMMB 256\MicroB\MicroB.c	281;"	l	line:281
+listTYPE	C:\C32\MikroEMMB 256\MicroB\fileio.c	1139;"	f	line:1139	signature:( char *list, int max, const char *ext )
+listTYPE	C:\C32\MikroEMMB 256\MicroB\fileio.h	104;"	p	line:104	signature:( char *list, int max, const char *ext )
+main	C:\C32\MikroEMMB 256\MicroB\MicroB.c	320;"	f	line:320	signature:( void)
+malloc	C:\C32\MikroEMMB 256\MicroB\fileio.c	67;"	f	line:67	signature:( unsigned size)
+maxcls	C:\C32\MikroEMMB 256\MicroB\fileio.h	39;"	m	line:39
+maxroot	C:\C32\MikroEMMB 256\MicroB\fileio.h	38;"	m	line:38
+mda	C:\C32\MikroEMMB 256\MicroB\fileio.c	1075;"	l	line:1075
+mda	C:\C32\MikroEMMB 256\MicroB\fileio.c	295;"	l	line:295
+mda	C:\C32\MikroEMMB 256\MicroB\fileio.c	373;"	l	line:373
+mda	C:\C32\MikroEMMB 256\MicroB\fileio.c	506;"	l	line:506
+mda	C:\C32\MikroEMMB 256\MicroB\fileio.c	849;"	l	line:849
+mda	C:\C32\MikroEMMB 256\MicroB\fileio.c	935;"	l	line:935
+mda	C:\C32\MikroEMMB 256\MicroB\fileio.h	46;"	m	line:46
+mode	C:\C32\MikroEMMB 256\MicroB\fileio.h	58;"	m	line:58
+mount	C:\C32\MikroEMMB 256\MicroB\fileio.c	105;"	f	line:105	signature:( void)
+mount	C:\C32\MikroEMMB 256\MicroB\fileio.h	95;"	p	line:95	signature:( void)
+n	C:\C32\MikroEMMB 256\MicroB\MicroB.c	223;"	l	line:223
+n	C:\C32\MikroEMMB 256\MicroB\MicroB.c	282;"	l	line:282
+nBuffer	C:\C32\MikroEMMB 256\MicroB\MicroB.c	135;"	l	line:135
+nCurrent	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	918;"	l	line:918
+nRemaining	C:\C32\MikroEMMB 256\MicroB\MicroB.c	137;"	l	line:137
+nUsed	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	523;"	l	line:523
+name	C:\C32\MikroEMMB 256\MicroB\fileio.h	57;"	m	line:57
+newDIR	C:\C32\MikroEMMB 256\MicroB\fileio.c	366;"	f	line:366	signature:( MFILE *fp)
+newDIR	C:\C32\MikroEMMB 256\MicroB\fileio.h	93;"	p	line:93	signature:( MFILE *fp)
+newFAT	C:\C32\MikroEMMB 256\MicroB\fileio.c	541;"	f	line:541	signature:( MFILE * fp)
+newFAT	C:\C32\MikroEMMB 256\MicroB\fileio.h	89;"	p	line:89	signature:( MFILE * fp)
+nextFAT	C:\C32\MikroEMMB 256\MicroB\fileio.c	500;"	f	line:500	signature:( MFILE * fp, unsigned n)
+nextFAT	C:\C32\MikroEMMB 256\MicroB\fileio.h	88;"	p	line:88	signature:( MFILE * fp, unsigned n)
+nvmResult	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	995;"	l	line:995
+p	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	116;"	l	line:116
+p	C:\C32\MikroEMMB 256\MicroB\fileio.c	428;"	l	line:428
+p	C:\C32\MikroEMMB 256\MicroB\fileio.c	468;"	l	line:468
+pCopyFrom	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	683;"	l	line:683
+pCopyTo	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	684;"	l	line:684
+pData	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	994;"	l	line:994
+pf	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	117;"	l	line:117
+plot	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	62;"	p	line:62	signature:( int x, int y)
+pos	C:\C32\MikroEMMB 256\MicroB\fileio.h	51;"	m	line:51
+position	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	340;"	l	line:340
+processResult	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	916;"	l	line:916
+psize	C:\C32\MikroEMMB 256\MicroB\fileio.c	107;"	l	line:107
+putV	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	112;"	f	line:112	signature:( int a)
+putcSPI::putcSPI2	C:\C32\MikroEMMB 256\MicroB\HardwareProfile.h	234;"	d	line:234
+putcV	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	176;"	f	line:176	signature:( char A)
+putcV	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	73;"	p	line:73	signature:( char a)
+putsV	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	213;"	f	line:213	signature:( char *s)
+putsV	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.h	74;"	p	line:74	signature:( char *s)
+r	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	248;"	l	line:248
+r	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	117;"	l	line:117
+r	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	158;"	l	line:158
+r	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	208;"	l	line:208
+r	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	70;"	l	line:70
+r	C:\C32\MikroEMMB 256\MicroB\fileio.c	1021;"	l	line:1021
+r	C:\C32\MikroEMMB 256\MicroB\fileio.c	1147;"	l	line:1147
+r	C:\C32\MikroEMMB 256\MicroB\fileio.c	624;"	l	line:624
+readDATA	C:\C32\MikroEMMB 256\MicroB\fileio.c	605;"	f	line:605	signature:( MFILE *fp)
+readDIR	C:\C32\MikroEMMB 256\MicroB\fileio.c	258;"	f	line:258	signature:( MFILE *fp, unsigned e)
+readDIR	C:\C32\MikroEMMB 256\MicroB\fileio.h	91;"	p	line:91	signature:( MFILE *fp, unsigned entry)
+readFAT	C:\C32\MikroEMMB 256\MicroB\fileio.c	422;"	f	line:422	signature:( MFILE *fp, unsigned ccls)
+readSECTOR	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	153;"	f	line:153	signature:( LBA a, char *p)
+readSECTOR	C:\C32\MikroEMMB 256\MicroB\SDMMC.h	28;"	p	line:28	signature:( LBA, char *)
+readSPI::writeSPI(0xFF)	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	60;"	d	line:60	file:
+recordBuffer	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	85;"	v	line:85
+returnVal	C:\C32\MikroEMMB 256\MicroB\boot_load_hex.c	408;"	l	line:408
+root	C:\C32\MikroEMMB 256\MicroB\fileio.h	36;"	m	line:36
+sec	C:\C32\MikroEMMB 256\MicroB\fileio.h	50;"	m	line:50
+seek	C:\C32\MikroEMMB 256\MicroB\fileio.h	53;"	m	line:53
+sendSDCmd	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	66;"	f	line:66	signature:( unsigned char c, unsigned a)
+size	C:\C32\MikroEMMB 256\MicroB\fileio.c	1076;"	l	line:1076
+size	C:\C32\MikroEMMB 256\MicroB\fileio.h	54;"	m	line:54
+sxc	C:\C32\MikroEMMB 256\MicroB\fileio.h	42;"	m	line:42
+tab	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	178;"	l	line:178
+time	C:\C32\MikroEMMB 256\MicroB\fileio.h	55;"	m	line:55
+top	C:\C32\MikroEMMB 256\MicroB\fileio.h	52;"	m	line:52
+unmount	C:\C32\MikroEMMB 256\MicroB\fileio.c	250;"	f	line:250	signature:( void)
+unmount	C:\C32\MikroEMMB 256\MicroB\fileio.h	96;"	p	line:96	signature:( void)
+writeDATA	C:\C32\MikroEMMB 256\MicroB\fileio.c	591;"	f	line:591	signature:( MFILE *fp)
+writeDIR	C:\C32\MikroEMMB 256\MicroB\fileio.c	275;"	f	line:275	signature:( MFILE *fp, unsigned entry)
+writeFAT	C:\C32\MikroEMMB 256\MicroB\fileio.c	461;"	f	line:461	signature:( MFILE *fp, unsigned cls, unsigned v)
+writeSECTOR	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	203;"	f	line:203	signature:( LBA a, char *p)
+writeSECTOR	C:\C32\MikroEMMB 256\MicroB\SDMMC.h	29;"	p	line:29	signature:( LBA, char *)
+writeSPI	C:\C32\MikroEMMB 256\MicroB\SDMMC.c	53;"	f	line:53	signature:( unsigned b)
+x	C:\C32\MikroEMMB 256\MicroB\fileio.c	1147;"	l	line:1147
+y	C:\C32\MikroEMMB 256\MicroB\MiniGraphic.c	57;"	l	line:57

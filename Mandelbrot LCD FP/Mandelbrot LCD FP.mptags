@@ -1,0 +1,971 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ACL_CS::_LATC3	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	125;"	d	line:125
+ACL_CS_TRIS::_TRISC3	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	126;"	d	line:126
+ADC_POT::8	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	67;"	d	line:67
+ADC_XPOS::ADC_CH0_POS_SAMPLEA_AN11	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	136;"	d	line:136
+ADC_YPOS::ADC_CH0_POS_SAMPLEA_AN10	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	137;"	d	line:137
+ADPCFG_XPOS::_PCFG13	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	140;"	d	line:140
+ADPCFG_YPOS::AD1PCFGbits.PCFG12	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	147;"	d	line:147
+AltGOLFontDefault	C:\C32\MikroEMMB 256\Microchip\Graphics\GOLFontDefault.c	189;"	v	line:189
+Arc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	177;"	f	line:177	signature:(SHORT xL, SHORT yT, SHORT xR, SHORT yB, SHORT r1, SHORT r2, BYTE octant)
+Arc	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	282;"	p	line:282	signature:(SHORT xL, SHORT yT, SHORT xR, SHORT yB, SHORT r1, SHORT r2, BYTE octant)
+BIT	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	65;"	t	line:65
+BITMAP_EXTERNAL::EXTDATA	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	173;"	d	line:173
+BITMAP_FLASH	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	159;"	t	line:159
+BITMAP_HEADER	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	149;"	t	line:149
+BITMAP_RAM	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	169;"	t	line:169
+BL_CS::_LATD2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	109;"	d	line:109
+BL_CS_TRIS::_TRISD2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	110;"	d	line:110
+BL_LAT_BIT::_LATD2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	82;"	d	line:82
+BL_TRIS_BIT::_TRISD2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	81;"	d	line:81
+BOOL	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	64;"	t	line:64
+BTN_A::_RB0	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	175;"	d	line:175
+BTN_B::_RB1	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	176;"	d	line:176
+BTN_C::_RB2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	177;"	d	line:177
+BTN_CP::_RA10	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	179;"	d	line:179
+BTN_D::_RB3	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	178;"	d	line:178
+BYTE	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	341;"	t	line:341
+BYTE_BITS	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	367;"	t	line:367
+BYTE_VAL	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	367;"	t	line:367
+BacklightOff::BL_CS=0	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	113;"	d	line:113
+BacklightOn::BL_CS=1	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	112;"	d	line:112
+Bar	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1392;"	f	line:1392	signature:(SHORT left, SHORT top, SHORT right, SHORT bottom)
+Bar	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	842;"	p	line:842	signature:(SHORT left, SHORT top, SHORT right, SHORT bottom)
+Bevel	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	944;"	f	line:944	signature:(SHORT x1, SHORT y1, SHORT x2, SHORT y2, SHORT rad)
+Bevel	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	721;"	p	line:721	signature:(SHORT x1, SHORT y1, SHORT x2, SHORT y2, SHORT rad)
+CHAR	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	347;"	t	line:347
+CHAR8	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	338;"	t	line:338
+CLEAR	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	65;"	e	line:65	enum:_BIT
+COLORX::0b00000000000100010	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	79;"	d	line:79	file:
+COLOR_DEPTH::16	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	56;"	d	line:56
+CS_ACC_LAT_BIT::_LATC3	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	170;"	d	line:170
+CS_ACC_TRIS_BIT::_TRISC3	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	169;"	d	line:169
+CS_FLASH_LAT_BIT::_LATC2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	158;"	d	line:158
+CS_FLASH_TRIS_BIT::_TRISC2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	157;"	d	line:157
+CS_LAT_BIT::_LATF12	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	78;"	d	line:78
+CS_RF_LAT_BIT::_LATD8	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	164;"	d	line:164
+CS_RF_TRIS_BIT::_TRISD8	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	163;"	d	line:163
+CS_TRIS_BIT::_TRISF12	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	77;"	d	line:77
+Circle	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	691;"	p	line:691	signature:(SHORT x, SHORT y, SHORT radius)
+Circle::(x,y,radius)Bevel(x,y,x,y,radi	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	689;"	d	line:689
+ClearDevice	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1432;"	f	line:1432	signature:(void)
+ClearDevice	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	867;"	p	line:867	signature:(void)
+DASHED_LINE::4	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	59;"	d	line:59
+DISPLAY_CONTROLLER::R61505	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	44;"	d	line:44
+DISP_HOR_RESOLUTION::240	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	49;"	d	line:49
+DISP_ORIENTATION::90	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	62;"	d	line:62
+DISP_VER_RESOLUTION::320	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	50;"	d	line:50
+DOTTED_LINE::1	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	56;"	d	line:56
+DWORD	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	343;"	t	line:343
+DWORD_VAL	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	456;"	t	line:456
+DrawPoly	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1291;"	f	line:1291	signature:(SHORT numPoints, SHORT *polyPoints)
+DrawPoly	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	819;"	p	line:819	signature:(SHORT numPoints, SHORT *polyPoints)
+EE_CS::_LATD1	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	116;"	d	line:116
+EE_CS_TRIS::_TRISD1	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	117;"	d	line:117
+EXTDATA	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	127;"	t	line:127
+EXTERNAL	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	113;"	e	line:113
+EXTERNAL_FONT_BUFFER_SIZE::600	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	230;"	d	line:230
+ExternalMemoryCallback	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	968;"	p	line:968	signature:(EXTDATA *memory, LONG offset, WORD nCount, void *buffer)
+FALSE	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	64;"	e	line:64	enum:_BOOL
+FIX_MAXPOS::+16	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	81;"	d	line:81	file:
+FIX_SCALE::((1<<30)/FIX_MAXPOS)	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	82;"	d	line:82	file:
+FLASH	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	112;"	e	line:112
+FLASH_BYTE::char__prog__	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	135;"	d	line:135
+FLASH_BYTE::constBYTE	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	130;"	d	line:130
+FLASH_WORD::constWORD	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	131;"	d	line:131
+FLASH_WORD::shortint__prog__	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	136;"	d	line:136
+FONT_EXTERNAL::EXTDATA	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	220;"	d	line:220
+FONT_FLASH	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	207;"	t	line:207
+FONT_HEADER	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	189;"	t	line:189
+FONT_RAM	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	217;"	t	line:217
+FP_FOUR::(4*FIX_SCALE)	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	85;"	d	line:85	file:
+FP_MTWO::(-2*FIX_SCALE)	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	84;"	d	line:84	file:
+FP_TWO::(2*FIX_SCALE)	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	83;"	d	line:83	file:
+FillBevel	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1069;"	f	line:1069	signature:(SHORT x1, SHORT y1, SHORT x2, SHORT y2, SHORT rad)
+FillBevel	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	749;"	p	line:749	signature:(SHORT x1, SHORT y1, SHORT x2, SHORT y2, SHORT rad)
+FillCircle::(x1,y1,rad)FillBevel(x1,y1,x1,	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	770;"	d	line:770
+GLYPH_ENTRY	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	197;"	t	line:197
+GOLFontDefault	C:\C32\MikroEMMB 256\Microchip\Graphics\GOLFontDefault.c	14;"	v	line:14
+GRAPHICS_HARDWARE_PLATFORM::PIC32MX4_MMB	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	43;"	d	line:43
+GetFontOrientation::_fontOrientation	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	406;"	d	line:406
+GetImageHeight	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1952;"	f	line:1952	signature:(void *bitmap)
+GetImageHeight	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	917;"	p	line:917	signature:(void *bitmap)
+GetImageWidth	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1911;"	f	line:1911	signature:(void *bitmap)
+GetImageWidth	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	903;"	p	line:903	signature:(void *bitmap)
+GetPeripheralClock::(GetSystemClock/(1<<OSCCONbits	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	35;"	d	line:35
+GetSystemClock	C:\C32\MikroEMMB 256\MMB\MMB.C	26;"	p	line:26	file:
+GetSystemClock::(80000000ul)	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	25;"	d	line:25
+GetTextHeight	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1866;"	f	line:1866	signature:(void *font)
+GetTextHeight	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	531;"	p	line:531	signature:(void *font)
+GetTextWidth	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1763;"	f	line:1763	signature:(XCHAR *textString, void *font)
+GetTextWidth	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	551;"	p	line:551	signature:(XCHAR *textString, void *font)
+GetX::_cursorX	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	320;"	d	line:320
+GetY::_cursorY	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	336;"	d	line:336
+HB	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	119;"	m	line:119	struct:<anonymous>::__PACKED
+HB	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	151;"	m	line:151	struct:<anonymous>::__PACKED
+HB	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	197;"	m	line:197	struct:<anonymous>::__PACKED
+HB	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	376;"	m	line:376	struct:<anonymous>::__PACKED
+HB	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	412;"	m	line:412	struct:<anonymous>::__PACKED
+HD	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	254;"	m	line:254	struct:<anonymous>::__PACKED
+HD	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	468;"	m	line:468	struct:<anonymous>::__PACKED
+HW	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	192;"	m	line:192	struct:<anonymous>::__PACKED
+HW	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	259;"	m	line:259	struct:<anonymous>::__PACKED
+HW	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	407;"	m	line:407	struct:<anonymous>::__PACKED
+HW	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	473;"	m	line:473	struct:<anonymous>::__PACKED
+ID	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	125;"	m	line:125
+IMAGE_NORMAL::1	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	76;"	d	line:76
+IMAGE_X2::2	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	79;"	d	line:79
+INT	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	72;"	t	line:72
+INT16	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	74;"	t	line:74
+INT32	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	75;"	t	line:75
+INT64	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	79;"	t	line:79
+INT8	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	73;"	t	line:73
+InitGraph	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	106;"	f	line:106	signature:(void)
+InitGraph	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	304;"	p	line:304	signature:(void)
+JOY_DOWN::1	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	195;"	d	line:195
+JOY_DOWN::1	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	99;"	d	line:99
+JOY_DOWN::2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	187;"	d	line:187
+JOY_DOWN::2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	91;"	d	line:91
+JOY_LEFT::1	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	188;"	d	line:188
+JOY_LEFT::1	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	92;"	d	line:92
+JOY_LEFT::8	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	100;"	d	line:100
+JOY_LEFT::8	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	196;"	d	line:196
+JOY_RIGHT::2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	194;"	d	line:194
+JOY_RIGHT::2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	98;"	d	line:98
+JOY_RIGHT::4	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	186;"	d	line:186
+JOY_RIGHT::4	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	90;"	d	line:90
+JOY_SELECT::16	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	184;"	d	line:184
+JOY_SELECT::16	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	192;"	d	line:192
+JOY_SELECT::16	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	88;"	d	line:88
+JOY_SELECT::16	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	96;"	d	line:96
+JOY_UP::4	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	193;"	d	line:193
+JOY_UP::4	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	97;"	d	line:97
+JOY_UP::8	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	185;"	d	line:185
+JOY_UP::8	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	89;"	d	line:89
+L11903	C:\C32\MikroEMMB 256\Microchip\Graphics\GOLFontDefault.c	16;"	v	line:16
+L1190312	C:\C32\MikroEMMB 256\Microchip\Graphics\GOLFontDefault.c	190;"	v	line:190
+LAT_XNEG::_LATB11	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	141;"	d	line:141
+LAT_XPOS::_LATB13	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	142;"	d	line:142
+LAT_YNEG::_LATB10	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	148;"	d	line:148
+LAT_YPOS::_LATB12	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	149;"	d	line:149
+LB	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	118;"	m	line:118	struct:<anonymous>::__PACKED
+LB	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	150;"	m	line:150	struct:<anonymous>::__PACKED
+LB	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	196;"	m	line:196	struct:<anonymous>::__PACKED
+LB	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	375;"	m	line:375	struct:<anonymous>::__PACKED
+LB	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	411;"	m	line:411	struct:<anonymous>::__PACKED
+LCD_BACK::BLACK	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\GraphicsConfig.h	103;"	d	line:103
+LCD_FORE::WHITE	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\GraphicsConfig.h	104;"	d	line:104
+LCD_SCROLL	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\GraphicsConfig.h	101;"	d	line:101
+LCD_WRAP	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\GraphicsConfig.h	100;"	d	line:100
+LD	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	253;"	m	line:253	struct:<anonymous>::__PACKED
+LD	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	467;"	m	line:467	struct:<anonymous>::__PACKED
+LD0::_LATA0	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	206;"	d	line:206
+LD0_TRIS::_TRISA0	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	202;"	d	line:202
+LD1::_LATA1	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	207;"	d	line:207
+LD1_TRIS::_TRISA1	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	203;"	d	line:203
+LD2::_LATA2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	208;"	d	line:208
+LD2_TRIS::_TRISA2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	204;"	d	line:204
+LD3::_LATA3	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	209;"	d	line:209
+LD3_TRIS::_TRISA3	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	205;"	d	line:205
+LED_OFF::1	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	130;"	d	line:130
+LED_OFF::1	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	213;"	d	line:213
+LED_ON::0	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	129;"	d	line:129
+LED_ON::0	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	212;"	d	line:212
+LONG	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	349;"	t	line:349
+LONGLONG	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	352;"	t	line:352
+LW	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	191;"	m	line:191	struct:<anonymous>::__PACKED
+LW	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	258;"	m	line:258	struct:<anonymous>::__PACKED
+LW	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	406;"	m	line:406	struct:<anonymous>::__PACKED
+LW	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	472;"	m	line:472	struct:<anonymous>::__PACKED
+Line	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	732;"	f	line:732	signature:(SHORT x1, SHORT y1, SHORT x2, SHORT y2)
+Line	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	625;"	p	line:625	signature:(SHORT x1, SHORT y1, SHORT x2, SHORT y2)
+LineRel::(dX,dY)Line(GetX,GetY,GetX+dX,	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	647;"	d	line:647
+LineTo::(x,y)Line(_cursorX,_cursorY,x,	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	668;"	d	line:668
+MAXIT::128	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	77;"	d	line:77	file:
+MB	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	199;"	m	line:199	struct:<anonymous>::__PACKED
+MB	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	414;"	m	line:414	struct:<anonymous>::__PACKED
+MDD_USE_SPI_2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	223;"	d	line:223
+MMBAccInit	C:\C32\MikroEMMB 256\MMB\MMB.C	181;"	f	line:181	signature:( void)
+MMBAccInit	C:\C32\MikroEMMB 256\MMB\MMB.h	33;"	p	line:33	signature:( void)
+MMBAccRead	C:\C32\MikroEMMB 256\MMB\MMB.C	225;"	f	line:225	signature:( int* x, int* y, int*z)
+MMBAccRead	C:\C32\MikroEMMB 256\MMB\MMB.h	34;"	p	line:34	signature:(int*, int*, int*)
+MMBFadeIn	C:\C32\MikroEMMB 256\MMB\MMB.C	263;"	f	line:263	signature:( int msTime)
+MMBFadeIn	C:\C32\MikroEMMB 256\MMB\MMB.h	36;"	p	line:36	signature:( int msTime)
+MMBFadeOut	C:\C32\MikroEMMB 256\MMB\MMB.C	286;"	f	line:286	signature:( int msTime)
+MMBFadeOut	C:\C32\MikroEMMB 256\MMB\MMB.h	37;"	p	line:37	signature:( int msTime)
+MMBGetKey	C:\C32\MikroEMMB 256\MMB\MMB.C	137;"	f	line:137	signature:( void)
+MMBGetKey	C:\C32\MikroEMMB 256\MMB\MMB.h	24;"	p	line:24	signature:( void)
+MMBGetTdegC::(((3.25/1024)*MMBReadT-.5)/0.0	C:\C32\MikroEMMB 256\MMB\MMB.h	21;"	d	line:21
+MMBInit	C:\C32\MikroEMMB 256\MMB\MMB.C	20;"	f	line:20	signature:( void)
+MMBInit	C:\C32\MikroEMMB 256\MMB\MMB.h	26;"	p	line:26	signature:( void)
+MMBReadKey	C:\C32\MikroEMMB 256\MMB\MMB.C	118;"	f	line:118	signature:( void)
+MMBReadKey	C:\C32\MikroEMMB 256\MMB\MMB.h	23;"	p	line:23	signature:( void)
+MMBReadStopwatch	C:\C32\MikroEMMB 256\MMB\MMB.C	79;"	f	line:79	signature:( void)
+MMBReadStopwatch	C:\C32\MikroEMMB 256\MMB\MMB.h	28;"	p	line:28	signature:( void)
+MMBReadT	C:\C32\MikroEMMB 256\MMB\MMB.C	54;"	f	line:54	signature:( void)
+MMBReadT	C:\C32\MikroEMMB 256\MMB\MMB.h	20;"	p	line:20	signature:( void)
+MMBStartStopwatch	C:\C32\MikroEMMB 256\MMB\MMB.C	72;"	f	line:72	signature:( void)
+MMBStartStopwatch	C:\C32\MikroEMMB 256\MMB\MMB.h	29;"	p	line:29	signature:( void)
+MMBUARTInit	C:\C32\MikroEMMB 256\MMB\MMB.C	90;"	f	line:90	signature:( int baudrate)
+MMBUARTInit	C:\C32\MikroEMMB 256\MMB\MMB.h	31;"	p	line:31	signature:( int baudrate)
+MW	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	261;"	m	line:261	struct:<anonymous>::__PACKED
+MW	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	475;"	m	line:475	struct:<anonymous>::__PACKED
+MoveRel::(dX,dY)	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	378;"	d	line:378
+MoveTo::(x,y)	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	355;"	d	line:355
+NORMAL_LINE::0	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	62;"	d	line:62
+ONEP25::81920	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	89;"	d	line:89
+ORIENT_HOR::0	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	98;"	d	line:98
+ORIENT_VER::1	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	99;"	d	line:99
+OpenSPI::(config1,config2)OpenSPI2(conf	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	277;"	d	line:277
+OutChar	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1601;"	f	line:1601	signature:(XCHAR ch)
+OutChar	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	432;"	p	line:432	signature:(XCHAR ch)
+OutText	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1508;"	f	line:1508	signature:(XCHAR *textString)
+OutText	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	461;"	p	line:461	signature:(XCHAR *textString)
+OutTextXY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1550;"	f	line:1550	signature:(SHORT x, SHORT y, XCHAR *textString)
+OutTextXY	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	512;"	p	line:512	signature:(SHORT x, SHORT y, XCHAR *textString)
+PIC32MX4_MMB::400	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	14;"	d	line:14
+PRIVATE::static	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	69;"	d	line:69
+PROTECTED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	68;"	d	line:68
+PUBLIC::	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	67;"	d	line:67
+PutImage	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2001;"	f	line:2001	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	889;"	p	line:889	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage16BPP	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2372;"	f	line:2372	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage16BPP	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	49;"	p	line:49	file:	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage16BPPExt	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2716;"	f	line:2716	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage16BPPExt	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	54;"	p	line:54	file:	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage1BPP	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2113;"	f	line:2113	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage1BPP	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	46;"	p	line:46	file:	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage1BPPExt	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2442;"	f	line:2442	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage1BPPExt	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	51;"	p	line:51	file:	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage4BPP	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2203;"	f	line:2203	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage4BPP	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	47;"	p	line:47	file:	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage4BPPExt	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2543;"	f	line:2543	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage4BPPExt	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	52;"	p	line:52	file:	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage8BPP	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2292;"	f	line:2292	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage8BPP	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	48;"	p	line:48	file:	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage8BPPExt	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2639;"	f	line:2639	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage8BPPExt	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	53;"	p	line:53	file:	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+QWORD	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	346;"	t	line:346
+QWORD_VAL	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	544;"	t	line:544
+RAM	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	114;"	e	line:114
+RF_CS::_LATD8	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	105;"	d	line:105
+RF_CS_TRIS::_TRISD8	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	106;"	d	line:106
+RST_LAT_BIT::_LATC1	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	70;"	d	line:70
+RST_TRIS_BIT::_TRISC1	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	69;"	d	line:69
+RS_LAT_BIT::_LATB15	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	74;"	d	line:74
+RS_TRIS_BIT::_TRISB15	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	73;"	d	line:73
+Rectangle::(left,top,right,bottom)Bevel(l	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	793;"	d	line:793
+SD_CD::_RA6	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	239;"	d	line:239
+SD_CD_TRIS::_TRISA6	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	241;"	d	line:241
+SD_CS::_LATG9	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	234;"	d	line:234
+SD_CS_TRIS::_TRISG9	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	236;"	d	line:236
+SD_WE::_RA7	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	244;"	d	line:244
+SD_WE_TRIS::_TRISA7	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	246;"	d	line:246
+SET	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	65;"	e	line:65	enum:_BIT
+SHORT	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	348;"	t	line:348
+SIN45::46341	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	88;"	d	line:88
+SIZE::240	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	76;"	d	line:76	file:
+SOLID_LINE::0	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	53;"	d	line:53
+SPIBRG::SPI2BRG	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	263;"	d	line:263
+SPIBUF::SPI2BUF	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	253;"	d	line:253
+SPICLOCK::TRISGbits.TRISG6	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	268;"	d	line:268
+SPICON1::SPI2CON	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	249;"	d	line:249
+SPICON1bits::SPI2CONbits	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	257;"	d	line:257
+SPIENABLE::SPI2CONbits.ON	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	261;"	d	line:261
+SPIIN::TRISGbits.TRISG7	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	270;"	d	line:270
+SPIOUT::TRISGbits.TRISG8	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	272;"	d	line:272
+SPISTAT::SPI2STAT	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	251;"	d	line:251
+SPISTAT_RBF::SPI2STATbits.SPIRBF	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	255;"	d	line:255
+SPISTATbits::SPI2STATbits	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	259;"	d	line:259
+SPI_FREQUENCY::(20000000)	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	230;"	d	line:230
+SPI_START_CFG_1::(PRI_PRESCAL_64_1|SEC_PRESCAL_	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	226;"	d	line:226
+SPI_START_CFG_2::(SPI_ENABLE)	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	227;"	d	line:227
+SST25_CS_LAT::EE_CS	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	118;"	d	line:118
+SST25_CS_TRIS::EE_CS_TRIS	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	119;"	d	line:119
+SST25_SCK_TRIS::_TRISG6	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	120;"	d	line:120
+SST25_SDI_TRIS::_TRISG7	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	121;"	d	line:121
+SST25_SDO_TRIS::_TRISG8	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	122;"	d	line:122
+SYS_CFG_PCACHE	C:\C32\MikroEMMB 256\MMB\MMB.C	26;"	l	line:26
+SetFont	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1457;"	f	line:1457	signature:(void *font)
+SetFont	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	569;"	p	line:569	signature:(void *font)
+SetFontOrientation::(orient)_fontOrientation=orien	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	392;"	d	line:392
+SetLineThickness::(lnThickness)_lineThickness=ln	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	601;"	d	line:601
+SetLineType::(lnType)_lineType=lnType;	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	587;"	d	line:587
+StopWatch	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	163;"	f	line:163	signature:( void)
+THICK_LINE::1	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	65;"	d	line:65
+TRIS_XNEG::_TRISB11	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	143;"	d	line:143
+TRIS_XPOS::_TRISB13	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	144;"	d	line:144
+TRIS_YNEG::_TRISB10	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	150;"	d	line:150
+TRIS_YPOS::_TRISB12	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	151;"	d	line:151
+TRUE	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	64;"	e	line:64	enum:_BOOL
+TYPE_MEMORY	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	116;"	t	line:116
+UB	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	152;"	m	line:152	struct:<anonymous>::__PACKED
+UB	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	198;"	m	line:198	struct:<anonymous>::__PACKED
+UB	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	413;"	m	line:413	struct:<anonymous>::__PACKED
+UCHAR8	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	339;"	t	line:339
+UINT	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	83;"	t	line:83
+UINT16	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	85;"	t	line:85
+UINT16_BITS	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	140;"	t	line:140
+UINT16_VAL	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	140;"	t	line:140
+UINT24	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	88;"	t	line:88
+UINT24_BITS	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	181;"	t	line:181
+UINT24_VAL	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	181;"	t	line:181
+UINT32	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	90;"	t	line:90
+UINT32_VAL	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	241;"	t	line:241
+UINT64	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	93;"	t	line:93
+UINT64_VAL	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	330;"	t	line:330
+UINT8	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	84;"	t	line:84
+UINT8_BITS	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	110;"	t	line:110
+UINT8_VAL	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	110;"	t	line:110
+USE_16BIT_PMP	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	57;"	d	line:57
+USE_BITMAP_FLASH::	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\GraphicsConfig.h	92;"	d	line:92
+USE_FONT_FLASH::	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\GraphicsConfig.h	79;"	d	line:79
+USE_GOL::	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\GraphicsConfig.h	46;"	d	line:46
+USE_PRIMITIVE_BEVEL	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	43;"	d	line:43	file:
+USE_SD_INTERFACE_WITH_SPI	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	220;"	d	line:220
+UW	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	260;"	m	line:260	struct:<anonymous>::__PACKED
+UW	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	474;"	m	line:474	struct:<anonymous>::__PACKED
+VIDEOBUF	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	115;"	e	line:115
+VOID	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	336;"	t	line:336
+Val	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	114;"	m	line:114
+Val	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	146;"	m	line:146
+Val	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	186;"	m	line:186
+Val	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	247;"	m	line:247
+Val	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	355;"	m	line:355
+Val	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	371;"	m	line:371
+Val	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	401;"	m	line:401
+Val	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	461;"	m	line:461
+Val	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	98;"	m	line:98
+WORD	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	342;"	t	line:342
+WORD_BITS	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	397;"	t	line:397
+WORD_VAL	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	397;"	t	line:397
+XCHAR::char	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	105;"	d	line:105
+XCHAR::short	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	103;"	d	line:103
+_BIT	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	65;"	g	line:65
+_BOOL	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	64;"	g	line:64
+_DISPLAYDRIVER_H	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\DisplayDriver.h	41;"	d	line:41
+_GRAPHICSCONFIG_H	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\GraphicsConfig.h	10;"	d	line:10
+_MIKROE_MMB	C:\C32\MikroEMMB 256\MMB\MMB.h	12;"	d	line:12
+_PRIMITIVE_H	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	44;"	d	line:44
+__EXTENSION	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	546;"	d	line:546
+__EXTENSION	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	54;"	d	line:54
+__EXTENSION::__extension__	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	52;"	d	line:52
+__GENERIC_TYPE_DEFS_H_	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	48;"	d	line:48
+__HARDWARE_PROFILE_H	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	12;"	d	line:12
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	115;"	m	line:115
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	116;"	s	line:116
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	121;"	s	line:121
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	147;"	m	line:147
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	148;"	s	line:148
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	154;"	s	line:154
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	187;"	m	line:187
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	188;"	m	line:188
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	189;"	s	line:189
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	194;"	s	line:194
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	201;"	s	line:201
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	206;"	s	line:206
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	248;"	m	line:248
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	249;"	m	line:249
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	250;"	m	line:250
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	251;"	s	line:251
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	256;"	s	line:256
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	263;"	s	line:263
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	356;"	s	line:356
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	372;"	m	line:372
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	373;"	s	line:373
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	378;"	s	line:378
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	402;"	m	line:402
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	403;"	m	line:403
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	404;"	s	line:404
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	409;"	s	line:409
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	416;"	s	line:416
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	421;"	s	line:421
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	462;"	m	line:462
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	463;"	m	line:463
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	464;"	m	line:464
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	465;"	s	line:465
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	470;"	s	line:470
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	477;"	s	line:477
+__PACKED	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	58;"	d	line:58
+_cursorX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	66;"	v	line:66
+_cursorY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	69;"	v	line:69
+_font	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	72;"	v	line:72
+_fontFirstChar	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	79;"	v	line:79
+_fontHeight	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	83;"	v	line:83
+_fontLastChar	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	80;"	v	line:80
+_fontOrientation	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	63;"	v	line:63
+_general_exception_handler	C:\C32\MikroEMMB 256\MMB\MMB.C	14;"	f	line:14	signature:( unsigned c, unsigned s)
+_lineThickness	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	60;"	v	line:60
+_lineType	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	57;"	v	line:57
+_palette	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	75;"	v	line:75
+address	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	126;"	m	line:126
+address	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	158;"	m	line:158
+address	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	168;"	m	line:168
+address	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	206;"	m	line:206
+address	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	216;"	m	line:216
+b0	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	101;"	m	line:101
+b0	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	123;"	m	line:123	struct:<anonymous>::__PACKED
+b0	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	156;"	m	line:156	struct:<anonymous>::__PACKED
+b0	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	208;"	m	line:208	struct:<anonymous>::__PACKED
+b0	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	265;"	m	line:265	struct:<anonymous>::__PACKED
+b0	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	358;"	m	line:358	struct:<anonymous>::__PACKED
+b0	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	380;"	m	line:380	struct:<anonymous>::__PACKED
+b0	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	423;"	m	line:423	struct:<anonymous>::__PACKED
+b0	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	479;"	m	line:479	struct:<anonymous>::__PACKED
+b1	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	102;"	m	line:102
+b1	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	124;"	m	line:124	struct:<anonymous>::__PACKED
+b1	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	157;"	m	line:157	struct:<anonymous>::__PACKED
+b1	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	209;"	m	line:209	struct:<anonymous>::__PACKED
+b1	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	266;"	m	line:266	struct:<anonymous>::__PACKED
+b1	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	359;"	m	line:359	struct:<anonymous>::__PACKED
+b1	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	381;"	m	line:381	struct:<anonymous>::__PACKED
+b1	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	424;"	m	line:424	struct:<anonymous>::__PACKED
+b1	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	480;"	m	line:480	struct:<anonymous>::__PACKED
+b10	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	133;"	m	line:133	struct:<anonymous>::__PACKED
+b10	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	166;"	m	line:166	struct:<anonymous>::__PACKED
+b10	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	218;"	m	line:218	struct:<anonymous>::__PACKED
+b10	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	275;"	m	line:275	struct:<anonymous>::__PACKED
+b10	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	390;"	m	line:390	struct:<anonymous>::__PACKED
+b10	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	433;"	m	line:433	struct:<anonymous>::__PACKED
+b10	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	489;"	m	line:489	struct:<anonymous>::__PACKED
+b11	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	134;"	m	line:134	struct:<anonymous>::__PACKED
+b11	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	167;"	m	line:167	struct:<anonymous>::__PACKED
+b11	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	219;"	m	line:219	struct:<anonymous>::__PACKED
+b11	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	276;"	m	line:276	struct:<anonymous>::__PACKED
+b11	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	391;"	m	line:391	struct:<anonymous>::__PACKED
+b11	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	434;"	m	line:434	struct:<anonymous>::__PACKED
+b11	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	490;"	m	line:490	struct:<anonymous>::__PACKED
+b12	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	135;"	m	line:135	struct:<anonymous>::__PACKED
+b12	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	168;"	m	line:168	struct:<anonymous>::__PACKED
+b12	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	220;"	m	line:220	struct:<anonymous>::__PACKED
+b12	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	277;"	m	line:277	struct:<anonymous>::__PACKED
+b12	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	392;"	m	line:392	struct:<anonymous>::__PACKED
+b12	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	435;"	m	line:435	struct:<anonymous>::__PACKED
+b12	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	491;"	m	line:491	struct:<anonymous>::__PACKED
+b13	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	136;"	m	line:136	struct:<anonymous>::__PACKED
+b13	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	169;"	m	line:169	struct:<anonymous>::__PACKED
+b13	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	221;"	m	line:221	struct:<anonymous>::__PACKED
+b13	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	278;"	m	line:278	struct:<anonymous>::__PACKED
+b13	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	393;"	m	line:393	struct:<anonymous>::__PACKED
+b13	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	436;"	m	line:436	struct:<anonymous>::__PACKED
+b13	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	492;"	m	line:492	struct:<anonymous>::__PACKED
+b14	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	137;"	m	line:137	struct:<anonymous>::__PACKED
+b14	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	170;"	m	line:170	struct:<anonymous>::__PACKED
+b14	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	222;"	m	line:222	struct:<anonymous>::__PACKED
+b14	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	279;"	m	line:279	struct:<anonymous>::__PACKED
+b14	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	394;"	m	line:394	struct:<anonymous>::__PACKED
+b14	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	437;"	m	line:437	struct:<anonymous>::__PACKED
+b14	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	493;"	m	line:493	struct:<anonymous>::__PACKED
+b15	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	138;"	m	line:138	struct:<anonymous>::__PACKED
+b15	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	171;"	m	line:171	struct:<anonymous>::__PACKED
+b15	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	223;"	m	line:223	struct:<anonymous>::__PACKED
+b15	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	280;"	m	line:280	struct:<anonymous>::__PACKED
+b15	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	395;"	m	line:395	struct:<anonymous>::__PACKED
+b15	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	438;"	m	line:438	struct:<anonymous>::__PACKED
+b15	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	494;"	m	line:494	struct:<anonymous>::__PACKED
+b16	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	172;"	m	line:172	struct:<anonymous>::__PACKED
+b16	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	224;"	m	line:224	struct:<anonymous>::__PACKED
+b16	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	281;"	m	line:281	struct:<anonymous>::__PACKED
+b16	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	439;"	m	line:439	struct:<anonymous>::__PACKED
+b16	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	495;"	m	line:495	struct:<anonymous>::__PACKED
+b17	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	173;"	m	line:173	struct:<anonymous>::__PACKED
+b17	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	225;"	m	line:225	struct:<anonymous>::__PACKED
+b17	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	282;"	m	line:282	struct:<anonymous>::__PACKED
+b17	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	440;"	m	line:440	struct:<anonymous>::__PACKED
+b17	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	496;"	m	line:496	struct:<anonymous>::__PACKED
+b18	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	174;"	m	line:174	struct:<anonymous>::__PACKED
+b18	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	226;"	m	line:226	struct:<anonymous>::__PACKED
+b18	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	283;"	m	line:283	struct:<anonymous>::__PACKED
+b18	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	441;"	m	line:441	struct:<anonymous>::__PACKED
+b18	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	497;"	m	line:497	struct:<anonymous>::__PACKED
+b19	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	175;"	m	line:175	struct:<anonymous>::__PACKED
+b19	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	227;"	m	line:227	struct:<anonymous>::__PACKED
+b19	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	284;"	m	line:284	struct:<anonymous>::__PACKED
+b19	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	442;"	m	line:442	struct:<anonymous>::__PACKED
+b19	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	498;"	m	line:498	struct:<anonymous>::__PACKED
+b2	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	103;"	m	line:103
+b2	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	125;"	m	line:125	struct:<anonymous>::__PACKED
+b2	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	158;"	m	line:158	struct:<anonymous>::__PACKED
+b2	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	210;"	m	line:210	struct:<anonymous>::__PACKED
+b2	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	267;"	m	line:267	struct:<anonymous>::__PACKED
+b2	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	360;"	m	line:360	struct:<anonymous>::__PACKED
+b2	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	382;"	m	line:382	struct:<anonymous>::__PACKED
+b2	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	425;"	m	line:425	struct:<anonymous>::__PACKED
+b2	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	481;"	m	line:481	struct:<anonymous>::__PACKED
+b20	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	176;"	m	line:176	struct:<anonymous>::__PACKED
+b20	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	228;"	m	line:228	struct:<anonymous>::__PACKED
+b20	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	285;"	m	line:285	struct:<anonymous>::__PACKED
+b20	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	443;"	m	line:443	struct:<anonymous>::__PACKED
+b20	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	499;"	m	line:499	struct:<anonymous>::__PACKED
+b21	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	177;"	m	line:177	struct:<anonymous>::__PACKED
+b21	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	229;"	m	line:229	struct:<anonymous>::__PACKED
+b21	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	286;"	m	line:286	struct:<anonymous>::__PACKED
+b21	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	444;"	m	line:444	struct:<anonymous>::__PACKED
+b21	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	500;"	m	line:500	struct:<anonymous>::__PACKED
+b22	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	178;"	m	line:178	struct:<anonymous>::__PACKED
+b22	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	230;"	m	line:230	struct:<anonymous>::__PACKED
+b22	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	287;"	m	line:287	struct:<anonymous>::__PACKED
+b22	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	445;"	m	line:445	struct:<anonymous>::__PACKED
+b22	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	501;"	m	line:501	struct:<anonymous>::__PACKED
+b23	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	179;"	m	line:179	struct:<anonymous>::__PACKED
+b23	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	231;"	m	line:231	struct:<anonymous>::__PACKED
+b23	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	288;"	m	line:288	struct:<anonymous>::__PACKED
+b23	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	446;"	m	line:446	struct:<anonymous>::__PACKED
+b23	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	502;"	m	line:502	struct:<anonymous>::__PACKED
+b24	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	232;"	m	line:232	struct:<anonymous>::__PACKED
+b24	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	289;"	m	line:289	struct:<anonymous>::__PACKED
+b24	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	447;"	m	line:447	struct:<anonymous>::__PACKED
+b24	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	503;"	m	line:503	struct:<anonymous>::__PACKED
+b25	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	233;"	m	line:233	struct:<anonymous>::__PACKED
+b25	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	290;"	m	line:290	struct:<anonymous>::__PACKED
+b25	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	448;"	m	line:448	struct:<anonymous>::__PACKED
+b25	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	504;"	m	line:504	struct:<anonymous>::__PACKED
+b26	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	234;"	m	line:234	struct:<anonymous>::__PACKED
+b26	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	291;"	m	line:291	struct:<anonymous>::__PACKED
+b26	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	449;"	m	line:449	struct:<anonymous>::__PACKED
+b26	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	505;"	m	line:505	struct:<anonymous>::__PACKED
+b27	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	235;"	m	line:235	struct:<anonymous>::__PACKED
+b27	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	292;"	m	line:292	struct:<anonymous>::__PACKED
+b27	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	450;"	m	line:450	struct:<anonymous>::__PACKED
+b27	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	506;"	m	line:506	struct:<anonymous>::__PACKED
+b28	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	236;"	m	line:236	struct:<anonymous>::__PACKED
+b28	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	293;"	m	line:293	struct:<anonymous>::__PACKED
+b28	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	451;"	m	line:451	struct:<anonymous>::__PACKED
+b28	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	507;"	m	line:507	struct:<anonymous>::__PACKED
+b29	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	237;"	m	line:237	struct:<anonymous>::__PACKED
+b29	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	294;"	m	line:294	struct:<anonymous>::__PACKED
+b29	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	452;"	m	line:452	struct:<anonymous>::__PACKED
+b29	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	508;"	m	line:508	struct:<anonymous>::__PACKED
+b3	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	104;"	m	line:104
+b3	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	126;"	m	line:126	struct:<anonymous>::__PACKED
+b3	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	159;"	m	line:159	struct:<anonymous>::__PACKED
+b3	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	211;"	m	line:211	struct:<anonymous>::__PACKED
+b3	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	268;"	m	line:268	struct:<anonymous>::__PACKED
+b3	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	361;"	m	line:361	struct:<anonymous>::__PACKED
+b3	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	383;"	m	line:383	struct:<anonymous>::__PACKED
+b3	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	426;"	m	line:426	struct:<anonymous>::__PACKED
+b3	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	482;"	m	line:482	struct:<anonymous>::__PACKED
+b30	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	238;"	m	line:238	struct:<anonymous>::__PACKED
+b30	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	295;"	m	line:295	struct:<anonymous>::__PACKED
+b30	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	453;"	m	line:453	struct:<anonymous>::__PACKED
+b30	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	509;"	m	line:509	struct:<anonymous>::__PACKED
+b31	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	239;"	m	line:239	struct:<anonymous>::__PACKED
+b31	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	296;"	m	line:296	struct:<anonymous>::__PACKED
+b31	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	454;"	m	line:454	struct:<anonymous>::__PACKED
+b31	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	510;"	m	line:510	struct:<anonymous>::__PACKED
+b32	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	297;"	m	line:297	struct:<anonymous>::__PACKED
+b32	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	511;"	m	line:511	struct:<anonymous>::__PACKED
+b33	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	298;"	m	line:298	struct:<anonymous>::__PACKED
+b33	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	512;"	m	line:512	struct:<anonymous>::__PACKED
+b34	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	299;"	m	line:299	struct:<anonymous>::__PACKED
+b34	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	513;"	m	line:513	struct:<anonymous>::__PACKED
+b35	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	300;"	m	line:300	struct:<anonymous>::__PACKED
+b35	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	514;"	m	line:514	struct:<anonymous>::__PACKED
+b36	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	301;"	m	line:301	struct:<anonymous>::__PACKED
+b36	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	515;"	m	line:515	struct:<anonymous>::__PACKED
+b37	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	302;"	m	line:302	struct:<anonymous>::__PACKED
+b37	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	516;"	m	line:516	struct:<anonymous>::__PACKED
+b38	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	303;"	m	line:303	struct:<anonymous>::__PACKED
+b38	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	517;"	m	line:517	struct:<anonymous>::__PACKED
+b39	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	304;"	m	line:304	struct:<anonymous>::__PACKED
+b39	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	518;"	m	line:518	struct:<anonymous>::__PACKED
+b4	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	105;"	m	line:105
+b4	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	127;"	m	line:127	struct:<anonymous>::__PACKED
+b4	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	160;"	m	line:160	struct:<anonymous>::__PACKED
+b4	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	212;"	m	line:212	struct:<anonymous>::__PACKED
+b4	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	269;"	m	line:269	struct:<anonymous>::__PACKED
+b4	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	362;"	m	line:362	struct:<anonymous>::__PACKED
+b4	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	384;"	m	line:384	struct:<anonymous>::__PACKED
+b4	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	427;"	m	line:427	struct:<anonymous>::__PACKED
+b4	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	483;"	m	line:483	struct:<anonymous>::__PACKED
+b40	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	305;"	m	line:305	struct:<anonymous>::__PACKED
+b40	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	519;"	m	line:519	struct:<anonymous>::__PACKED
+b41	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	306;"	m	line:306	struct:<anonymous>::__PACKED
+b41	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	520;"	m	line:520	struct:<anonymous>::__PACKED
+b42	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	307;"	m	line:307	struct:<anonymous>::__PACKED
+b42	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	521;"	m	line:521	struct:<anonymous>::__PACKED
+b43	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	308;"	m	line:308	struct:<anonymous>::__PACKED
+b43	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	522;"	m	line:522	struct:<anonymous>::__PACKED
+b44	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	309;"	m	line:309	struct:<anonymous>::__PACKED
+b44	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	523;"	m	line:523	struct:<anonymous>::__PACKED
+b45	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	310;"	m	line:310	struct:<anonymous>::__PACKED
+b45	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	524;"	m	line:524	struct:<anonymous>::__PACKED
+b46	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	311;"	m	line:311	struct:<anonymous>::__PACKED
+b46	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	525;"	m	line:525	struct:<anonymous>::__PACKED
+b47	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	312;"	m	line:312	struct:<anonymous>::__PACKED
+b47	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	526;"	m	line:526	struct:<anonymous>::__PACKED
+b48	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	313;"	m	line:313	struct:<anonymous>::__PACKED
+b48	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	527;"	m	line:527	struct:<anonymous>::__PACKED
+b49	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	314;"	m	line:314	struct:<anonymous>::__PACKED
+b49	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	528;"	m	line:528	struct:<anonymous>::__PACKED
+b5	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	106;"	m	line:106
+b5	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	128;"	m	line:128	struct:<anonymous>::__PACKED
+b5	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	161;"	m	line:161	struct:<anonymous>::__PACKED
+b5	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	213;"	m	line:213	struct:<anonymous>::__PACKED
+b5	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	270;"	m	line:270	struct:<anonymous>::__PACKED
+b5	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	363;"	m	line:363	struct:<anonymous>::__PACKED
+b5	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	385;"	m	line:385	struct:<anonymous>::__PACKED
+b5	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	428;"	m	line:428	struct:<anonymous>::__PACKED
+b5	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	484;"	m	line:484	struct:<anonymous>::__PACKED
+b50	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	315;"	m	line:315	struct:<anonymous>::__PACKED
+b50	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	529;"	m	line:529	struct:<anonymous>::__PACKED
+b51	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	316;"	m	line:316	struct:<anonymous>::__PACKED
+b51	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	530;"	m	line:530	struct:<anonymous>::__PACKED
+b52	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	317;"	m	line:317	struct:<anonymous>::__PACKED
+b52	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	531;"	m	line:531	struct:<anonymous>::__PACKED
+b53	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	318;"	m	line:318	struct:<anonymous>::__PACKED
+b53	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	532;"	m	line:532	struct:<anonymous>::__PACKED
+b54	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	319;"	m	line:319	struct:<anonymous>::__PACKED
+b54	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	533;"	m	line:533	struct:<anonymous>::__PACKED
+b55	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	320;"	m	line:320	struct:<anonymous>::__PACKED
+b55	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	534;"	m	line:534	struct:<anonymous>::__PACKED
+b56	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	321;"	m	line:321	struct:<anonymous>::__PACKED
+b56	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	535;"	m	line:535	struct:<anonymous>::__PACKED
+b57	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	322;"	m	line:322	struct:<anonymous>::__PACKED
+b57	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	536;"	m	line:536	struct:<anonymous>::__PACKED
+b58	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	323;"	m	line:323	struct:<anonymous>::__PACKED
+b58	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	537;"	m	line:537	struct:<anonymous>::__PACKED
+b59	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	324;"	m	line:324	struct:<anonymous>::__PACKED
+b59	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	538;"	m	line:538	struct:<anonymous>::__PACKED
+b6	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	107;"	m	line:107
+b6	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	129;"	m	line:129	struct:<anonymous>::__PACKED
+b6	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	162;"	m	line:162	struct:<anonymous>::__PACKED
+b6	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	214;"	m	line:214	struct:<anonymous>::__PACKED
+b6	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	271;"	m	line:271	struct:<anonymous>::__PACKED
+b6	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	364;"	m	line:364	struct:<anonymous>::__PACKED
+b6	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	386;"	m	line:386	struct:<anonymous>::__PACKED
+b6	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	429;"	m	line:429	struct:<anonymous>::__PACKED
+b6	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	485;"	m	line:485	struct:<anonymous>::__PACKED
+b60	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	325;"	m	line:325	struct:<anonymous>::__PACKED
+b60	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	539;"	m	line:539	struct:<anonymous>::__PACKED
+b61	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	326;"	m	line:326	struct:<anonymous>::__PACKED
+b61	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	540;"	m	line:540	struct:<anonymous>::__PACKED
+b62	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	327;"	m	line:327	struct:<anonymous>::__PACKED
+b62	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	541;"	m	line:541	struct:<anonymous>::__PACKED
+b63	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	328;"	m	line:328	struct:<anonymous>::__PACKED
+b63	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	542;"	m	line:542	struct:<anonymous>::__PACKED
+b7	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	108;"	m	line:108
+b7	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	130;"	m	line:130	struct:<anonymous>::__PACKED
+b7	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	163;"	m	line:163	struct:<anonymous>::__PACKED
+b7	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	215;"	m	line:215	struct:<anonymous>::__PACKED
+b7	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	272;"	m	line:272	struct:<anonymous>::__PACKED
+b7	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	365;"	m	line:365	struct:<anonymous>::__PACKED
+b7	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	387;"	m	line:387	struct:<anonymous>::__PACKED
+b7	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	430;"	m	line:430	struct:<anonymous>::__PACKED
+b7	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	486;"	m	line:486	struct:<anonymous>::__PACKED
+b8	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	131;"	m	line:131	struct:<anonymous>::__PACKED
+b8	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	164;"	m	line:164	struct:<anonymous>::__PACKED
+b8	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	216;"	m	line:216	struct:<anonymous>::__PACKED
+b8	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	273;"	m	line:273	struct:<anonymous>::__PACKED
+b8	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	388;"	m	line:388	struct:<anonymous>::__PACKED
+b8	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	431;"	m	line:431	struct:<anonymous>::__PACKED
+b8	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	487;"	m	line:487	struct:<anonymous>::__PACKED
+b9	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	132;"	m	line:132	struct:<anonymous>::__PACKED
+b9	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	165;"	m	line:165	struct:<anonymous>::__PACKED
+b9	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	217;"	m	line:217	struct:<anonymous>::__PACKED
+b9	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	274;"	m	line:274	struct:<anonymous>::__PACKED
+b9	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	389;"	m	line:389	struct:<anonymous>::__PACKED
+b9	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	432;"	m	line:432	struct:<anonymous>::__PACKED
+b9	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	488;"	m	line:488	struct:<anonymous>::__PACKED
+bits	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	109;"	m	line:109
+bits	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	139;"	m	line:139
+bits	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	180;"	m	line:180
+bits	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	240;"	m	line:240
+bits	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	329;"	m	line:329
+bits	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	366;"	m	line:366
+bits	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	396;"	m	line:396
+bits	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	455;"	m	line:455
+bits	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	543;"	m	line:543
+bmp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2445;"	l	line:2445
+bmp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2546;"	l	line:2546
+bmp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2642;"	l	line:2642
+bmp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2719;"	l	line:2719
+buffer	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	180;"	l	line:180
+byte	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	120;"	m	line:120
+byte	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	153;"	m	line:153
+byte	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	200;"	m	line:200
+byte	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	377;"	m	line:377
+byte	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	415;"	m	line:415
+byteWidth	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2449;"	l	line:2449
+byteWidth	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2550;"	l	line:2550
+byteWidth	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2722;"	l	line:2722
+c	C:\C32\MikroEMMB 256\MMB\MMB.C	120;"	l	line:120
+c	C:\C32\MikroEMMB 256\MMB\MMB.C	140;"	l	line:140
+c	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	186;"	l	line:186
+c1	C:\C32\MikroEMMB 256\MMB\MMB.C	94;"	l	line:94
+c2	C:\C32\MikroEMMB 256\MMB\MMB.C	95;"	l	line:95
+c3	C:\C32\MikroEMMB 256\MMB\MMB.C	96;"	l	line:96
+c4	C:\C32\MikroEMMB 256\MMB\MMB.C	97;"	l	line:97
+ch	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1512;"	l	line:1512
+ch	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1774;"	l	line:1774
+chImage	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1608;"	l	line:1608
+chTable	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1607;"	l	line:1607
+chTable	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1768;"	l	line:1768
+chWidth	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1612;"	l	line:1612
+colorDepth	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2004;"	l	line:2004
+colorDepth	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	146;"	m	line:146
+colorTemp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2005;"	l	line:2005
+compression	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	145;"	m	line:145
+counter	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1295;"	l	line:1295
+counter	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2213;"	l	line:2213
+counter	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2302;"	l	line:2302
+deltaX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	734;"	l	line:734
+deltaY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	734;"	l	line:734
+dword	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	255;"	m	line:255
+dword	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	469;"	m	line:469
+err	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1073;"	l	line:1073
+err1	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	185;"	l	line:185
+err2	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	185;"	l	line:185
+error	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	735;"	l	line:735
+error	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	946;"	l	line:946
+ex	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1296;"	l	line:1296
+ey	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1296;"	l	line:1296
+firstChar	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	185;"	m	line:185
+fix	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	250;"	p	line:250	file:
+fix	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	88;"	f	line:88	signature:( float f)
+flashAddress	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2003;"	l	line:2003
+flashAddress	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2115;"	l	line:2115
+flashAddress	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2205;"	l	line:2205
+flashAddress	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2294;"	l	line:2294
+flashAddress	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2374;"	l	line:2374
+flt	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	93;"	f	line:93	signature:( int32 i)
+fmul32	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	99;"	f	line:99	file:	signature:(int x, int y)
+fontFirstChar	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1775;"	l	line:1775
+fontID	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	181;"	m	line:181
+fontLastChar	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1776;"	l	line:1776
+fpb	C:\C32\MikroEMMB 256\MMB\MMB.C	93;"	l	line:93
+getcSPI::getcSPI2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	276;"	d	line:276
+glyphOffset	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1610;"	l	line:1610
+header	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1462;"	l	line:1462
+header	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1769;"	l	line:1769
+height	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	198;"	l	line:198
+height	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1870;"	l	line:1870
+height	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1956;"	l	line:1956
+height	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	147;"	m	line:147
+height	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	187;"	m	line:187
+high	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	204;"	m	line:204	struct:<anonymous>::__PACKED
+high	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	419;"	m	line:419	struct:<anonymous>::__PACKED
+i	C:\C32\MikroEMMB 256\MMB\MMB.C	139;"	l	line:139
+i	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	110;"	l	line:110
+i	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	181;"	l	line:181
+imageSize	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1609;"	l	line:1609
+j	C:\C32\MikroEMMB 256\MMB\MMB.C	139;"	l	line:139
+j	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	110;"	l	line:110
+k	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	110;"	l	line:110
+k	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	186;"	l	line:186
+lastChar	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	186;"	m	line:186
+lineBuffer	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2447;"	l	line:2447
+lineBuffer	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2548;"	l	line:2548
+lineBuffer	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2644;"	l	line:2644
+lineBuffer	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2720;"	l	line:2720
+logo1	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	159;"	v	line:159
+logo2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	160;"	v	line:160
+logo3	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	161;"	v	line:161
+low	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	203;"	m	line:203	struct:<anonymous>::__PACKED
+low	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	418;"	m	line:418	struct:<anonymous>::__PACKED
+main	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	178;"	f	line:178	signature:( void)
+mandelbrot	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	106;"	f	line:106	signature:( int32 xx0, int32 yy0, int wx, int wy, int32 d)
+mask	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1614;"	l	line:1614
+mask	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2123;"	l	line:2123
+mask	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2452;"	l	line:2452
+memOffset	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2444;"	l	line:2444
+memOffset	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2545;"	l	line:2545
+memOffset	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2641;"	l	line:2641
+memOffset	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2718;"	l	line:2718
+oc	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	186;"	l	line:186
+offset	C:\C32\MikroEMMB 256\MMB\MMB.C	56;"	l	line:56
+offsetLSB	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	195;"	m	line:195
+offsetMSB	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	196;"	m	line:196
+orient	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	183;"	m	line:183
+ow	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	185;"	l	line:185
+ox	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	185;"	l	line:185
+oy	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	185;"	l	line:185
+pChImage	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1604;"	l	line:1604
+pChTable	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1603;"	l	line:1603
+pChTable	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1765;"	l	line:1765
+pData	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2448;"	l	line:2448
+pData	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2549;"	l	line:2549
+pData	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2645;"	l	line:2645
+pData	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2721;"	l	line:2721
+pHeader	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1459;"	l	line:1459
+pHeader	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1766;"	l	line:1766
+pallete	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2122;"	l	line:2122
+pallete	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2212;"	l	line:2212
+pallete	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2301;"	l	line:2301
+pallete	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2446;"	l	line:2446
+pallete	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2547;"	l	line:2547
+pallete	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2643;"	l	line:2643
+putcSPI::putcSPI2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\HardwareProfile.h	275;"	d	line:275
+r	C:\C32\MikroEMMB 256\MMB\MMB.C	139;"	l	line:139
+r	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	186;"	l	line:186
+recalc	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	187;"	l	line:187
+res1	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	182;"	m	line:182
+res2	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	184;"	m	line:184
+reserved	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	188;"	m	line:188
+s	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	166;"	l	line:166
+s	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	189;"	l	line:189
+sizeX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2118;"	l	line:2118
+sizeX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2207;"	l	line:2207
+sizeX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2296;"	l	line:2296
+sizeX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2376;"	l	line:2376
+sizeX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2453;"	l	line:2453
+sizeX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2553;"	l	line:2553
+sizeX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2648;"	l	line:2648
+sizeX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2725;"	l	line:2725
+sizeY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2118;"	l	line:2118
+sizeY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2207;"	l	line:2207
+sizeY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2296;"	l	line:2296
+sizeY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2376;"	l	line:2376
+sizeY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2453;"	l	line:2453
+sizeY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2553;"	l	line:2553
+sizeY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2648;"	l	line:2648
+sizeY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2725;"	l	line:2725
+steep	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	737;"	l	line:737
+stepErrorGE	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	735;"	l	line:735
+stepErrorLT	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	735;"	l	line:735
+stepX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	736;"	l	line:736
+stepY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	736;"	l	line:736
+stretchX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2121;"	l	line:2121
+stretchX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2211;"	l	line:2211
+stretchX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2300;"	l	line:2300
+stretchX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2380;"	l	line:2380
+stretchX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2456;"	l	line:2456
+stretchX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2556;"	l	line:2556
+stretchX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2651;"	l	line:2651
+stretchX	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2728;"	l	line:2728
+stretchY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2121;"	l	line:2121
+stretchY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2211;"	l	line:2211
+stretchY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2300;"	l	line:2300
+stretchY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2380;"	l	line:2380
+stretchY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2456;"	l	line:2456
+stretchY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2556;"	l	line:2556
+stretchY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2651;"	l	line:2651
+stretchY	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2728;"	l	line:2728
+style	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	739;"	l	line:739
+style	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	946;"	l	line:946
+sx	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1296;"	l	line:1296
+sy	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1296;"	l	line:1296
+t	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	165;"	l	line:165
+t	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	188;"	l	line:188
+temp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1075;"	l	line:1075
+temp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1614;"	l	line:1614
+temp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	188;"	l	line:188
+temp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2117;"	l	line:2117
+temp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2210;"	l	line:2210
+temp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2299;"	l	line:2299
+temp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2379;"	l	line:2379
+temp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2451;"	l	line:2451
+temp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2552;"	l	line:2552
+temp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2647;"	l	line:2647
+temp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2724;"	l	line:2724
+temp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	738;"	l	line:738
+temp	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	947;"	l	line:947
+tempFlashAddress	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2116;"	l	line:2116
+tempFlashAddress	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2206;"	l	line:2206
+tempFlashAddress	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2295;"	l	line:2295
+tempFlashAddress	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2375;"	l	line:2375
+textWidth	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1771;"	l	line:1771
+type	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	739;"	l	line:739
+type	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	946;"	l	line:946
+type	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	124;"	m	line:124
+type	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	157;"	m	line:157
+type	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	167;"	m	line:167
+type	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	205;"	m	line:205
+type	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	215;"	m	line:215
+ui	C:\C32\MikroEMMB 256\MMB\MMB.C	81;"	l	line:81
+w	C:\C32\MikroEMMB 256\MMB\MMB.C	183;"	l	line:183
+w	C:\C32\MikroEMMB 256\MMB\MMB.C	227;"	l	line:227
+w	C:\C32\MikroEMMB 256\MMB\MMB.C	266;"	l	line:266
+w	C:\C32\MikroEMMB 256\MMB\MMB.C	289;"	l	line:289
+w	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	183;"	l	line:183
+width	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	198;"	l	line:198
+width	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1915;"	l	line:1915
+width	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	148;"	m	line:148
+width	C:\C32\PIC32MX4MMB\Microchip\Include\Graphics\Primitive.h	194;"	m	line:194
+word	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	193;"	m	line:193
+word	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	262;"	m	line:262
+word	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	408;"	m	line:408
+word	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	476;"	m	line:476
+wordUnion	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	205;"	m	line:205
+wordUnion	C:\C32\PIC32MX4MMB\Microchip\Include\GenericTypeDefs.h	420;"	m	line:420
+wx	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	184;"	l	line:184
+wx	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	250;"	l	line:250
+wy	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	184;"	l	line:184
+wy	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	250;"	l	line:250
+x	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	108;"	l	line:108
+x	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	183;"	l	line:183
+x	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	198;"	l	line:198
+x	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1394;"	l	line:1394
+x	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1613;"	l	line:1613
+x	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2119;"	l	line:2119
+x	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2208;"	l	line:2208
+x	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2297;"	l	line:2297
+x	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2377;"	l	line:2377
+x	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2454;"	l	line:2454
+x	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2554;"	l	line:2554
+x	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2649;"	l	line:2649
+x	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2726;"	l	line:2726
+x0	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	108;"	l	line:108
+x1	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	184;"	l	line:184
+x1Cur	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	186;"	l	line:186
+x2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	108;"	l	line:108
+x2	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	184;"	l	line:184
+x2Cur	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	187;"	l	line:187
+xCnt	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1613;"	l	line:1613
+xCur	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1074;"	l	line:1074
+xLimit	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	946;"	l	line:946
+xPos	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1073;"	l	line:1073
+xPos	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	946;"	l	line:946
+xc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2120;"	l	line:2120
+xc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2209;"	l	line:2209
+xc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2298;"	l	line:2298
+xc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2378;"	l	line:2378
+xc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2455;"	l	line:2455
+xc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2555;"	l	line:2555
+xc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2650;"	l	line:2650
+xc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2727;"	l	line:2727
+y	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	108;"	l	line:108
+y	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	183;"	l	line:183
+y	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	198;"	l	line:198
+y	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1394;"	l	line:1394
+y	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1613;"	l	line:1613
+y	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2119;"	l	line:2119
+y	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2208;"	l	line:2208
+y	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2297;"	l	line:2297
+y	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2377;"	l	line:2377
+y	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2454;"	l	line:2454
+y	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2554;"	l	line:2554
+y	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2649;"	l	line:2649
+y	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2726;"	l	line:2726
+y0	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	108;"	l	line:108
+y1	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	184;"	l	line:184
+y1Cur	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	186;"	l	line:186
+y1Limit	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	183;"	l	line:183
+y1New	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	186;"	l	line:186
+y2	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	108;"	l	line:108
+y2	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	184;"	l	line:184
+y2Cur	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	187;"	l	line:187
+y2Limit	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	183;"	l	line:183
+y2New	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	187;"	l	line:187
+yCnt	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1613;"	l	line:1613
+yCur	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1074;"	l	line:1074
+yLimit	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1073;"	l	line:1073
+yNew	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1074;"	l	line:1074
+yPos	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	1073;"	l	line:1073
+yPos	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	946;"	l	line:946
+yc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2120;"	l	line:2120
+yc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2209;"	l	line:2209
+yc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2298;"	l	line:2298
+yc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2378;"	l	line:2378
+yc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2455;"	l	line:2455
+yc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2555;"	l	line:2555
+yc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2650;"	l	line:2650
+yc	C:\C32\PIC32MX4MMB\Microchip\Graphics\Primitive.c	2727;"	l	line:2727
+z	C:\C32\PIC32MX4MMB\Mandelbrot LCD FP\MainDemo.c	101;"	l	line:101

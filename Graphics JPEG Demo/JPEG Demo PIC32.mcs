@@ -1,0 +1,162 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Graphics JPEG Demo\obj\Primitive.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\MMB;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Graphics\Primitive.c|..\Microchip\Image Decoders\JpegDecoder.c|..\Microchip\Image Decoders\ImageDecoder.c|..\Microchip\Image Decoders\jidctint.c|..\Microchip\Graphics\DisplayDriver.c|JPEGImage.c|MainDemo.c|ExternalMemoryPicturesref.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\SerialFLASH.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mno-float -O3 -funroll-loops
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Graphics JPEG Demo\obj\JpegDecoder.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\MMB;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Graphics\Primitive.c|..\Microchip\Image Decoders\JpegDecoder.c|..\Microchip\Image Decoders\ImageDecoder.c|..\Microchip\Image Decoders\jidctint.c|..\Microchip\Graphics\DisplayDriver.c|JPEGImage.c|MainDemo.c|ExternalMemoryPicturesref.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\SerialFLASH.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mno-float -O3 -funroll-loops
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Graphics JPEG Demo\obj\ImageDecoder.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\MMB;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Graphics\Primitive.c|..\Microchip\Image Decoders\JpegDecoder.c|..\Microchip\Image Decoders\ImageDecoder.c|..\Microchip\Image Decoders\jidctint.c|..\Microchip\Graphics\DisplayDriver.c|JPEGImage.c|MainDemo.c|ExternalMemoryPicturesref.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\SerialFLASH.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mno-float -O3 -funroll-loops
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Graphics JPEG Demo\obj\jidctint.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\MMB;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Graphics\Primitive.c|..\Microchip\Image Decoders\JpegDecoder.c|..\Microchip\Image Decoders\ImageDecoder.c|..\Microchip\Image Decoders\jidctint.c|..\Microchip\Graphics\DisplayDriver.c|JPEGImage.c|MainDemo.c|ExternalMemoryPicturesref.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\SerialFLASH.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mno-float -O3 -funroll-loops
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Graphics JPEG Demo\obj\DisplayDriver.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\MMB;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Graphics\Primitive.c|..\Microchip\Image Decoders\JpegDecoder.c|..\Microchip\Image Decoders\ImageDecoder.c|..\Microchip\Image Decoders\jidctint.c|..\Microchip\Graphics\DisplayDriver.c|JPEGImage.c|MainDemo.c|ExternalMemoryPicturesref.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\SerialFLASH.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mno-float -O3 -funroll-loops
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Graphics JPEG Demo\obj\JPEGImage.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\MMB;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Graphics\Primitive.c|..\Microchip\Image Decoders\JpegDecoder.c|..\Microchip\Image Decoders\ImageDecoder.c|..\Microchip\Image Decoders\jidctint.c|..\Microchip\Graphics\DisplayDriver.c|JPEGImage.c|MainDemo.c|ExternalMemoryPicturesref.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\SerialFLASH.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mno-float -O3 -funroll-loops
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Graphics JPEG Demo\obj\MainDemo.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\MMB;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Graphics\Primitive.c|..\Microchip\Image Decoders\JpegDecoder.c|..\Microchip\Image Decoders\ImageDecoder.c|..\Microchip\Image Decoders\jidctint.c|..\Microchip\Graphics\DisplayDriver.c|JPEGImage.c|MainDemo.c|ExternalMemoryPicturesref.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\SerialFLASH.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mno-float -O3 -funroll-loops
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Graphics JPEG Demo\obj\ExternalMemoryPicturesref.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\MMB;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Graphics\Primitive.c|..\Microchip\Image Decoders\JpegDecoder.c|..\Microchip\Image Decoders\ImageDecoder.c|..\Microchip\Image Decoders\jidctint.c|..\Microchip\Graphics\DisplayDriver.c|JPEGImage.c|MainDemo.c|ExternalMemoryPicturesref.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\SerialFLASH.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mno-float -O3 -funroll-loops
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Graphics JPEG Demo\obj\SerialFLASH.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\MMB;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Graphics\Primitive.c|..\Microchip\Image Decoders\JpegDecoder.c|..\Microchip\Image Decoders\ImageDecoder.c|..\Microchip\Image Decoders\jidctint.c|..\Microchip\Graphics\DisplayDriver.c|JPEGImage.c|MainDemo.c|ExternalMemoryPicturesref.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\SerialFLASH.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mno-float -O3 -funroll-loops
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Graphics JPEG Demo\obj\MMB.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\MMB;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Graphics\Primitive.c|..\Microchip\Image Decoders\JpegDecoder.c|..\Microchip\Image Decoders\ImageDecoder.c|..\Microchip\Image Decoders\jidctint.c|..\Microchip\Graphics\DisplayDriver.c|JPEGImage.c|MainDemo.c|ExternalMemoryPicturesref.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\SerialFLASH.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mno-float -O3 -funroll-loops
+TraceCmdString=
+DebugOptions=
+[File010]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Graphics JPEG Demo\bin\JPEG Demo PIC32.elf
+Folder=Output
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-ld.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\MMB;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Graphics\Primitive.c|..\Microchip\Image Decoders\JpegDecoder.c|..\Microchip\Image Decoders\ImageDecoder.c|..\Microchip\Image Decoders\jidctint.c|..\Microchip\Graphics\DisplayDriver.c|JPEGImage.c|MainDemo.c|ExternalMemoryPicturesref.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\SerialFLASH.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=--gc-sections -Map="$(BINDIR_)$(TARGETBASE).map" -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Os
+TraceCmdString=
+DebugOptions=
+[File011]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Graphics JPEG Demo\bin\JPEG Demo PIC32.hex
+Folder=Output
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-ld.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\MMB;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Graphics\Primitive.c|..\Microchip\Image Decoders\JpegDecoder.c|..\Microchip\Image Decoders\ImageDecoder.c|..\Microchip\Image Decoders\jidctint.c|..\Microchip\Graphics\DisplayDriver.c|JPEGImage.c|MainDemo.c|ExternalMemoryPicturesref.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\SerialFLASH.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=--gc-sections -Map="$(BINDIR_)$(TARGETBASE).map" -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Os
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{430F471F-7ECB-4852-A80D-DEF9A5C8E751}=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+tool_loc{C68E5105-1196-4333-A0BF-3DC57271E614}=D:\Electro\Microchip\MPLAB C32\bin\pic32-ld.exe

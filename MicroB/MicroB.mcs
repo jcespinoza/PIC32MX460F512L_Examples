@@ -1,0 +1,188 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\C32\MikroEMMB 256\MicroB\obj\SDMMC.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|SDMMC.c|boot_load_hex.c|fileio.c|MicroB.c|MiniGraphic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-mips16 -mno-float -O2 -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=C:\C32\MikroEMMB 256\MicroB\obj\boot_load_hex.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|SDMMC.c|boot_load_hex.c|fileio.c|MicroB.c|MiniGraphic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-mips16 -mno-float -O2 -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=C:\C32\MikroEMMB 256\MicroB\obj\fileio.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|SDMMC.c|boot_load_hex.c|fileio.c|MicroB.c|MiniGraphic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-mips16 -mno-float -O2 -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=C:\C32\MikroEMMB 256\MicroB\obj\MicroB.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|SDMMC.c|boot_load_hex.c|fileio.c|MicroB.c|MiniGraphic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-mips16 -mno-float -O2 -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=C:\C32\MikroEMMB 256\MicroB\obj\MiniGraphic.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|SDMMC.c|boot_load_hex.c|fileio.c|MicroB.c|MiniGraphic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-mips16 -mno-float -O2 -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MicroB\obj\SDMMC.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|SDMMC.c|boot_load_hex.c|fileio.c|MicroB.c|MiniGraphic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-mips16 -mno-float -O2 -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MicroB\obj\boot_load_hex.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|SDMMC.c|boot_load_hex.c|fileio.c|MicroB.c|MiniGraphic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-mips16 -mno-float -O2 -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MicroB\obj\fileio.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|SDMMC.c|boot_load_hex.c|fileio.c|MicroB.c|MiniGraphic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-mips16 -mno-float -O2 -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MicroB\obj\MicroB.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|SDMMC.c|boot_load_hex.c|fileio.c|MicroB.c|MiniGraphic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-mips16 -mno-float -O2 -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MicroB\obj\MiniGraphic.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|SDMMC.c|boot_load_hex.c|fileio.c|MicroB.c|MiniGraphic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-mips16 -mno-float -O2 -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=
+[File010]
+Location=C:\C32\MikroEMMB 256\MicroB\bin\MicroB.elf
+Folder=Output
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-ld.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|SDMMC.c|boot_load_hex.c|fileio.c|MicroB.c|MiniGraphic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=--defsym=_min_stack_size=256 --no-check-sections --gc-sections -Map="$(BINDIR_)$(TARGETBASE).map" -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -mips16 -mno-float
+TraceCmdString=
+DebugOptions=
+[File011]
+Location=C:\C32\MikroEMMB 256\MicroB\bin\MicroB.hex
+Folder=Output
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-ld.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|SDMMC.c|boot_load_hex.c|fileio.c|MicroB.c|MiniGraphic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=--defsym=_min_stack_size=256 --no-check-sections --gc-sections -Map="$(BINDIR_)$(TARGETBASE).map" -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -mips16 -mno-float
+TraceCmdString=
+DebugOptions=
+[File012]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MicroB\bin\MicroB.elf
+Folder=Output
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-ld.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|SDMMC.c|boot_load_hex.c|fileio.c|MicroB.c|MiniGraphic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=--defsym=_min_stack_size=256 --no-check-sections --gc-sections -Map="$(BINDIR_)$(TARGETBASE).map" -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -mips16 -mno-float
+TraceCmdString=
+DebugOptions=
+[File013]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MicroB\bin\MicroB.hex
+Folder=Output
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-ld.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32\lib;C:\Program Files\Microchip\MPLAB C32\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|SDMMC.c|boot_load_hex.c|fileio.c|MicroB.c|MiniGraphic.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=--defsym=_min_stack_size=256 --no-check-sections --gc-sections -Map="$(BINDIR_)$(TARGETBASE).map" -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -mips16 -mno-float
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{430F471F-7ECB-4852-A80D-DEF9A5C8E751}=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+tool_loc{C68E5105-1196-4333-A0BF-3DC57271E614}=D:\Electro\Microchip\MPLAB C32\bin\pic32-ld.exe

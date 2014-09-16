@@ -1,0 +1,557 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ADC_XPOS::ADC_CH0_POS_SAMPLEA_AN11	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	95;"	d	line:95
+ADC_YPOS::ADC_CH0_POS_SAMPLEA_AN10	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	96;"	d	line:96
+ADPCFG_XPOS::_PCFG13	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	99;"	d	line:99
+ADPCFG_YPOS::AD1PCFGbits.PCFG12	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	106;"	d	line:106
+AT::(x,y){cx=(x);cy=(y);}	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	42;"	d	line:42
+Arc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	177;"	f	line:177	signature:(SHORT xL, SHORT yT, SHORT xR, SHORT yB, SHORT r1, SHORT r2, BYTE octant)
+BL_LAT_BIT::_LATD2	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	82;"	d	line:82
+BL_TRIS_BIT::_TRISD2	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	81;"	d	line:81
+BTN_A::_RB0	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	134;"	d	line:134
+BTN_B::_RB1	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	135;"	d	line:135
+BTN_C::_RB2	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	136;"	d	line:136
+BTN_CP::_RA10	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	138;"	d	line:138
+BTN_D::_RB3	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	137;"	d	line:137
+BacklightOff::BL_LAT_BIT=0	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	86;"	d	line:86
+BacklightOn::BL_LAT_BIT=1	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	85;"	d	line:85
+Bar	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1392;"	f	line:1392	signature:(SHORT left, SHORT top, SHORT right, SHORT bottom)
+Bevel	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	944;"	f	line:944	signature:(SHORT x1, SHORT y1, SHORT x2, SHORT y2, SHORT rad)
+COLOR_DEPTH::16	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	56;"	d	line:56
+CS_ACC_LAT_BIT::_LATC3	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	129;"	d	line:129
+CS_ACC_TRIS_BIT::_TRISC3	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	128;"	d	line:128
+CS_FLASH_LAT_BIT::_LATC2	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	117;"	d	line:117
+CS_FLASH_TRIS_BIT::_TRISC2	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	116;"	d	line:116
+CS_LAT_BIT::_LATF12	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	78;"	d	line:78
+CS_RF_LAT_BIT::_LATD8	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	123;"	d	line:123
+CS_RF_TRIS_BIT::_TRISD8	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	122;"	d	line:122
+CS_TRIS_BIT::_TRISF12	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	77;"	d	line:77
+ClearDevice	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1432;"	f	line:1432	signature:(void)
+Clrscr::{clearScreen;Home;}	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	41;"	d	line:41
+DISPLAY_CONTROLLER::HX8347D	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	44;"	d	line:44
+DISP_HOR_RESOLUTION::240	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	49;"	d	line:49
+DISP_ORIENTATION::90	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	62;"	d	line:62
+DISP_VER_RESOLUTION::320	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	50;"	d	line:50
+DrawPoly	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1291;"	f	line:1291	signature:(SHORT numPoints, SHORT *polyPoints)
+FPB::80000000L	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	12;"	d	line:12
+FRAME_T::((FPB/1000)/256)	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	42;"	d	line:42	file:
+F_OFFS::0x20	C:\C32\MikroEMMB 256\Cubes Fill\font.h	7;"	d	line:7
+F_SIZE::96	C:\C32\MikroEMMB 256\Cubes Fill\font.h	8;"	d	line:8
+FillBevel	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1069;"	f	line:1069	signature:(SHORT x1, SHORT y1, SHORT x2, SHORT y2, SHORT rad)
+FillFlatTrig	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	69;"	f	line:69	signature:( int vA, int vB, int vC)
+FillTrig	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	135;"	f	line:135	signature:( int vA, int vB, int vC)
+Font8x8	C:\C32\MikroEMMB 256\Cubes Fill\font.h	10;"	v	line:10
+GRAPHICS_HARDWARE_PLATFORM::PIC32MX4_MMB	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	43;"	d	line:43
+GetImageHeight	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1952;"	f	line:1952	signature:(void *bitmap)
+GetImageWidth	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1911;"	f	line:1911	signature:(void *bitmap)
+GetPeripheralClock::(GetSystemClock/(1<<OSCCONbits	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	35;"	d	line:35
+GetSystemClock	C:\C32\MikroEMMB 256\MMB\MMB.C	33;"	p	line:33	file:
+GetSystemClock::(80000000ul)	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	25;"	d	line:25
+GetTextHeight	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1866;"	f	line:1866	signature:(void *font)
+GetTextWidth	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1763;"	f	line:1763	signature:(XCHAR *textString, void *font)
+HRES::256	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	11;"	d	line:11
+Home::{cx=0;cy=0;}	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	40;"	d	line:40
+InitGraph	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	106;"	f	line:106	signature:(void)
+JOY_DOWN::1	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	154;"	d	line:154
+JOY_DOWN::2	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	146;"	d	line:146
+JOY_LEFT::1	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	147;"	d	line:147
+JOY_LEFT::8	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	155;"	d	line:155
+JOY_RIGHT::2	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	153;"	d	line:153
+JOY_RIGHT::4	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	145;"	d	line:145
+JOY_SELECT::16	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	143;"	d	line:143
+JOY_SELECT::16	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	151;"	d	line:151
+JOY_UP::4	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	152;"	d	line:152
+JOY_UP::8	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	144;"	d	line:144
+LAT_XNEG::_LATB11	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	100;"	d	line:100
+LAT_XPOS::_LATB13	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	101;"	d	line:101
+LAT_YNEG::_LATB10	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	107;"	d	line:107
+LAT_YPOS::_LATB12	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	108;"	d	line:108
+LD0::_LATA0	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	165;"	d	line:165
+LD0_TRIS::_TRISA0	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	161;"	d	line:161
+LD1::_LATA1	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	166;"	d	line:166
+LD1_TRIS::_TRISA1	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	162;"	d	line:162
+LD2::_LATA2	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	167;"	d	line:167
+LD2_TRIS::_TRISA2	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	163;"	d	line:163
+LD3::_LATA3	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	168;"	d	line:168
+LD3_TRIS::_TRISA3	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	164;"	d	line:164
+LED_OFF::1	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	172;"	d	line:172
+LED_ON::0	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	171;"	d	line:171
+LUT	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	32;"	v	line:32	file:
+Line	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	732;"	f	line:732	signature:(SHORT x1, SHORT y1, SHORT x2, SHORT y2)
+MAXOBJ::10	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	48;"	d	line:48	file:
+MAXP::100	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	38;"	d	line:38	file:
+MAXPOLY::100	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	43;"	d	line:43	file:
+MAXV::11	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	53;"	d	line:53	file:
+MDD_USE_SPI_2	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	182;"	d	line:182
+MMBAccInit	C:\C32\MikroEMMB 256\MMB\MMB.C	186;"	f	line:186	signature:( void)
+MMBAccInit	C:\C32\MikroEMMB 256\MMB\MMB.h	34;"	p	line:34	signature:( void)
+MMBAccRead	C:\C32\MikroEMMB 256\MMB\MMB.C	230;"	f	line:230	signature:( int* x, int* y, int*z)
+MMBAccRead	C:\C32\MikroEMMB 256\MMB\MMB.h	35;"	p	line:35	signature:(int*, int*, int*)
+MMBCenterString	C:\C32\MikroEMMB 256\MMB\MMB.C	314;"	f	line:314	signature:( int p, char *s)
+MMBCenterString	C:\C32\MikroEMMB 256\MMB\MMB.h	40;"	p	line:40	signature:( int p, char *s)
+MMBFadeIn	C:\C32\MikroEMMB 256\MMB\MMB.C	268;"	f	line:268	signature:( int msTime)
+MMBFadeIn	C:\C32\MikroEMMB 256\MMB\MMB.h	37;"	p	line:37	signature:( int msTime)
+MMBFadeOut	C:\C32\MikroEMMB 256\MMB\MMB.C	291;"	f	line:291	signature:( int msTime)
+MMBFadeOut	C:\C32\MikroEMMB 256\MMB\MMB.h	38;"	p	line:38	signature:( int msTime)
+MMBGetKey	C:\C32\MikroEMMB 256\MMB\MMB.C	142;"	f	line:142	signature:( void)
+MMBGetKey	C:\C32\MikroEMMB 256\MMB\MMB.h	25;"	p	line:25	signature:( void)
+MMBGetTdegC::(((3.25/1024)*MMBReadT-.5)/0.0	C:\C32\MikroEMMB 256\MMB\MMB.h	22;"	d	line:22
+MMBInit	C:\C32\MikroEMMB 256\MMB\MMB.C	27;"	f	line:27	signature:( void)
+MMBInit	C:\C32\MikroEMMB 256\MMB\MMB.h	27;"	p	line:27	signature:( void)
+MMBReadKey	C:\C32\MikroEMMB 256\MMB\MMB.C	123;"	f	line:123	signature:( void)
+MMBReadKey	C:\C32\MikroEMMB 256\MMB\MMB.h	24;"	p	line:24	signature:( void)
+MMBReadStopwatch	C:\C32\MikroEMMB 256\MMB\MMB.C	84;"	f	line:84	signature:( void)
+MMBReadStopwatch	C:\C32\MikroEMMB 256\MMB\MMB.h	29;"	p	line:29	signature:( void)
+MMBReadT	C:\C32\MikroEMMB 256\MMB\MMB.C	61;"	f	line:61	signature:( void)
+MMBReadT	C:\C32\MikroEMMB 256\MMB\MMB.h	21;"	p	line:21	signature:( void)
+MMBStartStopwatch	C:\C32\MikroEMMB 256\MMB\MMB.C	77;"	f	line:77	signature:( void)
+MMBStartStopwatch	C:\C32\MikroEMMB 256\MMB\MMB.h	30;"	p	line:30	signature:( void)
+MMBUARTInit	C:\C32\MikroEMMB 256\MMB\MMB.C	95;"	f	line:95	signature:( int baudrate)
+MMBUARTInit	C:\C32\MikroEMMB 256\MMB\MMB.h	32;"	p	line:32	signature:( int baudrate)
+OpenSPI::(config1,config2)OpenSPI2(conf	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	236;"	d	line:236
+OutChar	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1601;"	f	line:1601	signature:(XCHAR ch)
+OutText	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1508;"	f	line:1508	signature:(XCHAR *textString)
+OutTextXY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1550;"	f	line:1550	signature:(SHORT x, SHORT y, XCHAR *textString)
+PIC32MX4_MMB::400	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	14;"	d	line:14
+PutImage	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2001;"	f	line:2001	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage16BPP	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2372;"	f	line:2372	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage16BPP	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	49;"	p	line:49	file:	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage16BPPExt	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2716;"	f	line:2716	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage16BPPExt	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	54;"	p	line:54	file:	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage1BPP	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2113;"	f	line:2113	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage1BPP	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	46;"	p	line:46	file:	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage1BPPExt	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2442;"	f	line:2442	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage1BPPExt	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	51;"	p	line:51	file:	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage4BPP	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2203;"	f	line:2203	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage4BPP	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	47;"	p	line:47	file:	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage4BPPExt	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2543;"	f	line:2543	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage4BPPExt	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	52;"	p	line:52	file:	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage8BPP	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2292;"	f	line:2292	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage8BPP	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	48;"	p	line:48	file:	signature:(SHORT left, SHORT top, FLASH_BYTE *bitmap, BYTE stretch)
+PutImage8BPPExt	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2639;"	f	line:2639	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+PutImage8BPPExt	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	53;"	p	line:53	file:	signature:(SHORT left, SHORT top, void *bitmap, BYTE stretch)
+RST_LAT_BIT::_LATC1	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	70;"	d	line:70
+RST_TRIS_BIT::_TRISC1	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	69;"	d	line:69
+RS_LAT_BIT::_LATB15	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	74;"	d	line:74
+RS_TRIS_BIT::_TRISB15	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	73;"	d	line:73
+ReadCoreTimer	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	393;"	p	line:393	file:
+SD_CD::_RA6	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	198;"	d	line:198
+SD_CD_TRIS::_TRISA6	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	200;"	d	line:200
+SD_CS::_LATG9	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	193;"	d	line:193
+SD_CS_TRIS::_TRISG9	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	195;"	d	line:195
+SD_WE::_RA7	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	203;"	d	line:203
+SD_WE_TRIS::_TRISA7	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	205;"	d	line:205
+SPIBRG::SPI2BRG	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	222;"	d	line:222
+SPIBUF::SPI2BUF	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	212;"	d	line:212
+SPICON1::SPI2CON	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	208;"	d	line:208
+SPICON1bits::SPI2CONbits	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	216;"	d	line:216
+SPIENABLE::SPI2CONbits.ON	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	220;"	d	line:220
+SPISTAT::SPI2STAT	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	210;"	d	line:210
+SPISTAT_RBF::SPI2STATbits.SPIRBF	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	214;"	d	line:214
+SPISTATbits::SPI2STATbits	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	218;"	d	line:218
+SPI_FREQUENCY::(20000000)	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	189;"	d	line:189
+SPI_START_CFG_1::(PRI_PRESCAL_64_1|SEC_PRESCAL_	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	185;"	d	line:185
+SPI_START_CFG_2::(SPI_ENABLE)	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	186;"	d	line:186
+STEP::5	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	35;"	d	line:35	file:
+SYS_CFG_PCACHE	C:\C32\MikroEMMB 256\MMB\MMB.C	33;"	l	line:33
+SetFont	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1457;"	f	line:1457	signature:(void *font)
+SplitTrig	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	120;"	f	line:120	signature:( int vA, int vB, int vC)
+TRIS_XNEG::_TRISB11	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	102;"	d	line:102
+TRIS_XPOS::_TRISB13	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	103;"	d	line:103
+TRIS_YNEG::_TRISB10	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	109;"	d	line:109
+TRIS_YPOS::_TRISB12	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	110;"	d	line:110
+TimerX	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	28;"	v	line:28
+USE_16BIT_PMP	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	57;"	d	line:57
+USE_FONT_FLASH::	C:\C32\MikroEMMB 256\Cubes Fill\GraphicsConfig.h	81;"	d	line:81
+USE_PRIMITIVE_BEVEL	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	43;"	d	line:43	file:
+USE_SD_INTERFACE_WITH_SPI	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	179;"	d	line:179
+V	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	25;"	v	line:25	file:
+VRES::200	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	10;"	d	line:10
+_GRAPHICSCONFIG_H	C:\C32\MikroEMMB 256\Cubes Fill\GraphicsConfig.h	12;"	d	line:12
+_MIKROE_MMB	C:\C32\MikroEMMB 256\MMB\MMB.h	12;"	d	line:12
+__HARDWARE_PROFILE_H	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	12;"	d	line:12
+_clipmx	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	175;"	l	line:175
+_clipmy	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	175;"	l	line:175
+_clipx	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	175;"	l	line:175
+_clipy	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	175;"	l	line:175
+_cursorX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	66;"	v	line:66
+_cursorY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	69;"	v	line:69
+_font	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	72;"	v	line:72
+_fontFirstChar	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	79;"	v	line:79
+_fontHeight	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	83;"	v	line:83
+_fontLastChar	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	80;"	v	line:80
+_fontOrientation	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	63;"	v	line:63
+_general_exception_handler	C:\C32\MikroEMMB 256\MMB\MMB.C	21;"	f	line:21	signature:( unsigned c, unsigned s)
+_lineThickness	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	60;"	v	line:60
+_lineType	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	57;"	v	line:57
+_palette	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	75;"	v	line:75
+a	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	265;"	l	line:265
+a	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	356;"	v	line:356
+a0	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	111;"	l	line:111
+a1	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	111;"	l	line:111
+b	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	265;"	l	line:265
+b	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	356;"	v	line:356
+b0	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	111;"	l	line:111
+b1	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	111;"	l	line:111
+bmp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2445;"	l	line:2445
+bmp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2546;"	l	line:2546
+bmp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2642;"	l	line:2642
+bmp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2719;"	l	line:2719
+byteWidth	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2449;"	l	line:2449
+byteWidth	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2550;"	l	line:2550
+byteWidth	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2722;"	l	line:2722
+c	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	293;"	l	line:293
+c	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	265;"	l	line:265
+c	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	300;"	l	line:300
+c	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	366;"	l	line:366
+c	C:\C32\MikroEMMB 256\MMB\MMB.C	125;"	l	line:125
+c	C:\C32\MikroEMMB 256\MMB\MMB.C	145;"	l	line:145
+c1	C:\C32\MikroEMMB 256\MMB\MMB.C	99;"	l	line:99
+c2	C:\C32\MikroEMMB 256\MMB\MMB.C	100;"	l	line:100
+c3	C:\C32\MikroEMMB 256\MMB\MMB.C	101;"	l	line:101
+c4	C:\C32\MikroEMMB 256\MMB\MMB.C	102;"	l	line:102
+ch	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1512;"	l	line:1512
+ch	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1774;"	l	line:1774
+chImage	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1608;"	l	line:1608
+chTable	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1607;"	l	line:1607
+chTable	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1768;"	l	line:1768
+chWidth	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1612;"	l	line:1612
+clipmx	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	40;"	v	line:40	file:
+clipmy	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	40;"	v	line:40	file:
+clipx	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	40;"	v	line:40	file:
+clipy	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	40;"	v	line:40	file:
+clrFrame::fFrame=0	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	27;"	d	line:27
+colorDepth	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2004;"	l	line:2004
+colorTemp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2005;"	l	line:2005
+copyV	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	44;"	f	line:44	signature:( void)
+copyV	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	18;"	p	line:18	signature:( void)
+counter	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1295;"	l	line:1295
+counter	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2213;"	l	line:2213
+counter	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2302;"	l	line:2302
+createObject	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	295;"	f	line:295	signature:( int m, char *s, int w)
+cube	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	262;"	f	line:262	signature:( short x, short y, short z, short s)
+cx	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	31;"	v	line:31
+cy	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	31;"	v	line:31
+d	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	265;"	l	line:265
+deltaX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	734;"	l	line:734
+deltaY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	734;"	l	line:734
+deltax	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	172;"	l	line:172
+deltay	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	172;"	l	line:172
+deltay	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	73;"	l	line:73
+drawObject	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	219;"	f	line:219	signature:( short obj)
+drawPolygons	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	188;"	f	line:188	signature:( short p)
+drawPolygons	C:\C32\MikroEMMB 256\Cubes Fill\geometry3.h	23;"	p	line:23	signature:( short)
+dxa	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	73;"	l	line:73
+dxb	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	73;"	l	line:73
+e	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	265;"	l	line:265
+err	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1073;"	l	line:1073
+err1	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	185;"	l	line:185
+err2	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	185;"	l	line:185
+error	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	172;"	l	line:172
+error	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	735;"	l	line:735
+error	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	946;"	l	line:946
+ex	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1296;"	l	line:1296
+exit	C:\C32\MikroEMMB 256\MMB\MMB.C	15;"	f	line:15	signature:( int e)
+ey	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1296;"	l	line:1296
+f	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	265;"	l	line:265
+fFrame	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	27;"	v	line:27
+fcos	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	50;"	f	line:50	signature:( short alpha)
+fcos	C:\C32\MikroEMMB 256\Cubes Fill\geometry3.h	19;"	p	line:19	signature:( short)
+flashAddress	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2003;"	l	line:2003
+flashAddress	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2115;"	l	line:2115
+flashAddress	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2205;"	l	line:2205
+flashAddress	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2294;"	l	line:2294
+flashAddress	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2374;"	l	line:2374
+fontFirstChar	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1775;"	l	line:1775
+fontLastChar	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1776;"	l	line:1776
+fpb	C:\C32\MikroEMMB 256\MMB\MMB.C	98;"	l	line:98
+fsin	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	24;"	f	line:24	signature:( short alpha)
+fsin	C:\C32\MikroEMMB 256\Cubes Fill\geometry3.h	18;"	p	line:18	signature:( short)
+ftan	C:\C32\MikroEMMB 256\Cubes Fill\geometry3.h	20;"	p	line:20	signature:( short)
+g	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	265;"	l	line:265
+g	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	356;"	v	line:356
+gClearScreen	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	96;"	f	line:96	signature:( void)
+gClearScreen	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	17;"	p	line:17	signature:( void)
+gColor	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	30;"	v	line:30
+gHLine	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	127;"	f	line:127	signature:(short x0, short x1, short y)
+gLine	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	167;"	f	line:167	signature:(int x0, int y0, int x1, int y1)
+gLineV	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	22;"	p	line:22	signature:( int x0, int y0, int x1, int y1)
+gPlot	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	106;"	f	line:106	signature:( int x, int y)
+gPlotV	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	20;"	p	line:20	signature:( int x, int y)
+getColor::(gColor)	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	25;"	d	line:25
+getFrame::(fFrame)	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	26;"	d	line:26
+getTimerX::TimerX	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	29;"	d	line:29
+getcSPI::getcSPI2	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	235;"	d	line:235
+glyphOffset	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1610;"	l	line:1610
+h	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	265;"	l	line:265
+header	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1462;"	l	line:1462
+header	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1769;"	l	line:1769
+height	C:\C32\MikroEMMB 256\MMB\MMB.C	319;"	l	line:319
+height	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1870;"	l	line:1870
+height	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1956;"	l	line:1956
+i	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	26;"	l	line:26
+i	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	52;"	l	line:52
+i	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	64;"	l	line:64
+i	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	129;"	l	line:129
+i	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	293;"	l	line:293
+i	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	221;"	l	line:221
+i	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	235;"	l	line:235
+i	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	302;"	l	line:302
+i	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	363;"	l	line:363
+i	C:\C32\MikroEMMB 256\MMB\MMB.C	144;"	l	line:144
+imageSize	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1609;"	l	line:1609
+initVideo	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	70;"	f	line:70	signature:( void)
+initVideo	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	15;"	p	line:15	signature:( void)
+initWorld	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	79;"	f	line:79	signature:( short alpha, short beta, short gamma, int x0, int y0, int z0)
+initWorld	C:\C32\MikroEMMB 256\Cubes Fill\geometry3.h	22;"	p	line:22	signature:( short, short, short, int, int, int )
+j	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	64;"	l	line:64
+j	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	293;"	l	line:293
+j	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	302;"	l	line:302
+j	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	363;"	l	line:363
+j	C:\C32\MikroEMMB 256\MMB\MMB.C	144;"	l	line:144
+k	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	65;"	l	line:65
+k	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	357;"	v	line:357
+lineBuffer	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2447;"	l	line:2447
+lineBuffer	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2548;"	l	line:2548
+lineBuffer	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2644;"	l	line:2644
+lineBuffer	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2720;"	l	line:2720
+m	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	60;"	v	line:60
+main	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	360;"	f	line:360	signature:( void)
+mask	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1614;"	l	line:1614
+mask	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2123;"	l	line:2123
+mask	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2452;"	l	line:2452
+matrixProd	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	62;"	f	line:62	signature:( point pi, point po)
+memOffset	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2444;"	l	line:2444
+memOffset	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2545;"	l	line:2545
+memOffset	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2641;"	l	line:2641
+memOffset	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2718;"	l	line:2718
+n	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	303;"	l	line:303
+n	C:\C32\MikroEMMB 256\Cubes Fill\geometry3.h	11;"	m	line:11
+newPoint	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	232;"	f	line:232	signature:( short x, short y, short z)
+newPoly	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	254;"	f	line:254	signature:( short a, short b, short c, short d)
+newVertex	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	58;"	f	line:58	signature:( int x, int y)
+objc	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	50;"	v	line:50
+object	C:\C32\MikroEMMB 256\Cubes Fill\geometry3.h	11;"	t	line:11
+olist	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	49;"	v	line:49
+p	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	108;"	l	line:108
+p	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	130;"	l	line:130
+p	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	294;"	l	line:294
+p	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	236;"	l	line:236
+p	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	256;"	l	line:256
+p	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	265;"	l	line:265
+p	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	301;"	l	line:301
+p	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	60;"	l	line:60
+p	C:\C32\MikroEMMB 256\Cubes Fill\geometry3.h	11;"	m	line:11
+pChImage	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1604;"	l	line:1604
+pChTable	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1603;"	l	line:1603
+pChTable	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1765;"	l	line:1765
+pData	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2448;"	l	line:2448
+pData	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2549;"	l	line:2549
+pData	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2645;"	l	line:2645
+pData	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2721;"	l	line:2721
+pHeader	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1459;"	l	line:1459
+pHeader	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1766;"	l	line:1766
+pV	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	47;"	l	line:47
+pa	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	190;"	l	line:190
+pallete	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2122;"	l	line:2122
+pallete	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2212;"	l	line:2212
+pallete	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2301;"	l	line:2301
+pallete	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2446;"	l	line:2446
+pallete	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2547;"	l	line:2547
+pallete	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2643;"	l	line:2643
+pb	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	190;"	l	line:190
+pc	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	190;"	l	line:190
+pc	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	40;"	v	line:40
+pd	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	320;"	l	line:320
+pd	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	190;"	l	line:190
+perspective	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	101;"	f	line:101	signature:( point p)
+pf	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	295;"	l	line:295
+plist	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	39;"	v	line:39
+po	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	303;"	l	line:303
+point	C:\C32\MikroEMMB 256\Cubes Fill\geometry3.h	9;"	t	line:9
+poly	C:\C32\MikroEMMB 256\Cubes Fill\geometry3.h	10;"	t	line:10
+ps	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	321;"	l	line:321
+putcSPI::putcSPI2	C:\C32\MikroEMMB 256\Cubes Fill\HardwareProfile.h	234;"	d	line:234
+putcV	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	290;"	f	line:290	signature:( int a)
+putcV	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	44;"	p	line:44	signature:( int a)
+putsV	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	356;"	f	line:356	signature:( char *s)
+putsV	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	46;"	p	line:46	signature:( char *s)
+pyc	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	45;"	v	line:45
+pylist	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	44;"	v	line:44
+r	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	357;"	v	line:357
+r	C:\C32\MikroEMMB 256\MMB\MMB.C	144;"	l	line:144
+roll	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	365;"	l	line:365
+s	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	366;"	l	line:366
+setColor::(x)gColor=(x)	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	24;"	d	line:24
+setTimerX::(x)TimerX=(x)	C:\C32\MikroEMMB 256\Cubes Fill\graphic.h	28;"	d	line:28
+sizeX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2118;"	l	line:2118
+sizeX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2207;"	l	line:2207
+sizeX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2296;"	l	line:2296
+sizeX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2376;"	l	line:2376
+sizeX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2453;"	l	line:2453
+sizeX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2553;"	l	line:2553
+sizeX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2648;"	l	line:2648
+sizeX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2725;"	l	line:2725
+sizeY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2118;"	l	line:2118
+sizeY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2207;"	l	line:2207
+sizeY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2296;"	l	line:2296
+sizeY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2376;"	l	line:2376
+sizeY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2453;"	l	line:2453
+sizeY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2553;"	l	line:2553
+sizeY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2648;"	l	line:2648
+sizeY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2725;"	l	line:2725
+start	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	364;"	l	line:364
+steep	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	170;"	l	line:170
+steep	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	737;"	l	line:737
+stepErrorGE	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	735;"	l	line:735
+stepErrorLT	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	735;"	l	line:735
+stepX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	736;"	l	line:736
+stepY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	736;"	l	line:736
+stretchX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2121;"	l	line:2121
+stretchX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2211;"	l	line:2211
+stretchX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2300;"	l	line:2300
+stretchX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2380;"	l	line:2380
+stretchX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2456;"	l	line:2456
+stretchX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2556;"	l	line:2556
+stretchX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2651;"	l	line:2651
+stretchX	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2728;"	l	line:2728
+stretchY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2121;"	l	line:2121
+stretchY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2211;"	l	line:2211
+stretchY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2300;"	l	line:2300
+stretchY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2380;"	l	line:2380
+stretchY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2456;"	l	line:2456
+stretchY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2556;"	l	line:2556
+stretchY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2651;"	l	line:2651
+stretchY	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2728;"	l	line:2728
+style	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	739;"	l	line:739
+style	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	946;"	l	line:946
+sx	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1296;"	l	line:1296
+sy	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1296;"	l	line:1296
+t	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	171;"	l	line:171
+t	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	362;"	l	line:362
+temp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1075;"	l	line:1075
+temp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1614;"	l	line:1614
+temp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	188;"	l	line:188
+temp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2117;"	l	line:2117
+temp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2210;"	l	line:2210
+temp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2299;"	l	line:2299
+temp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2379;"	l	line:2379
+temp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2451;"	l	line:2451
+temp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2552;"	l	line:2552
+temp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2647;"	l	line:2647
+temp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2724;"	l	line:2724
+temp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	738;"	l	line:738
+temp	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	947;"	l	line:947
+tempFlashAddress	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2116;"	l	line:2116
+tempFlashAddress	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2206;"	l	line:2206
+tempFlashAddress	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2295;"	l	line:2295
+tempFlashAddress	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2375;"	l	line:2375
+textWidth	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1771;"	l	line:1771
+tmatrix	C:\C32\MikroEMMB 256\Cubes Fill\geometry3.h	15;"	t	line:15
+tsin	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	14;"	v	line:14
+type	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	739;"	l	line:739
+type	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	946;"	l	line:946
+ui	C:\C32\MikroEMMB 256\MMB\MMB.C	86;"	l	line:86
+v	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	363;"	l	line:363
+va	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	191;"	l	line:191
+vb	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	191;"	l	line:191
+vc	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	191;"	l	line:191
+vd	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	191;"	l	line:191
+vectorZProduct	C:\C32\MikroEMMB 256\Cubes Fill\Geometry3.c	109;"	f	line:109	signature:( point c, point d, point e)
+vertex	C:\C32\MikroEMMB 256\Cubes Fill\geometry3.h	12;"	t	line:12
+vlist	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	54;"	v	line:54
+vxc	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	55;"	v	line:55
+w	C:\C32\MikroEMMB 256\MMB\MMB.C	188;"	l	line:188
+w	C:\C32\MikroEMMB 256\MMB\MMB.C	232;"	l	line:232
+w	C:\C32\MikroEMMB 256\MMB\MMB.C	271;"	l	line:271
+w	C:\C32\MikroEMMB 256\MMB\MMB.C	294;"	l	line:294
+wc	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	302;"	l	line:302
+width	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1915;"	l	line:1915
+x	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	173;"	l	line:173
+x	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	302;"	l	line:302
+x	C:\C32\MikroEMMB 256\Cubes Fill\geometry3.h	12;"	m	line:12
+x	C:\C32\MikroEMMB 256\MMB\MMB.C	319;"	l	line:319
+x	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1394;"	l	line:1394
+x	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1613;"	l	line:1613
+x	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2119;"	l	line:2119
+x	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2208;"	l	line:2208
+x	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2297;"	l	line:2297
+x	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2377;"	l	line:2377
+x	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2454;"	l	line:2454
+x	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2554;"	l	line:2554
+x	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2649;"	l	line:2649
+x	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2726;"	l	line:2726
+x0	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	302;"	l	line:302
+x0	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	355;"	v	line:355
+x1	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	184;"	l	line:184
+x1Cur	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	186;"	l	line:186
+x2	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	184;"	l	line:184
+x2Cur	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	187;"	l	line:187
+xCnt	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1613;"	l	line:1613
+xCur	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1074;"	l	line:1074
+xLimit	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	946;"	l	line:946
+xPos	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1073;"	l	line:1073
+xPos	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	946;"	l	line:946
+xa	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	129;"	l	line:129
+xa	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	73;"	l	line:73
+xb	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	129;"	l	line:129
+xb	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	73;"	l	line:73
+xc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2120;"	l	line:2120
+xc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2209;"	l	line:2209
+xc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2298;"	l	line:2298
+xc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2378;"	l	line:2378
+xc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2455;"	l	line:2455
+xc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2555;"	l	line:2555
+xc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2650;"	l	line:2650
+xc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2727;"	l	line:2727
+y	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	173;"	l	line:173
+y	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	46;"	l	line:46
+y	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	137;"	l	line:137
+y	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	302;"	l	line:302
+y	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	73;"	l	line:73
+y	C:\C32\MikroEMMB 256\Cubes Fill\geometry3.h	12;"	m	line:12
+y	C:\C32\MikroEMMB 256\MMB\MMB.C	319;"	l	line:319
+y	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1394;"	l	line:1394
+y	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1613;"	l	line:1613
+y	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2119;"	l	line:2119
+y	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2208;"	l	line:2208
+y	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2297;"	l	line:2297
+y	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2377;"	l	line:2377
+y	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2454;"	l	line:2454
+y	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2554;"	l	line:2554
+y	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2649;"	l	line:2649
+y	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2726;"	l	line:2726
+y0	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	355;"	v	line:355
+y1	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	184;"	l	line:184
+y1Cur	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	186;"	l	line:186
+y1Limit	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	183;"	l	line:183
+y1New	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	186;"	l	line:186
+y2	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	184;"	l	line:184
+y2Cur	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	187;"	l	line:187
+y2Limit	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	183;"	l	line:183
+y2New	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	187;"	l	line:187
+yCnt	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1613;"	l	line:1613
+yCur	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1074;"	l	line:1074
+yLimit	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1073;"	l	line:1073
+yNew	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1074;"	l	line:1074
+yPos	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	1073;"	l	line:1073
+yPos	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	946;"	l	line:946
+yb	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	73;"	l	line:73
+yc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2120;"	l	line:2120
+yc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2209;"	l	line:2209
+yc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2298;"	l	line:2298
+yc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2378;"	l	line:2378
+yc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2455;"	l	line:2455
+yc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2555;"	l	line:2555
+yc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2650;"	l	line:2650
+yc	C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c	2727;"	l	line:2727
+ystep	C:\C32\MikroEMMB 256\Cubes Fill\Graphic.c	174;"	l	line:174
+yt	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	73;"	l	line:73
+z	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	191;"	l	line:191
+z0	C:\C32\MikroEMMB 256\Cubes Fill\cubes.c	355;"	v	line:355

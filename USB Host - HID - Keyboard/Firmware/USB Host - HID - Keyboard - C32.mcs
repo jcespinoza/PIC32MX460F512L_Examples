@@ -1,0 +1,162 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\USB Host - HID - Keyboard\Firmware\obj\usb_config.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\..\MMB;..\..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|usb_config.c|keyboard_demo.c|..\..\Microchip\USB\usb_host.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminal.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\Primitive.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\DisplayDriver.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminalFont.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -O1
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\USB Host - HID - Keyboard\Firmware\obj\keyboard_demo.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\..\MMB;..\..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|usb_config.c|keyboard_demo.c|..\..\Microchip\USB\usb_host.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminal.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\Primitive.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\DisplayDriver.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminalFont.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -O1
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\USB Host - HID - Keyboard\Firmware\obj\usb_host.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\..\MMB;..\..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|usb_config.c|keyboard_demo.c|..\..\Microchip\USB\usb_host.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminal.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\Primitive.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\DisplayDriver.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminalFont.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -O1
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\USB Host - HID - Keyboard\Firmware\obj\usb_host_hid_parser.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\..\MMB;..\..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|usb_config.c|keyboard_demo.c|..\..\Microchip\USB\usb_host.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminal.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\Primitive.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\DisplayDriver.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminalFont.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -O1
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\USB Host - HID - Keyboard\Firmware\obj\usb_host_hid.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\..\MMB;..\..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|usb_config.c|keyboard_demo.c|..\..\Microchip\USB\usb_host.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminal.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\Primitive.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\DisplayDriver.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminalFont.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -O1
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\USB Host - HID - Keyboard\Firmware\obj\LCDTerminal.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\..\MMB;..\..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|usb_config.c|keyboard_demo.c|..\..\Microchip\USB\usb_host.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminal.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\Primitive.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\DisplayDriver.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminalFont.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -O1
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\USB Host - HID - Keyboard\Firmware\obj\MMB.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\..\MMB;..\..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|usb_config.c|keyboard_demo.c|..\..\Microchip\USB\usb_host.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminal.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\Primitive.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\DisplayDriver.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminalFont.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -O1
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\USB Host - HID - Keyboard\Firmware\obj\Primitive.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\..\MMB;..\..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|usb_config.c|keyboard_demo.c|..\..\Microchip\USB\usb_host.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminal.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\Primitive.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\DisplayDriver.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminalFont.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -O1
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\USB Host - HID - Keyboard\Firmware\obj\DisplayDriver.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\..\MMB;..\..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|usb_config.c|keyboard_demo.c|..\..\Microchip\USB\usb_host.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminal.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\Primitive.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\DisplayDriver.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminalFont.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -O1
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\USB Host - HID - Keyboard\Firmware\obj\LCDTerminalFont.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\..\MMB;..\..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|usb_config.c|keyboard_demo.c|..\..\Microchip\USB\usb_host.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminal.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\Primitive.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\DisplayDriver.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminalFont.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -O1
+TraceCmdString=
+DebugOptions=
+[File010]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\USB Host - HID - Keyboard\Firmware\bin\USB Host - HID - Keyboard - C32.elf
+Folder=Output
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-ld.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\..\MMB;..\..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|usb_config.c|keyboard_demo.c|..\..\Microchip\USB\usb_host.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminal.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\Primitive.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\DisplayDriver.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminalFont.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=--defsym=_min_heap_size=8192 -Map="$(BINDIR_)$(TARGETBASE).map" -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=
+[File011]
+Location=I:\BAckup 122009\Desktop\MMB32 Examples v1.00\USB Host - HID - Keyboard\Firmware\bin\USB Host - HID - Keyboard - C32.hex
+Folder=Output
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=D:\Electro\Microchip\MPLAB C32\bin\pic32-ld.exe
+PPAD=$(BINDIR)|bin||$(TMPDIR)|obj||$(AINDIR)||$(INCDIR)|.;..\..\MMB;..\..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|usb_config.c|keyboard_demo.c|..\..\Microchip\USB\usb_host.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid_parser.c|..\..\Microchip\USB\HID Host Driver\usb_host_hid.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminal.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\MMB.C|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\Primitive.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\Microchip\Graphics\DisplayDriver.c|I:\BAckup 122009\Desktop\MMB32 Examples v1.00\MMB\LCDTerminalFont.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=--defsym=_min_heap_size=8192 -Map="$(BINDIR_)$(TARGETBASE).map" -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{430F471F-7ECB-4852-A80D-DEF9A5C8E751}=D:\Electro\Microchip\MPLAB C32\bin\pic32-gcc.exe
+tool_loc{C68E5105-1196-4333-A0BF-3DC57271E614}=D:\Electro\Microchip\MPLAB C32\bin\pic32-ld.exe
