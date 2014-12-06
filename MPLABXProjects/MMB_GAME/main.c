@@ -137,14 +137,6 @@ int main(void)
     SetColor(BRIGHTRED);
     LCDPutString("Welcome to PACMAN GAME");
 
-    LCDSetXY(1, 5);
-    LCDPutString("Width: ");
-    LCDWriteNumber(pacman.width);
-    
-    LCDSetXY(1, 6);
-    LCDPutString("Height: ");
-    LCDWriteNumber(pacman.height);
-
     SetColor(WHITE);
     LCDSetXY(1, 7);
     LCDPutString("(move joystick to start)");
